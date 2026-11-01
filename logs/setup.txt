@@ -1,0 +1,234 @@
+key present: True, length 43, has surrounding whitespace: False
+
+===== account/organizations =====
+{
+ "data": {
+  "account": {
+   "organizations": [
+    {
+     "id": "6ae79c139c822bee3918c4fc",
+     "name": "My organization"
+    }
+   ]
+  }
+ }
+}
+
+===== channels 6ae79c139c822bee3918c4fc =====
+{
+ "data": {
+  "channels": [
+   {
+    "id": "6ae79ccee29c69a1712cb9d9",
+    "name": "schweizernews",
+    "displayName": "schweizernews",
+    "service": "tiktok",
+    "isQueuePaused": false
+   },
+   {
+    "id": "6ae79cb8e29c69a1712cb8ad",
+    "name": "Schweizer News",
+    "displayName": "Schweizer News",
+    "service": "youtube",
+    "isQueuePaused": false
+   },
+   {
+    "id": "6ae79c9ae29c69a1712cb708",
+    "name": "schweizernews",
+    "displayName": "schweizernews",
+    "service": "instagram",
+    "isQueuePaused": false
+   }
+  ]
+ }
+}
+
+INPUT CreatePostInput:
+   aiAssisted: Boolean
+   assets: NON_NULL / LIST / NON_NULL
+   channelId: NON_NULL / ChannelId
+   draftId: DraftId
+   dueAt: DateTime
+   ideaId: IdeaId
+   metadata: PostInputMetaData
+   mode: NON_NULL / ShareMode
+   needsApproval: NON_NULL / Boolean
+   saveToDraft: Boolean
+   schedulingType: NON_NULL / SchedulingType
+   source: String
+   tagIds: LIST / NON_NULL / TagId
+   text: String
+
+INPUT PostInputMetaData:
+   bluesky: BlueskyPostMetadataInput
+   facebook: FacebookPostMetadataInput
+   google: GoogleBusinessPostMetadataInput
+   instagram: InstagramPostMetadataInput
+   linkedin: LinkedInPostMetadataInput
+   mastodon: MastodonPostMetadataInput
+   pinterest: PinterestPostMetadataInput
+   substack: SubstackPostMetadataInput
+   threads: ThreadsPostMetadataInput
+   tiktok: TikTokPostMetadataInput
+   twitter: TwitterPostMetadataInput
+   youtube: YoutubePostMetadataInput
+
+ENUM ShareMode: ['addToQueue', 'customScheduled', 'shareNext', 'shareNow']
+
+ENUM SchedulingType: ['automatic', 'notification']
+
+INPUT BlueskyPostMetadataInput:
+   linkAttachment: LinkAttachmentInput
+   thread: LIST / NON_NULL / ThreadedPostInput
+
+INPUT FacebookPostMetadataInput:
+   annotations: LIST / NON_NULL / AnnotationInputFacebook
+   firstComment: String
+   linkAttachment: LinkAttachmentInput
+   type: NON_NULL / PostTypeFacebook
+
+INPUT GoogleBusinessPostMetadataInput:
+   detailsEvent: GoogleBusinessEventMetaDataInput
+   detailsOffer: GoogleBusinessOfferMetaDataInput
+   detailsWhatsNew: GoogleBusinessWhatsNewMetaDataInput
+   title: String
+   type: NON_NULL / PostTypeGoogleBusiness
+
+INPUT InstagramPostMetadataInput:
+   firstComment: String
+   geolocation: InstagramGeolocationInput
+   isAiGenerated: Boolean
+   link: String
+   shouldShareToFeed: NON_NULL / Boolean
+   stickerFields: InstagramStickerFieldsInput
+   type: NON_NULL / PostType
+
+INPUT LinkedInPostMetadataInput:
+   annotations: LIST / NON_NULL / AnnotationInputLinkedIn
+   firstComment: String
+   linkAttachment: LinkAttachmentInput
+
+INPUT MastodonPostMetadataInput:
+   spoilerText: String
+   thread: LIST / NON_NULL / ThreadedPostInput
+
+INPUT PinterestPostMetadataInput:
+   boardServiceId: String
+   title: String
+   url: String
+
+INPUT SubstackPostMetadataInput:
+   linkAttachment: LinkAttachmentInput
+
+INPUT ThreadsPostMetadataInput:
+   linkAttachment: LinkAttachmentInput
+   locationId: String
+   locationName: String
+   thread: LIST / NON_NULL / ThreadedPostInput
+   topic: String
+   type: PostType
+
+INPUT TikTokPostMetadataInput:
+   isAiGenerated: Boolean
+   title: String
+
+INPUT TwitterPostMetadataInput:
+   isAiGenerated: Boolean
+   retweet: RetweetMetadataInput
+   thread: LIST / NON_NULL / ThreadedPostInput
+
+INPUT YoutubePostMetadataInput:
+   categoryId: String
+   embeddable: Boolean
+   isAiGenerated: Boolean
+   license: YoutubeLicense
+   madeForKids: Boolean
+   notifySubscribers: Boolean
+   privacy: YoutubePrivacy
+   title: String
+
+INPUT LinkAttachmentInput:
+   description: String
+   thumbnail: LinkAttachmentThumbnailInput
+   title: String
+   url: NON_NULL / String
+
+INPUT ThreadedPostInput:
+   assets: NON_NULL / LIST / NON_NULL
+   metadata: ThreadItemMetadataInput
+   text: String
+
+INPUT AnnotationInputFacebook:
+   content: NON_NULL / String
+   indices: NON_NULL / LIST / NON_NULL
+   text: NON_NULL / String
+   url: NON_NULL / String
+
+ENUM PostTypeFacebook: ['post', 'reel', 'story']
+
+INPUT GoogleBusinessEventMetaDataInput:
+   button: GoogleBusinessPostActionType
+   endDate: DateTime
+   isFullDayEvent: NON_NULL / Boolean
+   link: String
+   startDate: DateTime
+   title: String
+
+INPUT GoogleBusinessOfferMetaDataInput:
+   code: String
+   endDate: DateTime
+   link: String
+   startDate: DateTime
+   terms: String
+   title: String
+
+INPUT GoogleBusinessWhatsNewMetaDataInput:
+   button: GoogleBusinessPostActionType
+   link: String
+
+ENUM PostTypeGoogleBusiness: ['event', 'offer', 'whats_new']
+
+INPUT InstagramGeolocationInput:
+   id: String
+   text: String
+
+INPUT InstagramStickerFieldsInput:
+   music: String
+   other: String
+   products: String
+   text: String
+   topics: String
+
+ENUM PostType: ['carousel', 'event', 'ghost_post', 'offer', 'post', 'reel', 'short', 'story', 'thread', 'whats_new']
+
+INPUT AnnotationInputLinkedIn:
+   id: NON_NULL / String
+   entity: NON_NULL / String
+   length: NON_NULL / Int
+   link: NON_NULL / String
+   localizedName: NON_NULL / String
+   start: NON_NULL / Int
+   vanityName: NON_NULL / String
+
+INPUT RetweetMetadataInput:
+   id: NON_NULL / String
+   comment: String
+
+ENUM YoutubeLicense: ['creativeCommon', 'youtube']
+
+ENUM YoutubePrivacy: ['private', 'public', 'unlisted']
+
+INPUT LinkAttachmentThumbnailInput:
+   url: NON_NULL / String
+
+INPUT ThreadItemMetadataInput:
+   bluesky: ThreadItemBlueskyMetadataInput
+   threads: ThreadItemThreadsMetadataInput
+
+ENUM GoogleBusinessPostActionType: ['book', 'call', 'learn_more', 'none', 'order', 'shop', 'signup']
+
+INPUT ThreadItemBlueskyMetadataInput:
+   linkAttachment: LinkAttachmentInput
+
+INPUT ThreadItemThreadsMetadataInput:
+   linkAttachment: LinkAttachmentInput
