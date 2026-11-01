@@ -1,0 +1,21 @@
+{
+ "date": "2026-11-02", "edition": "morgen",
+ "title": "Krawallnacht, Crans-Montana, Swiss-Preise: der Überblick",
+ "caption": "Test",
+ "hashtags": ["schweiz", "news"],
+ "scenes": [
+  {"type": "recap", "title": "Das Wichtigste seit gestern",
+   "items": [
+     {"label": "Zürich und Basel", "text": "Krawalle nach unbewilligten Demos"},
+     {"label": "Crans-Montana", "text": "Anwalt fordert Zwangs|verwaltung der Gemeinde"},
+     {"label": "Swiss", "text": "Tickets werden wegen Kerosin teurer"}
+   ],
+   "vo": "Das Wichtigste seit gestern. In Zürich und Basel kam es nach unbewilligten Demonstrationen zu Krawallen. In Crans-Montana fordert ein Opferanwalt eine teilweise Zwangsverwaltung der Gemeinde. Und die Swiss will ihre Ticketpreise wegen der hohen Kerosinkosten erhöhen."},
+  {"type": "headline", "label": "Gesellschaft", "headline": "Krawall|nacht in Zürich und Basel", "source": "Quelle: Stadtpolizei Zürich, SRF",
+   "vo": "Zuerst nach Zürich. An der Langstrasse zündeten mehrere hundert Personen Barrikaden und ein Auto an."},
+  {"type": "place", "label": "Wallis", "place": "Crans-Montana", "lat": 46.311, "lon": 7.481, "line": "Kanton Wallis · Aufsichtsbeschwerde", "source": "Quelle: imTicker",
+   "vo": "In Crans-Montana verlangt Anwalt Sébastien Fanti, dass der Kanton die Finanzen der Gemeinde teilweise übernimmt."},
+  {"type": "number", "label": "Wirtschaft", "number": "80", "unit": "%", "text": "des Kerosins sind dieses Jahr noch abgesichert", "source": "Quelle: Swiss",
+   "vo": "Die Swiss hat achtzig Prozent ihres Treibstoffs für dieses Jahr zu tieferen Preisen abgesichert. Anfang 2027 sinkt dieser Anteil auf rund die Hälfte."}
+ ]
+}

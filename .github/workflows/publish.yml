@@ -1,0 +1,40 @@
+name: publish
+on:
+  push:
+    branches: [main]
+    paths: ["videos/*.json"]
+  workflow_dispatch:
+    inputs:
+      job:
+        description: "Path to a videos/*.json file"
+        required: true
+permissions:
+  contents: write
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 2 }
+      - name: find new jobs
+        id: jobs
+        run: |
+          if [ -n "${{ github.event.inputs.job }}" ]; then J="${{ github.event.inputs.job }}";
+          else J=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- 'videos/*.json' | tr '\n' ' '); fi
+          echo "list=$J" >> "$GITHUB_OUTPUT"; echo "jobs: $J"
+      - name: create Buffer posts
+        if: steps.jobs.outputs.list != ''
+        run: python3 scripts/post.py ${{ steps.jobs.outputs.list }} > /tmp/post.txt 2>&1; echo "rc=$?" >> /tmp/post.txt
+        env:
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+          PYTHONPATH: scripts
+      - name: write result to bot-logs branch
+        if: steps.jobs.outputs.list != ''
+        run: |
+          NAME=$(basename $(echo ${{ steps.jobs.outputs.list }} | cut -d' ' -f1) .json)
+          git config user.name swiss-news-bot; git config user.email bot@users.noreply.github.com
+          git fetch origin bot-logs && git checkout -B bot-logs origin/bot-logs || git checkout --orphan bot-logs
+          git rm -rq --cached . 2>/dev/null; find . -mindepth 1 -maxdepth 1 ! -name .git ! -name logs -exec rm -rf {} +
+          mkdir -p logs; cp /tmp/post.txt logs/$NAME.txt
+          git add logs; git commit -qm "post log $NAME"; git push origin bot-logs
+          grep -q '"ok": true' /tmp/post.txt
