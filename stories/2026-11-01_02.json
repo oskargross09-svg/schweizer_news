@@ -1,0 +1,24 @@
+{
+ "date": "2026-11-01", "edition": "abend",
+ "say": {},
+ "scenes": [
+  {"type": "headline", "label": "Gesellschaft", "headline": "Krawall|nacht in Zürich und Basel", "source": "Quelle: Stadtpolizei Zürich, SRF",
+   "vo": "Krawallnacht in Zürich und Basel. In der Halloween-Nacht ist es bei unbewilligten Demonstrationen zu schweren Ausschreitungen gekommen."},
+  {"type": "photo", "image": "File:LangstrasseZH.jpg", "label": "Zürich", "position": "50% 50%",
+   "text": "Hunderte versammelten sich an der Langstrasse.",
+   "vo": "In Zürich versammelten sich am Samstag gegen halb elf mehrere hundert Personen an der Langstrasse. Linksextreme Gruppen hatten in sozialen Medien dazu aufgerufen."},
+  {"type": "statement", "source": "Quelle: Stadtpolizei Zürich",
+   "text": ["Barrikaden und ein Auto brannten.", "Ein Mob griff eine Patrouille an, die einem Teenager helfen wollte.", "Die Polizei setzte Wasserwerfer, Reizgas und Gummischrot ein."],
+   "vo": "Sie zündeten Barrikaden und ein Auto an und griffen die Polizei mit Feuerwerk, Steinen und Flaschen an. Eine Patrouille, die einem verletzten Teenager helfen wollte, musste sich zurückziehen. Die Polizei setzte Wasserwerfer, Reizgas und Gummischrot ein."},
+  {"type": "number", "label": "Zürich", "number": "2", "unit": "Festnahmen", "text": "Dazu sprach die Polizei 18 Wegweisungen aus", "source": "Quelle: Kantonspolizei Zürich",
+   "vo": "Die Kantonspolizei nahm zwei junge Männer fest, neunzehn und einundzwanzig Jahre alt. Achtzehn Personen wurden weggewiesen."},
+  {"type": "photo", "image": "File:Fontaine Parc St Johanns Platz - Bâle (CH-BS) - 2026-10-01 - 1.jpg", "label": "Basel",
+   "text": "Rund 150 Personen zogen durch die Innenstadt.",
+   "vo": "Auch in Basel zogen rund hundertfünfzig Personen durch die Innenstadt. Am Sankt Johanns-Platz brannten Barrikaden, Tram und Bus standen zeitweise still."},
+  {"type": "headline", "label": "Politik", "headline": "Parteien verurteilen die Gewalt", "source": "Quelle: SRF",
+   "vo": "Die Stadtzürcher Parteien verurteilen die Gewalt. Die SVP fordert mehr Polizei, die Grünen kritisieren, dass eine kleine Gruppe Jugendproteste missbrauche. Die Polizei ermittelt, die Höhe des Schadens ist noch offen."}
+ ],
+ "title": "Krawallnacht in Zürich und Basel: Was passiert ist",
+ "caption": "In der Halloween-Nacht ist es in Zürich und Basel bei unbewilligten Demonstrationen zu Ausschreitungen gekommen. An der Zürcher Langstrasse brannten Barrikaden und ein Auto, die Polizei setzte Wasserwerfer ein. Zwei Männer wurden festgenommen, die Ermittlungen laufen.",
+ "hashtags": ["schweiz", "news", "swissnews", "zürich", "basel"]
+}
