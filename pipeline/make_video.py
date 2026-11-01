@@ -153,7 +153,10 @@ def main(path, stills=False):
     # 2) photos
     for i, s in enumerate(scenes):
         if s["type"] == "photo":
-            if s["image"].startswith("File:"):
+            cache = f"{B}/img_{i}.json"
+            if s["image"].startswith("File:") and os.path.exists(cache) and json.load(open(cache)).get("title") == s["image"]:
+                meta = json.load(open(cache))  # already downloaded (Wikimedia rate-limits, so don't refetch)
+            elif s["image"].startswith("File:"):
                 meta = images.fetch(s["image"], f"{B}/img_{i}.jpg")
             else:  # local file (own photos); credit must be given in the story
                 subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", s["image"], "-vf", "scale=1600:-2", f"{B}/img_{i}.jpg"], check=True)
