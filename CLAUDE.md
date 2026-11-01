@@ -52,6 +52,7 @@ Szenentypen:
 - `photo`: `"image"`: `"File:….jpg"` von Wikimedia Commons, `"text"` (1 Satz, max. 3 Zeilen), `"label"`, optional `"position": "50% 30%"` (Bildausschnitt).
   Bildnachweis wird automatisch aus Commons übernommen. Bilder suchen:
   `python3 pipeline/images.py search "Langstrasse Zürich"` → Liste + `build/img-search/sheet.jpg` mit Nummern (mit Read ansehen).
+  Wikimedia drosselt Anfragen: höchstens ~4 Suchen pro Lauf; bei „429“ 60 s warten und einmal wiederholen, sonst ohne Foto weiter.
   **Regeln:** nur Treffer mit „OK“ (freie Lizenz). Orte, Gebäude, Landschaften, Fahrzeuge, Symbolbilder – **keine Fotos, auf denen
   Personen das Motiv sind**, keine Agenturfotos, keine Screenshots, nichts Grafisches. Das Bild muss zum Inhalt passen
   (z. B. Bundeshaus bei Bundesratsentscheid, Ort des Geschehens). Kein passendes freies Bild → Karte oder Zahl nehmen.

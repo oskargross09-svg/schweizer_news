@@ -8,14 +8,21 @@ Only licences in ALLOWED are accepted. Credit is shown in the frame ("Foto: … 
 import html, json, os, re, subprocess, sys, urllib.parse, urllib.request
 
 API = "https://commons.wikimedia.org/w/api.php"
-UA = "SwissNewsBot/1.0 (short-form news videos; contact via GitHub)"
+UA = "SwissNewsBot/1.0 (https://github.com/oskargross09-svg/schweizer_news; oskargross09@gmail.com)"
 ALLOWED = re.compile(r"^(CC0|Public domain|PD.*|CC BY(-SA)? [1-4]\.0.*|CC BY(-SA)? 2\.5.*|CC BY(-SA)? 3\.0.*)$", re.I)
 
 
-def get(url):
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=60) as r:
-        return r.read()
+def get(url, tries=5):
+    import time
+    for k in range(tries):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": UA})
+            with urllib.request.urlopen(req, timeout=60) as r:
+                return r.read()
+        except urllib.error.HTTPError as e:
+            if e.code not in (429, 503) or k == tries - 1:
+                raise
+            time.sleep(int(e.headers.get("Retry-After") or 0) or 5 * (k + 1))
 
 
 def api(**p):
@@ -28,7 +35,7 @@ def clean(s):
     return re.sub(r"\s+", " ", s)[:60]
 
 
-def info(titles, width=1600):
+def info(titles, width=1280):
     r = api(action="query", titles="|".join(titles), prop="imageinfo",
             iiprop="url|size|extmetadata|mime", iiurlwidth=width)
     out = []
@@ -39,7 +46,7 @@ def info(titles, width=1600):
         md = ii.get("extmetadata", {})
         lic = clean(md.get("LicenseShortName", {}).get("value"))
         out.append({"title": pg["title"], "w": ii["width"], "h": ii["height"], "mime": ii["mime"],
-                    "thumb": ii.get("thumburl", ii["url"]), "licence": lic,
+                    "thumb": ii.get("thumburl", ii["url"]).replace("//thumb.wikimedia.org/", "//upload.wikimedia.org/"), "licence": lic,
                     "author": clean(md.get("Artist", {}).get("value")) or "unbekannt",
                     "ok": bool(ALLOWED.match(lic)) and ii["mime"] in ("image/jpeg", "image/png")})
     return out
@@ -54,7 +61,7 @@ def search(q, n=12, out_dir="build/img-search"):
     titles = [h["title"] for h in r["query"]["search"]]
     if not titles:
         print("no results"); return []
-    res = info(titles, width=480)
+    res = info(titles, width=500)
     os.makedirs(out_dir, exist_ok=True)
     files = []
     for k, i in enumerate(res):
@@ -62,7 +69,7 @@ def search(q, n=12, out_dir="build/img-search"):
         print(f"[{k}] {flag}{i['title']}  {i['w']}x{i['h']}  {i['licence']}  {i['author']}")
         if i["ok"]:
             p = f"{out_dir}/{k}.jpg"
-            open(p, "wb").write(get(i["thumb"]))
+            open(p, "wb").write(get(i["thumb"])); __import__("time").sleep(1.5)
             files.append((k, p))
     if files:  # contact sheet with index numbers -> look at it with the Read tool
         ins = sum([["-i", p] for _, p in files], [])
