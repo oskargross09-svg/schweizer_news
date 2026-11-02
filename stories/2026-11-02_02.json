@@ -1,0 +1,23 @@
+{
+ "date": "2026-11-02", "edition": "abend",
+ "say": {"UKW": "U-K-W", "DAB": "D-A-B"},
+ "scenes": [
+  {"type": "headline", "label": "Gesellschaft", "headline": "SRG-Radios kehren auf UKW zurück", "source": "Quelle: SRG, Blick, 20 Minuten",
+   "vo": "Die Radios der SRG kehren auf UKW zurück. Ab Mitte November gehen die ersten Sender wieder in Betrieb, fast zwei Jahre nach der Abschaltung."},
+  {"type": "photo", "image": "File:Aerial view - Fernsehturm St. Chrischona5.jpg", "label": "Symbolbild", "position": "50% 30%",
+   "text": "Erste UKW-Sender laufen ab Mitte November wieder.",
+   "vo": "Zurück kommen die Hauptprogramme von SRF, RTS und RSI und die Kultursender. In der Deutschschweiz auch die Regionaljournale. Der Bund hat die nötige Konzession erteilt, sie ist jetzt rechtskräftig."},
+  {"type": "number", "label": "Abdeckung", "number": "80", "unit": "%", "text": "der Bevölkerung erreicht der erste Schritt", "source": "Quelle: SRG",
+   "vo": "Im ersten Schritt erreicht UKW wieder rund achtzig Prozent der Bevölkerung, sagt die SRG. Ob weitere Sender folgen, hängt von der Nutzung und vom Geld ab."},
+  {"type": "statement", "source": "Quelle: SRG, Parlament",
+   "text": ["Ende 2024 schaltete die SRG UKW ab.", "Ende 2025 verlängerte das Parlament UKW.", "Die SRG nennt UKW eine Übergangs|lösung."],
+   "vo": "Ende 2024 hatte die SRG ihre UKW-Sender abgeschaltet. Ende 2025 erlaubte das Parlament UKW auch über 2026 hinaus. Die SRG spricht nun von einer Übergangslösung bis zum Wechsel auf digitalen Empfang."},
+  {"type": "number", "label": "Kosten", "number": "6,5", "unit": "Mio. CHF", "text": "Mehrkosten pro Jahr, die die SRG anderswo sparen muss", "source": "Quelle: SRG, Blick",
+   "vo": "Das kostet rund sechseinhalb Millionen Franken pro Jahr. Die SRG muss das Geld wegen ihres Sparprogramms anderswo einsparen. Unsere Hörerinnen und Hörer stehen im Zentrum, sagt Generaldirektorin Susanne Wille."},
+  {"type": "number", "label": "Wie geht es weiter?", "number": "90", "unit": "%", "text": "der Radiominuten laufen laut SRG schon digital", "source": "Quelle: SRG, 20 Minuten",
+   "vo": "Wer über DAB plus, App oder Internet hört, merkt nichts. Das sind laut SRG fast neun von zehn Radiominuten. UKW soll allen anderen mehr Zeit für den Wechsel geben."}
+ ],
+ "title": "SRG-Radios kehren ab Mitte November auf UKW zurück: Was das bedeutet",
+ "caption": "Fast zwei Jahre nach der Abschaltung senden die Radios von SRF, RTS und RSI ab Mitte November wieder auf UKW. Der erste Schritt erreicht rund 80 Prozent der Bevölkerung und kostet die SRG rund 6,5 Millionen Franken pro Jahr. Die SRG sieht UKW als Übergangslösung bis zum Wechsel auf digitalen Empfang.",
+ "hashtags": ["schweiz", "news", "swissnews", "srg", "radio"]
+}
