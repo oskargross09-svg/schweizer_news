@@ -1,0 +1,64 @@
+{
+ "date": "2026-11-02",
+ "edition": "morgen",
+ "say": {
+  "Crans-Montana": "Krang-Montana",
+  "Sandoz": "Sandos"
+ },
+ "scenes": [
+  {
+   "type": "recap",
+   "title": "Das Wichtigste seit gestern",
+   "items": [
+    {
+     "label": "Schweiz",
+     "text": "Neue ID mit Chip ab heute"
+    },
+    {
+     "label": "Crans-Montana",
+     "text": "Anwalt fordert Zwangs|verwaltung"
+    },
+    {
+     "label": "Basel",
+     "text": "40 Jahre Schweizerhalle"
+    }
+   ],
+   "vo": "Das Wichtigste seit gestern. Ab heute gibt es die Identitätskarte mit Chip. In Crans-Montana verlangt ein Opferanwalt eine teilweise Zwangsverwaltung der Gemeinde. Und Basel erinnert an die Chemiekatastrophe von Schweizerhalle vor vierzig Jahren."
+  },
+  {
+   "type": "headline",
+   "label": "1 · Schweiz",
+   "headline": "Neue ID mit Chip startet",
+   "source": "Quelle: fedpol, SRF",
+   "vo": "Zuerst die neue ID. Ab heute kannst du eine Identitätskarte mit Chip beantragen. Er speichert ein Gesichtsbild und zwei Fingerabdrücke. Die ID ohne Chip gibt es weiterhin. Wer eine gültige Karte hat, muss sie nicht ersetzen."
+  },
+  {
+   "type": "place",
+   "label": "2 · Wallis",
+   "place": "Crans-Montana",
+   "lat": 46.311,
+   "lon": 7.481,
+   "line": "Kanton Wallis · Aufsichtsbeschwerde",
+   "source": "Quelle: Keystone-SDA, SonntagsZeitung",
+   "vo": "In Crans-Montana verlangt Anwalt Sébastien Fanti eine teilweise Zwangsverwaltung der Gemeinde, wegen der Folgen des Brands. Die Kosten könnten mehrere hundert Millionen Franken erreichen, sagt er. Budgetiert sind fünf Millionen pro Jahr. Der Kanton prüft die Beschwerde."
+  },
+  {
+   "type": "number",
+   "label": "3 · Basel",
+   "number": "1 000",
+   "unit": "t",
+   "text": "und mehr Chemikalien lagerten in der Sandoz-Halle",
+   "source": "Quelle: SRF, watson",
+   "vo": "Vor vierzig Jahren brannte in Schweizerhalle bei Basel eine Lagerhalle von Sandoz. Darin lagerten über tausend Tonnen Chemikalien. Das Löschwasser färbte den Rhein rot, unzählige Fische starben. Seither sind Auffangbecken für Löschwasser Pflicht."
+  }
+ ],
+ "title": "Neue ID mit Chip, Crans-Montana, 40 Jahre Schweizerhalle: der Überblick",
+ "caption": "Ab heute kann in der Schweiz die Identitätskarte mit Chip beantragt werden, die ID ohne Chip bleibt erhältlich. In Crans-Montana verlangt ein Opferanwalt eine teilweise Zwangsverwaltung der Gemeinde, der Kanton prüft die Beschwerde. Und vor 40 Jahren vergiftete der Brand von Schweizerhalle den Rhein.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "cransmontana",
+  "schweizerhalle"
+ ]
+}
