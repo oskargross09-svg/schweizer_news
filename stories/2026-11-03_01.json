@@ -1,0 +1,48 @@
+{
+ "date": "2026-11-03",
+ "edition": "morgen",
+ "say": {
+  "Vokinger": "Fokinger"
+ },
+ "scenes": [
+  {
+   "type": "recap",
+   "title": "Das Wichtigste seit gestern",
+   "items": [
+    {"label": "Zofingen", "text": "Therapie statt Strafe für Angreifer"},
+    {"label": "Zürich", "text": "Streit um Polizei nach Krawallen"},
+    {"label": "Gesundheit", "text": "Warnung vor teureren Medikamenten"}
+   ],
+   "vo": "Das Wichtigste seit gestern. In Zofingen ordnet ein Gericht eine Therapie für einen Angreifer an. In Zürich streitet die Politik nach der Krawallnacht über die Polizei. Und eine Studie warnt vor höheren Medikamentenpreisen."
+  },
+  {
+   "type": "place",
+   "label": "1 · Aargau",
+   "place": "Zofingen",
+   "lat": 47.2876,
+   "lon": 7.9456,
+   "line": "Kanton Aargau · Bezirksgericht",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Im Mai 2024 verletzte ein Mann in Zofingen wahllos sieben Menschen. Alle überlebten. Das Bezirksgericht erklärt ihn für schuldunfähig, wegen einer schweren psychischen Krankheit. Statt einer Strafe gibt es eine stationäre Therapie und einen Landesverweis. Das Urteil ist nicht rechtskräftig."
+  },
+  {
+   "type": "number",
+   "label": "2 · Zürich",
+   "number": "17",
+   "unit": "Stellen",
+   "text": "mehr im Frontdienst beantragt die Stadt für die Polizei",
+   "source": "Quelle: SRF, watson",
+   "vo": "In Zürich debattierte der Kantonsrat über die Krawallnacht an Halloween. Die SVP will prüfen, ob die Kantonspolizei die Stadtpolizei übernimmt. Die Grünen lehnen das ab. Die Stadt beantragt siebzehn zusätzliche Stellen im Frontdienst. Der SVP ist das zu wenig."
+  },
+  {
+   "type": "headline",
+   "label": "3 · Wirtschaft",
+   "headline": "Studie warnt vor teureren Medikamenten",
+   "source": "Quelle: SRF, Blick",
+   "vo": "Die USA wollen ihre Medikamentenpreise an günstigeren Ländern ausrichten, auch an der Schweiz. Erhöhen diese Länder deshalb ihre Preise, könnte das hier Hunderte Millionen Franken pro Jahr kosten. Das zeigt eine Studie von ETH und Universität Zürich."
+  }
+ ],
+ "title": "Urteil in Zofingen, Polizei-Debatte in Zürich, Medikamentenpreise: der Überblick",
+ "caption": "Das Bezirksgericht Zofingen erklärt den Mann, der im Mai 2024 sieben Menschen verletzte, für schuldunfähig und ordnet eine stationäre Therapie an. In Zürich debattiert die Politik nach der Krawallnacht über mehr Polizei und eine mögliche Übernahme der Stadtpolizei durch den Kanton. Und eine Studie von ETH und Uni Zürich warnt, dass die US-Preispolitik Medikamente in der Schweiz verteuern könnte.",
+ "hashtags": ["schweiz", "news", "swissnews", "zofingen", "zürich"]
+}
