@@ -1,0 +1,24 @@
+{
+ "date": "2026-11-03", "edition": "abend",
+ "say": {"Gisin": "Giesinn", "Crans-Montana": "Kran-Montana", "Weltcuprennen": "Weltkapp-Rennen", "Weltcup": "Weltkapp"},
+ "scenes": [
+  {"type": "headline", "label": "Sport", "headline": "Michelle Gisin beendet ihre Karriere", "source": "Quelle: SRF, 20 Minuten",
+   "vo": "Michelle Gisin hört auf. Die zweifache Olympiasiegerin aus Engelberg beendet ihre Karriere als Skirennfahrerin per sofort. Das hat sie heute auf dem Titlis bekannt gegeben."},
+  {"type": "place", "label": "Der Sturz", "place": "St. Moritz", "lat": 46.4983, "lon": 9.8390,
+   "line": "Kanton Graubünden · Trainingssturz Dezember 2025", "source": "Quelle: SRF, watson",
+   "vo": "Grund ist ein schwerer Sturz. Im Dezember 2025 stürzte sie im Abfahrtstraining in St. Moritz. Sie verletzte sich am Knie, am Handgelenk und an der Halswirbelsäule. Laut den Ärzten entging sie nur knapp einer Querschnittslähmung."},
+  {"type": "photo", "image": "File:Engelberg-Titlis cableway wallpaper.JPG", "label": "Titlis, Engelberg", "position": "50% 50%",
+   "text": "Auf dem Titlis gab Gisin heute ihren Rücktritt bekannt.",
+   "vo": "Nach monatelanger Reha stand sie wieder auf den Ski. Doch ein Comeback hätte mindestens ein weiteres Jahr gedauert, vielleicht zwei. Sie möchte nicht mehr alles hineingeben, um in Bestform zu kommen, sagt Gisin."},
+  {"type": "number", "label": "Bilanz", "number": "3", "unit": "Medaillen", "text": "an Olympia: Gold 2018 und 2022, Bronze 2022", "source": "Quelle: SRF, watson",
+   "vo": "An Olympischen Spielen gewann Gisin zweimal Gold in der Kombination, 2018 und 2022. Dazu kommt Bronze im Super-G. Im Weltcup fuhr sie in allen vier Disziplinen aufs Podest."},
+  {"type": "number", "label": "Karriere", "number": "291", "unit": "Starts", "text": "im Weltcup in 13 Jahren, ein Sieg: Slalom 2020", "source": "Quelle: SRF, Sport1",
+   "vo": "In dreizehn Jahren bestritt sie zweihunderteinundneunzig Weltcuprennen. Ihren einzigen Sieg feierte sie 2020 im Slalom von Semmering."},
+  {"type": "statement", "source": "Quelle: SRF, Blick, 20 Minuten",
+   "text": ["Seit September studiert Gisin in Luzern.", "An der Heim-WM führt sie Interviews im Zielraum."],
+   "vo": "Seit September studiert Gisin an der Universität Luzern. An der Heim-WM in Crans-Montana im Februar ist sie trotzdem dabei, als Interviewerin im Zielraum."}
+ ],
+ "title": "Michelle Gisin beendet ihre Karriere: elf Monate nach dem schweren Sturz",
+ "caption": "Die zweifache Olympiasiegerin Michelle Gisin tritt per sofort vom Skirennsport zurück. Nach ihrem schweren Trainingssturz in St. Moritz im Dezember 2025 hätte ein Comeback laut ihr mindestens ein weiteres Jahr gedauert. Gisin studiert seit September in Luzern und ist an der Heim-WM in Crans-Montana als Interviewerin dabei.",
+ "hashtags": ["schweiz", "news", "swissnews", "skialpin", "michellegisin"]
+}
