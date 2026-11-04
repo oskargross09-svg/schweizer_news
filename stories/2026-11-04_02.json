@@ -1,0 +1,70 @@
+{
+ "date": "2026-11-04",
+ "edition": "abend",
+ "say": {
+  "Baume-Schneider": "Bohm-Schneider"
+ },
+ "scenes": [
+  {
+   "type": "headline",
+   "label": "Wirtschaft",
+   "headline": "Bundesrat erhöht Mindestzins für Pensionskassen",
+   "source": "Quelle: Bundesrat, Blick",
+   "vo": "Wer in eine Pensionskasse einzahlt, bekommt mehr Zins. Der Bundesrat hat heute den Mindestzins in der beruflichen Vorsorge erhöht. Es ist der grösste Sprung seit Einführung des Gesetzes 1985."
+  },
+  {
+   "type": "photo",
+   "image": "File:Bundeshaus in Bern 2022.jpg",
+   "label": "Bundeshaus, Bern",
+   "position": "51% 40%",
+   "text": "Antrag von Innenministerin Baume-Schneider.",
+   "vo": "Den Antrag stellte Innenministerin Elisabeth Baume-Schneider. Der Mindestzins legt fest, wie stark das Alterskapital in der Pensionskasse mindestens wachsen muss."
+  },
+  {
+   "type": "number",
+   "label": "Der Entscheid",
+   "number": "2",
+   "unit": "%",
+   "text": "Mindestzins ab 2027, heute sind es 1,25 %",
+   "source": "Quelle: Bundesrat, finews",
+   "vo": "Ab Januar 2027 steigt der Satz von eins Komma fünfundzwanzig auf zwei Prozent. Die Fachkommission hatte nur eins Komma fünfundsiebzig Prozent empfohlen. Der Bundesrat geht also weiter."
+  },
+  {
+   "type": "number",
+   "label": "Wer ist betroffen?",
+   "number": "750",
+   "unit": "Fr.",
+   "text": "mehr Zins pro Jahr bei 100 000 Franken Guthaben",
+   "source": "Quelle: Bundesrat, vereinfachte Rechnung",
+   "vo": "Betroffen sind alle Angestellten mit einer Pensionskasse. Der Mindestzins gilt aber nur für den obligatorischen Teil des Guthabens. Bei hunderttausend Franken sind das neu zweitausend statt zwölfhundertfünfzig Franken Zins im Jahr."
+  },
+  {
+   "type": "number",
+   "label": "Warum?",
+   "number": "122,5",
+   "unit": "",
+   "text": "Prozent: Deckungsgrad der Pensionskassen im Schnitt, Ende August",
+   "source": "Quelle: Bundesrat, Blick",
+   "vo": "Der Bundesrat sagt, die Pensionskassen stehen finanziell sehr solide da. Sie haben im Schnitt deutlich mehr Vermögen, als sie für ihre Renten brauchen. Ausserdem sind die Zinsen für Bundesanleihen gestiegen. Und der höhere Zins soll die Teuerung seit 2022 ausgleichen."
+  },
+  {
+   "type": "statement",
+   "source": "Quelle: Arbeitgeberverband, SVV, finews",
+   "text": [
+    "Arbeitgeber nennen den Entscheid fahrlässig.",
+    "Versicherer hätten 1 % für richtig gehalten.",
+    "Der neue Zins gilt ab 1. Januar 2027."
+   ],
+   "vo": "Der Arbeitgeberverband nennt den Entscheid fahrlässig. Der Versicherungsverband hätte ein Prozent für angemessen gehalten. Der neue Zins gilt ab dem ersten Januar, Pensionskassen dürfen auch mehr zahlen."
+  }
+ ],
+ "title": "Pensionskasse: Bundesrat erhöht den Mindestzins auf 2 Prozent",
+ "caption": "Der Bundesrat erhöht den Mindestzins in der beruflichen Vorsorge ab 2027 von 1,25 auf 2 Prozent, mehr als die Fachkommission empfohlen hatte. Er begründet das mit der soliden Lage der Pensionskassen und der Teuerung seit 2022. Arbeitgeber und Versicherer kritisieren den Schritt als zu gross. Der Zins gilt für den obligatorischen Teil des Alterskapitals.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "pensionskasse",
+  "vorsorge"
+ ]
+}
