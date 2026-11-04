@@ -1,0 +1,74 @@
+{
+ "date": "2026-11-04",
+ "edition": "morgen",
+ "say": {},
+ "scenes": [
+  {
+   "type": "recap",
+   "title": "Das Wichtigste seit gestern",
+   "items": [
+    {
+     "label": "Wirtschaft",
+     "text": "Teuerung steigt auf 1,5 Prozent"
+    },
+    {
+     "label": "Zürich",
+     "text": "Haftstrafen nach Halloween-Krawallen"
+    },
+    {
+     "label": "Waadt",
+     "text": "16-Jähriger nach Hackerangriff gefasst"
+    },
+    {
+     "label": "Konsum",
+     "text": "Käse-Rückruf wird ausgeweitet"
+    }
+   ],
+   "vo": "Das Wichtigste seit gestern. Die Teuerung in der Schweiz steigt deutlich. In Zürich sollen zwei Männer nach den Krawallen ins Gefängnis. In der Waadt nimmt die Polizei einen mutmasslichen Hacker fest. Und der Bund weitet einen Käse-Rückruf aus."
+  },
+  {
+   "type": "number",
+   "label": "1 · Wirtschaft",
+   "number": "1,5",
+   "unit": "%",
+   "text": "Teuerung im Oktober, im September waren es 1,0 %",
+   "source": "Quelle: BFS, SRF",
+   "vo": "Die Preise sind im Oktober um eins Komma fünf Prozent höher als vor einem Jahr. Im September waren es noch ein Prozent. Grund sind vor allem Heizöl, Benzin und Diesel, sagt das Bundesamt für Statistik."
+  },
+  {
+   "type": "place",
+   "label": "2 · Zürich",
+   "place": "Langstrasse",
+   "lat": 47.3779,
+   "lon": 8.5267,
+   "line": "Kreis 4 · Strafbefehle nach Krawallnacht",
+   "source": "Quelle: SRF, watson",
+   "vo": "Nach der Krawallnacht an Halloween in Zürich hat die Staatsanwaltschaft zwei junge Männer verurteilt. Sie erhalten sechs und vier Monate Gefängnis, ohne Bewährung. Die Strafbefehle sind noch nicht rechtskräftig."
+  },
+  {
+   "type": "number",
+   "label": "3 · Waadt",
+   "number": "41 500",
+   "unit": "",
+   "text": "Schüler und Lehrpersonen sind vom Datenleck betroffen",
+   "source": "Quelle: Kantonspolizei Waadt, Keystone-SDA",
+   "vo": "Im Kanton Waadt hat die Polizei einen Sechzehnjährigen festgenommen. Er soll in eine IT-Plattform der Schulen eingedrungen sein. Betroffen sind rund einundvierzigtausend Schüler und Lehrpersonen. Ob er Daten weitergab, ist noch unklar."
+  },
+  {
+   "type": "headline",
+   "label": "4 · Konsum",
+   "headline": "Bund weitet Käse-Rückruf aus",
+   "source": "Quelle: BLV",
+   "vo": "Wegen Listerien weitet der Bund einen Rückruf von Weichkäse aus. Betroffen sind Brie und Rahmweichkäse von zwei Herstellern. Das Bundesamt rät, die Produkte nicht zu essen."
+  }
+ ],
+ "title": "Teuerung steigt, Haftstrafen in Zürich, Hacker gefasst: der Überblick",
+ "caption": "Die Teuerung in der Schweiz steigt im Oktober auf 1,5 Prozent, vor allem wegen höherer Preise für Heizöl und Treibstoff. In Zürich erhalten zwei junge Männer nach den Halloween-Krawallen unbedingte Haftstrafen, die Strafbefehle sind noch nicht rechtskräftig. In der Waadt nimmt die Polizei einen 16-Jährigen nach einem Hackerangriff auf eine Schulplattform fest, und der Bund weitet einen Listerien-Rückruf von Weichkäse aus.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "teuerung",
+  "zürich"
+ ]
+}
