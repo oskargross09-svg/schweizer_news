@@ -1,0 +1,65 @@
+{
+ "date": "2026-11-05",
+ "edition": "morgen",
+ "say": {
+  "Chikungunya": "Tschikungunja"
+ },
+ "scenes": [
+  {
+   "type": "recap",
+   "title": "Das Wichtigste seit gestern",
+   "items": [
+    {
+     "label": "Politik",
+     "text": "Höhere Lohnbeiträge für die IV"
+    },
+    {
+     "label": "Wirtschaft",
+     "text": "SMI erstmals über 15 000 Punkte"
+    },
+    {
+     "label": "Tessin",
+     "text": "Virus erstmals lokal übertragen"
+    }
+   ],
+   "vo": "Das Wichtigste seit gestern. Der Bundesrat will die IV mit höheren Lohnbeiträgen sanieren. Die Schweizer Börse erreicht einen neuen Rekord. Und im Tessin wird ein Tropenvirus erstmals in der Schweiz übertragen."
+  },
+  {
+   "type": "number",
+   "label": "1 · Politik",
+   "number": "0,2",
+   "unit": "%",
+   "text": "mehr Lohnbeiträge sollen die IV sanieren",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Der Bundesrat will die Invalidenversicherung sanieren. Die Lohnbeiträge sollen um null Komma zwei Prozentpunkte steigen, je zur Hälfte für Angestellte und Arbeitgeber. Junge Menschen sollen zudem enger in die Arbeitswelt begleitet werden. Die Vernehmlassung läuft bis Anfang Februar."
+  },
+  {
+   "type": "number",
+   "label": "2 · Wirtschaft",
+   "number": "15 000",
+   "unit": "",
+   "text": "Punkte: der SMI erstmals über dieser Marke",
+   "source": "Quelle: Keystone-SDA, watson",
+   "vo": "Die Schweizer Börse hat einen neuen Rekord erreicht. Der Leitindex SMI stieg am Mittwoch erstmals über fünfzehntausend Punkte, ein Plus von eins Komma neun Prozent. Grund ist laut Fachleuten der Ausgang der Zwischenwahlen in den USA."
+  },
+  {
+   "type": "place",
+   "label": "3 · Gesellschaft",
+   "place": "Magadinoebene",
+   "lat": 46.165,
+   "lon": 8.9,
+   "line": "Kanton Tessin · Chikungunya erstmals lokal übertragen",
+   "source": "Quelle: SRF, Kanton Tessin",
+   "vo": "Im Tessin ist das Chikungunya-Virus erstmals in der Schweiz übertragen worden. Vier Personen in der Magadino-Ebene bei Bellinzona sind erkrankt. Übertragen wird das Virus von der Tigermücke. Den Betroffenen gehe es gut, die Behörden stufen das Risiko als gering ein."
+  }
+ ],
+ "title": "IV-Reform, Börsenrekord, erstes lokales Chikungunya-Virus: der Überblick",
+ "caption": "Der Bundesrat will die Invalidenversicherung mit höheren Lohnbeiträgen sanieren, die Vernehmlassung läuft bis Anfang Februar. Der Leitindex SMI steigt nach den US-Zwischenwahlen erstmals über 15 000 Punkte. Im Tessin ist das Chikungunya-Virus erstmals in der Schweiz lokal übertragen worden, vier Personen sind erkrankt.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "iv",
+  "börse"
+ ]
+}
