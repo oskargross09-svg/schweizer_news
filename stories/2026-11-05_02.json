@@ -1,0 +1,71 @@
+{
+ "date": "2026-11-05",
+ "edition": "abend",
+ "say": {
+  "Init7": "Innit Säwen",
+  "Sunrise": "Sannrais",
+  "Swisscom": "Swiss-Komm",
+  "Providern": "Prowaidern"
+ },
+ "scenes": [
+  {
+   "type": "headline",
+   "label": "Justiz",
+   "headline": "Bundesgericht stoppt Netzsperren",
+   "source": "Quelle: Keystone-SDA, inside-it.ch",
+   "vo": "Staatsanwaltschaften dürfen Internetanbieter nicht zwingen, Webseiten zu sperren. Das hat das Bundesgericht entschieden. Für solche Netzsperren fehlt im Strafrecht die gesetzliche Grundlage."
+  },
+  {
+   "type": "photo",
+   "image": "File:Tribunal fédéral Lausanne Suisse.jpg",
+   "label": "Bundesgericht, Lausanne",
+   "text": "Geklagt hatte der Internetanbieter Init7.",
+   "vo": "Das Urteil aus Lausanne wurde am Mittwoch veröffentlicht. Geklagt hatte der Internetanbieter Init7."
+  },
+  {
+   "type": "number",
+   "label": "Was ist passiert?",
+   "number": "1,7",
+   "unit": "Mio. CHF",
+   "text": "Schaden durch Anlagebetrug, um den es ging",
+   "source": "Quelle: Keystone-SDA, digitec",
+   "vo": "Auslöser war ein Fall von Anlagebetrug im Kanton Waadt. Dutzende Opfer verloren dabei mehr als eins Komma sieben Millionen Franken. Im Juli 2025 verlangte die Staatsanwaltschaft deshalb von mehreren Providern, die Betrugsseiten zu sperren."
+  },
+  {
+   "type": "statement",
+   "source": "Quelle: inside-it.ch, Landesspiegel",
+   "text": [
+    "Swisscom, Sunrise und Salt setzten die Sperre um.",
+    "Init7 weigerte sich und zog vor Gericht.",
+    "Das Bundesgericht gibt Init7 nun recht."
+   ],
+   "vo": "Swisscom, Sunrise und Salt setzten die Sperre um. Nur Init7 weigerte sich und zog den Fall bis vor Bundesgericht. Das Gericht gibt Init7 nun recht."
+  },
+  {
+   "type": "number",
+   "label": "Warum?",
+   "number": "3",
+   "unit": "Spezialfälle",
+   "text": "erlauben Sperren, etwa illegale Online-Geldspiele",
+   "source": "Quelle: Bundesgericht, Keystone-SDA",
+   "vo": "Laut Bundesgericht sind Netzsperren nur erlaubt, wo ein Gesetz sie ausdrücklich regelt. Etwa bei illegalen Online-Geldspielen oder verbotener Pornografie. Die Regeln zur Beschlagnahme im Strafrecht reichen dafür nicht. Diese Lücke könne das Gericht nicht selbst füllen."
+  },
+  {
+   "type": "photo",
+   "image": "File:Bundeshaus in Bern 2022.jpg",
+   "label": "Wie geht es weiter?",
+   "position": "51% 40%",
+   "text": "Der Bundesrat will Sperren bei Betrugsverdacht erlauben.",
+   "vo": "Jetzt ist die Politik gefragt. Der Bundesrat will mit einer Revision des Fernmeldegesetzes Sperren bei begründetem Verdacht auf Betrug erlauben. Die Staatsanwaltschaft Waadt fordert, dass das Parlament rasch handelt. Init7 nennt das Urteil richtungsweisend für die Informationsfreiheit."
+  }
+ ],
+ "title": "Bundesgericht stoppt Netzsperren: Staatsanwälte dürfen Webseiten nicht sperren lassen",
+ "caption": "Das Bundesgericht hat entschieden: Staatsanwaltschaften dürfen Internetanbieter nicht zu Netzsperren verpflichten, dafür fehlt die gesetzliche Grundlage. Geklagt hatte Init7 nach Sperrverfügungen gegen Betrugsseiten im Kanton Waadt. Nun ist die Politik gefragt: Der Bundesrat will Sperren bei Betrugsverdacht im Fernmeldegesetz ermöglichen.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "bundesgericht",
+  "internet"
+ ]
+}
