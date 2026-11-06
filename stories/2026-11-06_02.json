@@ -1,0 +1,71 @@
+{
+ "date": "2026-11-06",
+ "edition": "abend",
+ "say": {
+  "La Providence": "La Prowidangs",
+  "Strassburg": "Strassburg"
+ },
+ "scenes": [
+  {
+   "type": "headline",
+   "label": "Justiz",
+   "headline": "Gerichtshof rügt Schweiz wegen Spitalstreik",
+   "source": "Quelle: Keystone-SDA, imTicker",
+   "vo": "Der Europäische Gerichtshof für Menschenrechte hat die Schweiz verurteilt. Das Urteil wurde am Donnerstag veröffentlicht. Es geht um einen Streik am Spital La Providence in Neuenburg. Laut dem Gericht hat die Schweiz das Streikrecht verletzt."
+  },
+  {
+   "type": "place",
+   "label": "Was ist passiert?",
+   "place": "Neuenburg",
+   "lat": 46.9918,
+   "lon": 6.9311,
+   "line": "Kanton Neuenburg · Spital La Providence",
+   "source": "Quelle: Keystone-SDA, imTicker",
+   "vo": "Anfang 2013 streikten Angestellte des Spitals La Providence in Neuenburg. Der Streik begann rechtmässig. Nach dem Streik verloren Beteiligte ihre Stelle."
+  },
+  {
+   "type": "number",
+   "label": "Wer ist betroffen?",
+   "number": "21",
+   "unit": "Klagende",
+   "text": "17 Ex-Angestellte und 4 Gewerkschafts|sekretäre",
+   "source": "Quelle: Keystone-SDA, imTicker",
+   "vo": "Geklagt haben siebzehn ehemalige Angestellte und vier Gewerkschaftssekretäre. Die Schweizer Gerichte hatten ihnen den Schutz vor Kündigung verweigert."
+  },
+  {
+   "type": "photo",
+   "image": "File:Tribunal fédéral Lausanne Suisse.jpg",
+   "label": "Warum?",
+   "text": "Bundesgericht: Streik ab 23. Januar 2013 unzulässig.",
+   "vo": "Das Bundesgericht hatte entschieden: Ab dem dreiundzwanzigsten Januar 2013 war der Streik nicht mehr gerechtfertigt. Er sei nicht mehr das letzte Mittel gewesen und darum unverhältnismässig."
+  },
+  {
+   "type": "statement",
+   "source": "Quelle: Keystone-SDA, imTicker",
+   "text": [
+    "Der Streik war zu Beginn rechtmässig.",
+    "Ein späteres Verbot war nicht absehbar.",
+    "Das verletzt den Kern des Streikrechts."
+   ],
+   "vo": "Der Gerichtshof in Strassburg sieht das anders: Der Streik war zu Beginn rechtmässig. Dass er später als unzulässig gelten könnte, war für die Streikenden nicht absehbar. Ihnen deshalb den Kündigungsschutz zu verweigern, verletze den Kern des Streikrechts."
+  },
+  {
+   "type": "number",
+   "label": "Wie geht es weiter?",
+   "number": "11",
+   "unit": "Artikel EMRK",
+   "text": "Versammlungs- und Vereinigungs|freiheit verletzt",
+   "source": "Quelle: EGMR, Keystone-SDA",
+   "vo": "Verletzt ist laut Urteil Artikel elf der Menschenrechtskonvention, die Versammlungs- und Vereinigungsfreiheit. Die Schweiz muss das Urteil nun berücksichtigen. Auch die Bundesverfassung garantiert das Streikrecht, in Artikel achtundzwanzig."
+  }
+ ],
+ "title": "Europäischer Gerichtshof verurteilt die Schweiz wegen Spitalstreik in Neuenburg",
+ "caption": "Der Europäische Gerichtshof für Menschenrechte hat entschieden, dass die Schweiz beim Streik am Spital La Providence in Neuenburg das Streikrecht verletzt hat. Geklagt hatten 17 ehemalige Angestellte und vier Gewerkschaftssekretäre, denen der Kündigungsschutz verweigert worden war. Das Bundesgericht hatte den Streik ab dem 23. Januar 2013 als unverhältnismässig beurteilt. Die Schweiz muss das Urteil nun berücksichtigen.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "streikrecht",
+  "neuenburg"
+ ]
+}
