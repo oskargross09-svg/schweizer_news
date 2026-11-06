@@ -1,0 +1,64 @@
+{
+ "date": "2026-11-06",
+ "edition": "morgen",
+ "say": {
+  "Donzallaz": "Donnsalla",
+  "van de Graaf": "fann de Graaf"
+ },
+ "scenes": [
+  {
+   "type": "recap",
+   "title": "Das Wichtigste seit gestern",
+   "items": [
+    {
+     "label": "Gesellschaft",
+     "text": "Rund 1260 Hitzetote im Sommer"
+    },
+    {
+     "label": "Justiz",
+     "text": "Richter-Beziehung war unzulässig"
+    },
+    {
+     "label": "St. Gallen",
+     "text": "Angriff vor Altersheim in Nesslau"
+    }
+   ],
+   "vo": "Das Wichtigste seit gestern. Der Hitzesommer hat in der Schweiz rund zwölfhundertsechzig Menschenleben gefordert. Das Bundesgericht urteilt über die Beziehung zweier Bundesrichter. Und in Nesslau greifen zwei junge Männer Menschen vor einem Altersheim an."
+  },
+  {
+   "type": "number",
+   "label": "1 · Gesellschaft",
+   "number": "1260",
+   "unit": "",
+   "text": "Hitzetote von Mai bis August, schätzt der Bund",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Der Sommer 2026 hat laut einer provisorischen Auswertung des Bundes rund zwölfhundertsechzig Hitzetote gefordert. Fünfundachtzig Prozent waren fünfundsiebzig oder älter. Die Zahl ist ähnlich hoch wie im Hitzesommer 2003."
+  },
+  {
+   "type": "photo",
+   "image": "File:Tribunal fédéral Lausanne Suisse.jpg",
+   "label": "2 · Justiz",
+   "text": "Beziehung zweier Bundesrichter war unzulässig.",
+   "vo": "Das Bundesgericht entscheidet einstimmig: Die Beziehung der Bundesrichter Yves Donzallaz und Beatrice van de Graaf war unzulässig. Die beiden lebten fast ein Jahr zusammen. Ein Urteil, an dem beide beteiligt waren, kann nun neu aufgerollt werden."
+  },
+  {
+   "type": "place",
+   "label": "3 · St. Gallen",
+   "place": "Nesslau",
+   "lat": 47.2236,
+   "lon": 9.2003,
+   "line": "Kanton St. Gallen · Angriff vor Altersheim",
+   "source": "Quelle: Kantonspolizei St. Gallen",
+   "vo": "In Nesslau haben zwei junge Männer am Mittwochabend mehrere Menschen bei einem Altersheim angegriffen. Drei Personen kamen ins Spital, eine sechsundachtzigjährige Bewohnerin ist schwer verletzt. Die Verdächtigen, sechzehn und neunzehn Jahre alt, wurden festgenommen, sagt die Polizei."
+  }
+ ],
+ "title": "Rund 1260 Hitzetote, Urteil zur Richter-Beziehung, Angriff in Nesslau: der Überblick",
+ "caption": "Der Hitzesommer 2026 hat in der Schweiz laut provisorischer Auswertung des Bundes rund 1260 Todesopfer gefordert, definitive Zahlen folgen im Frühling 2027. Das Bundesgericht hat entschieden, dass die Beziehung der Bundesrichter Donzallaz und van de Graaf unzulässig war, ein Urteil kann neu aufgerollt werden. In Nesslau SG wurden nach einem Angriff bei einem Altersheim zwei junge Männer festgenommen.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "hitze",
+  "bundesgericht"
+ ]
+}
