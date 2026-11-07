@@ -1,0 +1,60 @@
+{
+ "date": "2026-11-07",
+ "edition": "abend",
+ "say": {"Andwil": "Andwil", "Gossau": "Gossau"},
+ "scenes": [
+  {
+   "type": "headline",
+   "label": "Unglück",
+   "headline": "Flucht vor Polizei endet in Hauswand",
+   "source": "Quelle: Kantonspolizei St. Gallen, Keystone-SDA",
+   "vo": "In Andwil im Kanton St. Gallen ist in der Nacht auf Samstag ein Auto in ein Wohnhaus geprallt. Der Lenker war vor der Polizei geflüchtet. Das Haus ist jetzt einsturzgefährdet, sagt die Kantonspolizei."
+  },
+  {
+   "type": "photo",
+   "image": "File:Cantonal Police St. Gallen BMW iX xDrive50.jpg",
+   "label": "Was ist passiert?",
+   "text": "Der Lenker ignorierte in Gossau eine Polizei|kontrolle.",
+   "vo": "Kurz nach halb drei Uhr wollte eine Patrouille in Gossau ein Auto kontrollieren. Der Lenker hielt nicht an und fuhr Richtung Andwil. Laut Polizei war er massiv zu schnell und beging mehrere Verkehrsdelikte."
+  },
+  {
+   "type": "place",
+   "label": "Wo?",
+   "place": "Andwil",
+   "lat": 47.4386,
+   "lon": 9.2747,
+   "line": "Kanton St. Gallen · bei der Dorfgarage",
+   "source": "Quelle: Kantonspolizei St. Gallen",
+   "vo": "Bei der Dorfgarage in Andwil streifte er den Randstein und verlor die Kontrolle. Das Auto querte beide Fahrspuren, durchbrach eine Hecke und prallte frontal in eine Hausfassade."
+  },
+  {
+   "type": "number",
+   "label": "Wer ist betroffen?",
+   "number": "21",
+   "unit": "Jahre",
+   "text": "alt ist der Lenker. Er wurde schwer verletzt.",
+   "source": "Quelle: Kantonspolizei St. Gallen, Keystone-SDA",
+   "vo": "Der Lenker ist einundzwanzig Jahre alt. Er wurde schwer verletzt, konnte das Auto aber selbst verlassen. Der Rettungsdienst brachte ihn ins Spital. Von weiteren Verletzten schreibt die Polizei nichts."
+  },
+  {
+   "type": "statement",
+   "source": "Quelle: Kantonspolizei St. Gallen",
+   "text": [
+    "Das Haus ist einsturzgefährdet.",
+    "Die Feuerwehr musste es zuerst abstützen.",
+    "Es ist nicht mehr bewohnbar."
+   ],
+   "vo": "Das Haus ist laut Polizei einsturzgefährdet. Die Feuerwehr musste es abstützen, bevor das Auto geborgen werden konnte. Ein Statiker prüfte das Gebäude, es ist nicht mehr bewohnbar."
+  },
+  {
+   "type": "photo",
+   "image": "File:Andwil Alpstein.jpg",
+   "label": "Wie geht es weiter?",
+   "text": "Die Bewohner kommen in einer Not|unterkunft unter.",
+   "vo": "Die Gemeinde Andwil hat für die Bewohner eine Notunterkunft organisiert. Dem Lenker wurde der Führerausweis abgenommen, eine Blut- und Urinprobe ist angeordnet. Warum er flüchtete, ist nicht bekannt. Auch die Höhe des Schadens ist noch offen."
+  }
+ ],
+ "title": "Flucht vor Polizeikontrolle: Auto prallt in Andwil SG in ein Wohnhaus",
+ "caption": "In Andwil SG ist ein 21-jähriger Lenker in der Nacht auf Samstag nach einer Flucht vor einer Polizeikontrolle in ein Wohnhaus geprallt. Er wurde schwer verletzt, das Haus ist laut Kantonspolizei St. Gallen einsturzgefährdet und nicht mehr bewohnbar. Die Gemeinde hat für die Bewohner eine Notunterkunft organisiert, der Schaden ist noch nicht beziffert.",
+ "hashtags": ["schweiz", "news", "swissnews", "stgallen", "polizei"]
+}
