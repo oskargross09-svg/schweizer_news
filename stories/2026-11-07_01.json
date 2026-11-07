@@ -1,0 +1,61 @@
+{
+ "date": "2026-11-07",
+ "edition": "morgen",
+ "say": {},
+ "scenes": [
+  {
+   "type": "recap",
+   "title": "Das Wichtigste seit gestern",
+   "items": [
+    {
+     "label": "Wirtschaft",
+     "text": "Novartis meldet Tumorfälle"
+    },
+    {
+     "label": "Wallis",
+     "text": "Ex-Chef der Ski-WM verurteilt"
+    },
+    {
+     "label": "Wirtschaft",
+     "text": "Benzin wieder unter zwei Franken"
+    }
+   ],
+   "vo": "Das Wichtigste seit gestern. Novartis meldet Tumorfälle bei Kindern nach einer Gentherapie. Der frühere Chef der Ski-WM in Crans-Montana ist verurteilt. Und Benzin kostet wieder weniger als zwei Franken."
+  },
+  {
+   "type": "number",
+   "label": "1 · Wirtschaft",
+   "number": "9",
+   "unit": "Tumorfälle",
+   "text": "nach Gentherapie Zolgensma, bei über 6 000 Behandelten",
+   "source": "Quelle: Keystone-SDA, watson",
+   "vo": "Nach der Gentherapie Zolgensma sind weltweit neun Tumorfälle bei Kindern gemeldet worden, teilt Novartis mit. Behandelt wurden seit 2019 über sechstausend Patienten. In zwei Fällen gibt es Hinweise auf einen Zusammenhang mit der Therapie."
+  },
+  {
+   "type": "place",
+   "label": "2 · Justiz",
+   "place": "Brig",
+   "lat": 46.3159,
+   "lon": 7.9877,
+   "line": "Kanton Wallis · Bezirksgericht Brig",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Das Bezirksgericht Brig hat Claude-Alain Schmidhalter verurteilt, den früheren Chef der Ski-WM 2027 in Crans-Montana. Er erhält zwölf Monate bedingt wegen ungetreuer Geschäftsbesorgung. Der Fall betrifft eine Ingenieurfirma. Das Urteil ist noch nicht rechtskräftig."
+  },
+  {
+   "type": "photo",
+   "image": "File:Shell Tankstelle.jpg",
+   "label": "3 · Wirtschaft",
+   "text": "Benzin kostet im Schnitt 1,99 Franken pro Liter.",
+   "vo": "Benzin kostet in der Schweiz im Schnitt wieder unter zwei Franken. Ein Liter Bleifrei kostet laut TCS durchschnittlich eins neunundneunzig."
+  }
+ ],
+ "title": "Tumorfälle nach Novartis-Therapie, Urteil gegen Ex-WM-Chef, Benzin günstiger: der Überblick",
+ "caption": "Novartis meldet weltweit neun Tumorfälle bei Kindern nach einer Behandlung mit der Gentherapie Zolgensma, in zwei Fällen gibt es Hinweise auf einen Zusammenhang. Das Bezirksgericht Brig hat den früheren Chef der Ski-WM 2027, Claude-Alain Schmidhalter, zu zwölf Monaten bedingt verurteilt; das Urteil ist nicht rechtskräftig. Und Benzin kostet laut TCS im Schnitt wieder 1,99 Franken pro Liter.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "novartis",
+  "benzinpreis"
+ ]
+}
