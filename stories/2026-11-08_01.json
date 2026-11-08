@@ -1,0 +1,48 @@
+{
+ "date": "2026-11-08",
+ "edition": "morgen",
+ "say": {"Vaduz": "Fadutz", "Guirassy": "Girassi"},
+ "scenes": [
+  {
+   "type": "recap",
+   "title": "Das Wichtigste seit gestern",
+   "items": [
+    {"label": "Sport", "text": "YB siegt spät in Luzern"},
+    {"label": "Solothurn", "text": "Auto brennt auf A1 aus"},
+    {"label": "Sport", "text": "Sion gewinnt klar in Vaduz"}
+   ],
+   "vo": "Das Wichtigste seit gestern. YB gewinnt in Luzern mit einem Tor in der Nachspielzeit. Bei Härkingen brennt auf der Autobahn ein Auto aus. Und der FC Sion siegt in Vaduz mit vier zu null."
+  },
+  {
+   "type": "number",
+   "label": "1 · Sport",
+   "number": "92.",
+   "unit": "Minute",
+   "text": "YB gewinnt in Luzern 3:2, Siegtor durch Samuel Essende.",
+   "source": "Quelle: watson, nau.ch",
+   "vo": "Die Young Boys gewinnen beim FC Luzern drei zu zwei. Das Siegtor schiesst Samuel Essende in der zweiundneunzigsten Minute. Kurz danach trifft Luzern noch einmal, doch der Video-Schiedsrichter erkennt auf Abseits. YB liegt damit sechs Punkte hinter Leader Lugano."
+  },
+  {
+   "type": "place",
+   "label": "2 · Unglück",
+   "place": "Härkingen",
+   "lat": 47.3067,
+   "lon": 7.8178,
+   "line": "Kanton Solothurn · Verzweigung A1/A2",
+   "source": "Quelle: Kantonspolizei Solothurn, Keystone-SDA",
+   "vo": "Bei der Verzweigung Härkingen ist am Samstagmorgen ein Auto in ein Signal geprallt. Der achtzehnjährige Lenker ist laut Polizei wohl eingeschlafen. Das Auto überschlug sich und brannte vollständig aus. Der Lenker konnte selbst aussteigen und wurde nicht schwer verletzt."
+  },
+  {
+   "type": "number",
+   "label": "3 · Sport",
+   "number": "4:0",
+   "unit": "für Sion",
+   "text": "Der FC Sion gewinnt auswärts beim FC Vaduz.",
+   "source": "Quelle: watson, nau.ch",
+   "vo": "Der FC Sion gewinnt in Vaduz deutlich mit vier zu null. Nach fünfzehn Minuten stand es bereits zwei zu null. Die Grasshoppers spielen gegen Schlusslicht Lausanne nur eins zu eins."
+  }
+ ],
+ "title": "YB siegt in der Nachspielzeit, Auto brennt auf der A1 aus, Sion gewinnt 4:0: der Überblick",
+ "caption": "YB gewinnt beim FC Luzern 3:2, das Siegtor schiesst Samuel Essende in der 92. Minute; ein später Luzerner Ausgleich zählt wegen Abseits nicht. Bei Härkingen SO überschlug sich auf der Autobahn ein Auto und brannte aus, der 18-jährige Lenker wurde laut Kantonspolizei nicht schwer verletzt. Der FC Sion gewinnt in Vaduz 4:0, GC spielt gegen Lausanne 1:1.",
+ "hashtags": ["schweiz", "news", "swissnews", "superleague", "solothurn"]
+}
