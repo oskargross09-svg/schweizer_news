@@ -1,0 +1,52 @@
+{
+ "date": "2026-11-08",
+ "edition": "abend",
+ "say": {"Aeschi": "Äschi", "Parmelin": "Parmelä", "Jans": "Jans"},
+ "scenes": [
+  {
+   "type": "headline",
+   "label": "Politik",
+   "headline": "Thomas Aeschi will in den Bundesrat",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "SVP-Fraktionschef Thomas Aeschi will Bundesrat werden. Das hat er am Sonntag im SonntagsBlick und in der Sendung Schweiz heute bestätigt. Er will die Nachfolge von Guy Parmelin antreten."
+  },
+  {
+   "type": "photo",
+   "image": "File:Bundeshaus in Bern 2022.jpg",
+   "label": "Was ist passiert?",
+   "text": "Die SVP sucht eine Nachfolge für Bundesrat Guy Parmelin.",
+   "vo": "Die SVP sucht einen Nachfolger für Guy Parmelin. Die Zuger SVP hatte Aeschi schon im Oktober nominiert. Lange liess er offen, ob er antritt. Er habe sich zuerst mit Familie, Freunden und der Fraktion beraten, sagt er."
+  },
+  {
+   "type": "place",
+   "label": "Wer ist er?",
+   "place": "Zug",
+   "lat": 47.1662,
+   "lon": 8.5155,
+   "line": "Kanton Zug · Nationalrat seit 15 Jahren",
+   "source": "Quelle: Keystone-SDA, watson",
+   "vo": "Aeschi ist siebenundvierzig Jahre alt und kommt aus dem Kanton Zug. Er sitzt seit fünfzehn Jahren im Nationalrat und führt die SVP-Fraktion im Bundeshaus. Schon 2015 wollte er in den Bundesrat. Damals unterlag er Guy Parmelin."
+  },
+  {
+   "type": "statement",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "text": [
+    "Aeschi sagt, er sei bereit für das Asyl|dossier.",
+    "Er hätte Interesse am Justiz|departement."
+   ],
+   "vo": "Aeschi sagt, er sei bereit, das Asyldossier zu übernehmen. Damit hätte er Interesse am Justizdepartement, das heute SP-Bundesrat Beat Jans führt."
+  },
+  {
+   "type": "number",
+   "label": "Wie geht es weiter?",
+   "number": "20.",
+   "unit": "Nov.",
+   "text": "Dann bestimmt die SVP-Fraktion ihre offiziellen Kandidaten.",
+   "source": "Quelle: SRF, watson",
+   "vo": "Aeschi ist nicht der einzige Interessent. Eine Findungskommission der Partei prüft die Bewerbungen. Am zwanzigsten November entscheidet die SVP-Fraktion, wen sie offiziell vorschlägt. Gewählt wird am neunten Dezember."
+  }
+ ],
+ "title": "SVP-Fraktionschef Thomas Aeschi will Nachfolger von Bundesrat Guy Parmelin werden",
+ "caption": "Thomas Aeschi, Zuger Nationalrat und Chef der SVP-Fraktion, kandidiert für die Nachfolge von Bundesrat Guy Parmelin. Er sagt, er sei bereit, das Asyldossier zu übernehmen. Am 20. November bestimmt die SVP-Fraktion ihre offiziellen Kandidaten, die Bundesratswahl ist am 9. Dezember.",
+ "hashtags": ["schweiz", "news", "swissnews", "bundesrat", "svp"]
+}
