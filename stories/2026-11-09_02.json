@@ -1,0 +1,67 @@
+{
+ "date": "2026-11-09",
+ "edition": "abend",
+ "say": {},
+ "scenes": [
+  {
+   "type": "headline",
+   "label": "Politik",
+   "headline": "Schweiz entscheidet über AHV-Finanzierung",
+   "source": "Quelle: SRF, BSV",
+   "vo": "Am neunundzwanzigsten November stimmt die Schweiz ab, wie die dreizehnte AHV-Rente bezahlt wird. Die erste Umfrage zeigt ein knappes Rennen."
+  },
+  {
+   "type": "photo",
+   "image": "File:Bundeshaus in Bern 2022.jpg",
+   "label": "Bern",
+   "position": "50% 50%",
+   "text": "Die Mehrwertsteuer soll steigen.",
+   "vo": "Bundesrat und Parlament wollen dafür die Mehrwertsteuer erhöhen. Der Normalsatz soll frühestens ab 2028 von acht Komma eins auf acht Komma fünf Prozent steigen. Lebensmittel und Medikamente bleiben beim tieferen Satz."
+  },
+  {
+   "type": "number",
+   "label": "Mehreinnahmen",
+   "number": "1,4",
+   "unit": "Mrd. CHF",
+   "text": "pro Jahr für die AHV ab 2029, schätzt der Bund",
+   "source": "Quelle: SRF, BSV",
+   "vo": "Das bringt der AHV ab 2029 rund eins Komma vier Milliarden Franken pro Jahr. Ein Haushalt zahlt laut Steuerverwaltung im Schnitt etwa hundertachtzig Franken mehr pro Jahr."
+  },
+  {
+   "type": "number",
+   "label": "Wer ist betroffen?",
+   "number": "2,6",
+   "unit": "Mio.",
+   "text": "Rentnerinnen und Rentner erhalten im Dezember erstmals die 13. Rente",
+   "source": "Quelle: BSV",
+   "vo": "Im Dezember erhalten rund zwei Komma sechs Millionen Menschen zum ersten Mal die dreizehnte Rente. Alleinstehende bekommen bis zu zweitausendfünfhundertzwanzig Franken mehr. Diese Zahlungen sind gesichert, egal wie die Abstimmung ausgeht."
+  },
+  {
+   "type": "statement",
+   "source": "Quelle: SRF, gfs.bern",
+   "text": [
+    "Ja-Seite: Alle Generationen zahlen mit, auch Rentner.",
+    "Nein-Seite: Die Steuer belastet tiefe Einkommen."
+   ],
+   "vo": "Die Befürworter sagen, so zahlen alle Generationen mit, auch die Rentnerinnen und Rentner. Die Gegner sagen, die Mehrwertsteuer belaste tiefe Einkommen, und fordern stattdessen eine Reform."
+  },
+  {
+   "type": "number",
+   "label": "Wie geht es weiter?",
+   "number": "49",
+   "unit": "% Nein",
+   "text": "46 % Ja in der ersten SRG-Umfrage von Mitte Oktober",
+   "source": "Quelle: SRG, gfs.bern",
+   "vo": "In der ersten SRG-Umfrage lag das Nein mit neunundvierzig Prozent knapp vorne. Es braucht das Volks- und das Ständemehr. Ohne mehr Geld wächst das Defizit der AHV bis 2035 auf fast fünf Milliarden Franken pro Jahr, rechnet der Bund."
+  }
+ ],
+ "title": "Mehrwertsteuer für die 13. AHV-Rente: Darum geht es am 29. November",
+ "caption": "Am 29. November entscheidet die Schweiz, ob die Mehrwertsteuer für die 13. AHV-Rente steigt: der Normalsatz von 8,1 auf 8,5 Prozent. Das brächte der AHV laut Bund rund 1,4 Milliarden Franken pro Jahr. Die 13. Rente wird im Dezember erstmals ausbezahlt, die erste SRG-Umfrage zeigt ein knappes Rennen.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "ahv",
+  "abstimmung"
+ ]
+}
