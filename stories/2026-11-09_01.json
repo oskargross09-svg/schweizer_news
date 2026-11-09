@@ -1,0 +1,46 @@
+{
+ "date": "2026-11-09",
+ "edition": "morgen",
+ "say": {"Collaud": "Kolo", "Pasquier": "Paskjee", "Okoroji": "Okorodschi", "Glattal": "Glatt-tal", "Syndicom": "Sindikom"},
+ "scenes": [
+  {
+   "type": "recap",
+   "title": "Das Wichtigste seit gestern",
+   "items": [
+    {"label": "Freiburg", "text": "Drei Bürgerliche im Staatsrat"},
+    {"label": "Sport", "text": "Lugano verliert erstmals"},
+    {"label": "Zürich", "text": "Just-Eat-Kuriere streiken"}
+   ],
+   "vo": "Das Wichtigste seit gestern. In Freiburg sind drei Bürgerliche im ersten Wahlgang in die Regierung gewählt. Leader Lugano verliert in St. Gallen fünf zu null. Und in Zürich streiken Kuriere von Just Eat."
+  },
+  {
+   "type": "place",
+   "label": "1 · Politik",
+   "place": "Freiburg",
+   "lat": 46.8065,
+   "lon": 7.1620,
+   "line": "Kanton Freiburg · 2. Wahlgang am 29.11.",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Im Kanton Freiburg sind drei von sieben Staatsräten gewählt. Es sind Romain Collaud und Didier Castella von der FDP sowie Marie-France Roth Pasquier von der Mitte. Die anderen vier Sitze werden am neunundzwanzigsten November vergeben. Im Kantonsparlament verliert die FDP fünf Sitze."
+  },
+  {
+   "type": "number",
+   "label": "2 · Sport",
+   "number": "5:0",
+   "unit": "für St. Gallen",
+   "text": "Erste Saisonniederlage für Leader Lugano nach 23 Pflichtspielen",
+   "source": "Quelle: watson, Keystone-SDA",
+   "vo": "Der FC St. Gallen schlägt Leader Lugano fünf zu null. Für Lugano ist es die erste Niederlage im vierundzwanzigsten Pflichtspiel der Saison. Albian Ajeti sah schon nach elf Minuten Rot. Lugano bleibt trotzdem sechs Punkte vor YB."
+  },
+  {
+   "type": "headline",
+   "label": "3 · Wirtschaft",
+   "headline": "Just-Eat-Kuriere streiken in Zürich",
+   "source": "Quelle: SRF, Syndicom",
+   "vo": "In Zürich und im Glattal haben Kuriere von Just Eat am Sonntag gestreikt. Just Eat will in mehreren Städten Hunderte fest angestellte Kuriere entlassen. Laut der Gewerkschaft Syndicom fiel mehr als die Hälfte der Schichten aus. Sie fordert Verhandlungen."
+  }
+ ],
+ "title": "Drei Bürgerliche im Freiburger Staatsrat, Lugano verliert 0:5, Just-Eat-Streik: der Überblick",
+ "caption": "Im Kanton Freiburg sind Romain Collaud, Didier Castella (beide FDP) und Marie-France Roth Pasquier (Mitte) im ersten Wahlgang in den Staatsrat gewählt, die vier übrigen Sitze werden am 29. November vergeben. Leader Lugano verliert in St. Gallen 0:5, die erste Niederlage der Saison. In Zürich und im Glattal streikten Just-Eat-Kuriere gegen geplante Entlassungen.",
+ "hashtags": ["schweiz", "news", "swissnews", "freiburg", "superleague"]
+}
