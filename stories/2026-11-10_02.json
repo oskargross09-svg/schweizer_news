@@ -1,0 +1,71 @@
+{
+ "date": "2026-11-10",
+ "edition": "abend",
+ "say": {
+  "Alertswiss": "Älertswiss",
+  "Dragon": "Drägen"
+ },
+ "scenes": [
+  {
+   "type": "headline",
+   "label": "Unglück",
+   "headline": "Salzsäure läuft in Liestal aus",
+   "source": "Quelle: Keystone-SDA, Blick",
+   "vo": "In Liestal im Kanton Basel-Landschaft sind am Dienstagnachmittag rund tausend Liter Salzsäure ausgelaufen. Die Behörden haben die Bevölkerung gewarnt. Wir erklären, was bisher bekannt ist."
+  },
+  {
+   "type": "place",
+   "label": "Was ist passiert?",
+   "place": "Liestal",
+   "lat": 47.477,
+   "lon": 7.731,
+   "line": "Industriegebiet Oristal · Dragon Pharma",
+   "source": "Quelle: Keystone-SDA, Prime News",
+   "vo": "Liestal ist der Hauptort des Kantons Basel-Landschaft. Der Unfall passierte bei der Firma Dragon Pharma im Industriegebiet Oristal. Die Säure lief in flüssiger Form aus. Dabei bildete sich eine Dampfwolke."
+  },
+  {
+   "type": "number",
+   "label": "Die Menge",
+   "number": "1000",
+   "unit": "l",
+   "text": "Liter 37-prozentige Salzsäure, flüssig ausgelaufen",
+   "source": "Quelle: Keystone-SDA, Blick",
+   "vo": "Es handelt sich um siebenunddreissigprozentige Salzsäure. Die Polizei spricht von ätzenden Dämpfen. Der Kanton warnte, es müsse mit der Freisetzung giftiger Stoffe gerechnet werden."
+  },
+  {
+   "type": "statement",
+   "source": "Quelle: Alertswiss",
+   "text": [
+    "Fenster und Türen schliessen.",
+    "Lüftungen und Klimaanlagen ausschalten.",
+    "Das Gebiet um das Industrieareal meiden."
+   ],
+   "vo": "Über Alertswiss rief der Kanton alle in Liestal auf, Fenster und Türen zu schliessen und die Nachbarn zu informieren. Lüftungen und Klimaanlagen sollten ausgeschaltet werden. Und das Gebiet um das Industrieareal sollte man meiden."
+  },
+  {
+   "type": "number",
+   "label": "Wer ist betroffen?",
+   "number": "0",
+   "unit": "Verletzte",
+   "text": "Einsatzkräfte dämmten die Dämpfe mit Sprühnebel ein",
+   "source": "Quelle: Polizei BL, Keystone-SDA",
+   "vo": "Verletzt wurde laut Kantonspolizei niemand. Die Einsatzkräfte dämmten die Dämpfe mit einem Sprühnebel ein. So sollte die Wolke nicht weiter aufsteigen."
+  },
+  {
+   "type": "headline",
+   "label": "Wie geht es weiter?",
+   "headline": "Keine akute Gefahr mehr",
+   "source": "Quelle: Alertswiss, Keystone-SDA",
+   "vo": "Am späteren Nachmittag teilte Alertswiss mit, es bestehe keine akute Gefahr mehr. Möglich sei noch eine Geruchsbelästigung. Warum die Säure ausgelaufen ist und wie gross das betroffene Gebiet war, ist noch unklar."
+  }
+ ],
+ "title": "1000 Liter Salzsäure in Liestal ausgelaufen: Was wir wissen",
+ "caption": "Bei der Firma Dragon Pharma im Industriegebiet Oristal in Liestal BL sind am Dienstag rund 1000 Liter 37-prozentige Salzsäure ausgelaufen, es bildete sich eine Dampfwolke. Der Kanton warnte über Alertswiss, verletzt wurde laut Polizei niemand. Inzwischen besteht laut Alertswiss keine akute Gefahr mehr, die Ursache ist noch unklar.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "liestal",
+  "baselland"
+ ]
+}
