@@ -1,0 +1,61 @@
+{
+ "date": "2026-11-10",
+ "edition": "morgen",
+ "say": {
+  "Xhaka": "Dschaka",
+  "Nyakossi": "Niakossi",
+  "Sunderland": "Sanderländ"
+ },
+ "scenes": [
+  {
+   "type": "recap",
+   "title": "Das Wichtigste seit gestern",
+   "items": [
+    {
+     "label": "Zürich",
+     "text": "Brand im Bundesasylzentrum"
+    },
+    {
+     "label": "Sport",
+     "text": "Xhaka fehlt der Nati verletzt"
+    }
+   ],
+   "vo": "Das Wichtigste seit gestern. In Zürich hat es im Bundesasylzentrum gebrannt. Und Captain Granit Xhaka fehlt der Nati erneut."
+  },
+  {
+   "type": "place",
+   "label": "1 · Unglück",
+   "place": "Zürich",
+   "lat": 47.3893,
+   "lon": 8.5168,
+   "line": "Bundesasylzentrum · Montagabend",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Im Bundesasylzentrum in Zürich ist am Montagabend ein Feuer ausgebrochen. Der Notruf ging um etwa siebzehn Uhr ein. Polizei, Feuerwehr und Sanität rückten mit einem Grossaufgebot aus."
+  },
+  {
+   "type": "number",
+   "label": "1 · Unglück",
+   "number": "4",
+   "unit": "Personen im Spital",
+   "text": "mit Rauchgasvergiftungen, Brandursache noch unklar",
+   "source": "Quelle: SRF, watson",
+   "vo": "Der Brand war schnell unter Kontrolle. Vier Personen kamen mit Rauchgasvergiftungen ins Spital, sagt Schutz und Rettung Zürich. Warum es brannte, ist noch unklar."
+  },
+  {
+   "type": "headline",
+   "label": "2 · Sport",
+   "headline": "Xhaka verpasst Nations League verletzt",
+   "source": "Quelle: SRF, Tages-Anzeiger",
+   "vo": "Granit Xhaka fällt für die letzten Nations-League-Spiele aus. Der Nati-Captain hat sich am Sonntag bei Sunderland an der Wade verletzt. Schon beim letzten Zusammenzug fehlte er, wegen eines gefälschten Covid-Zertifikats. Trainer Murat Yakin bietet Isaac Schmidt und Roggerio Nyakossi nach."
+  }
+ ],
+ "title": "Brand im Bundesasylzentrum Zürich, Xhaka fehlt der Nati: der Überblick",
+ "caption": "Im Bundesasylzentrum in Zürich brach am Montagabend ein Feuer aus, vier Personen kamen mit Rauchgasvergiftungen ins Spital, die Ursache ist unklar. Nati-Captain Granit Xhaka verpasst die letzten Nations-League-Spiele wegen einer Wadenverletzung. Murat Yakin bietet Isaac Schmidt und Roggerio Nyakossi nach.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "zürich",
+  "nati"
+ ]
+}
