@@ -1,0 +1,61 @@
+{
+ "date": "2026-11-11",
+ "edition": "abend",
+ "say": {},
+ "scenes": [
+  {
+   "type": "headline",
+   "label": "Politik",
+   "headline": "Bundesrat genehmigt neuen Ärztetarif",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Der Bundesrat hat am Mittwoch die erste Revision des Ärztetarifs Tardoc genehmigt. Gleichzeitig verlangt er Korrekturen. Wir erklären, worum es geht."
+  },
+  {
+   "type": "photo",
+   "label": "Was ist Tardoc?",
+   "image": "File:Bundeshaus in Bern 2022.jpg",
+   "text": "Tardoc ersetzt seit 2026 den alten Tarif Tarmed.",
+   "vo": "Tardoc gilt seit Anfang 2026. Er hat den alten Tarif Tarmed ersetzt. Damit rechnen Arztpraxen und Spitäler ambulante Behandlungen ab, also alles ohne Übernachtung im Spital."
+  },
+  {
+   "type": "headline",
+   "label": "Was ändert sich?",
+   "headline": "Anpassungen gelten ab 2027",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Die Änderungen gelten ab Anfang 2027. Sie betreffen vor allem die Kinder- und Jugendmedizin und die Notfallstationen der Spitäler. Dazu kommen Pauschalen, etwa in der Hand- und Kinderchirurgie. Einige Vorschläge lehnte der Bundesrat wegen methodischer Mängel ab."
+  },
+  {
+   "type": "number",
+   "label": "Die Kosten",
+   "number": "4",
+   "unit": "%",
+   "text": "So stark dürfen die Kosten pro Jahr höchstens steigen",
+   "source": "Quelle: Bundesrat, SRF",
+   "vo": "Der Bundesrat hat das Kostenwachstum für ambulante ärztliche Leistungen auf höchstens vier Prozent pro Jahr begrenzt. Ein Konzept dafür haben Ärzte, Spitäler und Krankenkassen noch nicht vorgelegt. Darum soll das Innendepartement mögliche staatliche Eingriffe vorbereiten."
+  },
+  {
+   "type": "statement",
+   "text": [
+    "Die Kosten dürfen nicht stärker steigen.",
+    "Hausärzte und Kinderärzte sollen mehr erhalten."
+   ],
+   "vo": "Der Bundesrat verlangt rasche Korrekturen, damit die Kosten nicht stärker steigen. Und die Haus- und Kinderärzte sollen bessergestellt werden, laut Bundesrat zeigen die Berechnungen dort bisher keine Verbesserung."
+  },
+  {
+   "type": "headline",
+   "label": "Wie geht es weiter?",
+   "headline": "Tarifpartner müssen nachbessern",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Mit dem nächsten Gesuch müssen die Tarifpartner einen verbindlichen Fahrplan für die Hausarztmedizin vorlegen. Der Verband der Haus- und Kinderärzte begrüsst das, sagt aber, seine Mitglieder seien mit ihrer Geduld am Ende."
+  }
+ ],
+ "title": "Bundesrat genehmigt Tardoc-Revision und verlangt Korrekturen: Das musst du wissen",
+ "caption": "Der Bundesrat hat die erste Revision des ambulanten Ärztetarifs Tardoc genehmigt, die Änderungen gelten ab Anfang 2027. Er verlangt aber rasche Korrekturen: Die Kosten dürfen höchstens vier Prozent pro Jahr steigen, und Haus- und Kinderärzte sollen bessergestellt werden. Das Innendepartement bereitet mögliche staatliche Eingriffe vor.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "gesundheit",
+  "tardoc"
+ ]
+}
