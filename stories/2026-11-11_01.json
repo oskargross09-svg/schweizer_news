@@ -1,0 +1,67 @@
+{
+ "date": "2026-11-11",
+ "edition": "morgen",
+ "say": {
+  "Softech": "Softtek",
+  "Publica": "Publika",
+  "Akira": "Akira"
+ },
+ "scenes": [
+  {
+   "type": "recap",
+   "title": "Das Wichtigste seit gestern",
+   "items": [
+    {
+     "label": "Bund",
+     "text": "Hacker erpressen offenbar den Bund"
+    },
+    {
+     "label": "Zürich",
+     "text": "Zwei Festnahmen nach Brand"
+    }
+   ],
+   "vo": "Das Wichtigste seit gestern. Hacker erpressen offenbar den Bund mit gestohlenen Daten. Und nach dem Brand im Bundesasylzentrum Zürich hat die Polizei zwei Männer festgenommen."
+  },
+  {
+   "type": "headline",
+   "label": "1 · Politik",
+   "headline": "Hacker erpressen offenbar den Bund",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Die Hackergruppe Akira hat Ende September die Firma PK Softech angegriffen. Sie liefert Software an Publica, die Pensionskasse des Bundes. Laut Recherchen von SRF fordern die Hacker Lösegeld. Sonst wollen sie die Daten veröffentlichen oder verkaufen."
+  },
+  {
+   "type": "photo",
+   "label": "1 · Politik",
+   "image": "File:Bundeshaus in Bern 2022.jpg",
+   "text": "Auch Fedpol-Personal könnte betroffen sein.",
+   "vo": "Der Bund rechnet damit, dass Daten des gesamten Bundespersonals betroffen sein könnten. Auch von Leuten bei Fedpol und Nachrichtendienst, die mit falscher Identität arbeiten. Der Bundesrat gibt dazu keine Auskunft."
+  },
+  {
+   "type": "number",
+   "label": "2 · Zürich",
+   "number": "2",
+   "unit": "Festnahmen",
+   "text": "nach dem Brand im Bundes|asylzentrum, Brandstiftung nicht ausgeschlossen",
+   "source": "Quelle: Stadtpolizei Zürich, Keystone-SDA",
+   "vo": "Nach dem Brand im Bundesasylzentrum in Zürich hat die Stadtpolizei zwei Männer festgenommen, zweiundzwanzig und vierundzwanzig Jahre alt. Brandstiftung sei nicht ausgeschlossen, sagt die Polizei."
+  },
+  {
+   "type": "number",
+   "label": "2 · Zürich",
+   "number": "160",
+   "unit": "",
+   "text": "Personen brauchten nach dem Brand eine andere Unterkunft",
+   "source": "Quelle: Keystone-SDA, Blick",
+   "vo": "Das Feuer war am Montag gegen halb fünf in einem Schlafraum ausgebrochen. Vier Personen kamen ins Spital. Rund hundertsechzig Menschen brauchten danach eine andere Unterkunft."
+  }
+ ],
+ "title": "Hacker erpressen offenbar den Bund, zwei Festnahmen nach Brand in Zürich: der Überblick",
+ "caption": "Die Hackergruppe Akira hat Daten bei PK Softech erbeutet, der Software-Lieferantin der Bundespensionskasse Publica, und fordert laut SRF-Recherchen Lösegeld. Betroffen sein könnten auch verdeckt arbeitende Angestellte von Fedpol und Nachrichtendienst, der Bundesrat äussert sich nicht. Nach dem Brand im Bundesasylzentrum Zürich hat die Stadtpolizei zwei Männer festgenommen, Brandstiftung ist nicht ausgeschlossen.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "cyberangriff",
+  "zürich"
+ ]
+}
