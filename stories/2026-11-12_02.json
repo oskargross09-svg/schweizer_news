@@ -1,0 +1,65 @@
+{
+ "date": "2026-11-12",
+ "edition": "abend",
+ "say": {},
+ "scenes": [
+  {
+   "type": "headline",
+   "label": "Justiz",
+   "headline": "Behörden heben mutmasslichen Kokainring aus",
+   "source": "Quelle: Bundesanwaltschaft, fedpol",
+   "vo": "Die Schweizer Behörden haben ein mutmassliches Netzwerk von Kokainschmugglern ausgehoben. Das teilten die Bundesanwaltschaft und die Bundespolizei am Donnerstag mit. Wir erklären, was passiert ist."
+  },
+  {
+   "type": "number",
+   "label": "Was ist passiert?",
+   "number": "41",
+   "unit": "",
+   "text": "Personen in der Schweiz vorläufig festgenommen",
+   "source": "Quelle: fedpol, Keystone-SDA",
+   "vo": "Am Dienstag und Mittwoch durchsuchte die Polizei vierundachtzig Orte in zwölf Kantonen und sieben weiteren Ländern. In der Schweiz wurden einundvierzig Personen vorläufig festgenommen. Für fünf beantragen die Behörden Untersuchungshaft. Drei weitere Verdächtige sitzen im Ausland in Auslieferungshaft."
+  },
+  {
+   "type": "headline",
+   "label": "Wie lief der Schmuggel?",
+   "headline": "Kokain kam in Schiffs|containern",
+   "source": "Quelle: Bundesanwaltschaft, watson",
+   "vo": "Laut den Behörden schmuggelte die Gruppe seit mindestens 2019 grosse Mengen Kokain von Lateinamerika nach Europa. Die Drogen waren in Schiffscontainern zwischen legaler Ware versteckt. Als Empfänger dienten Handelsfirmen in der Schweiz und in den Niederlanden."
+  },
+  {
+   "type": "number",
+   "label": "Was wurde gefunden?",
+   "number": "750",
+   "unit": "kg",
+   "text": "Kokain sichergestellt, dazu über 2,3 Mio. Franken Bargeld",
+   "source": "Quelle: fedpol, Blick",
+   "vo": "Die Ermittler stellten über siebenhundertfünfzig Kilo Kokain sicher. Dazu kommen über zwei Komma drei Millionen Franken Bargeld, Kryptowährungen und fünfzehn Waffen."
+  },
+  {
+   "type": "place",
+   "label": "Wer ermittelt?",
+   "place": "Frauenfeld",
+   "lat": 47.5569,
+   "lon": 8.8962,
+   "line": "Kanton Thurgau · Strafverfahren seit 2023",
+   "source": "Quelle: Bundesanwaltschaft, watson",
+   "vo": "Begonnen hat der Fall im Thurgau. 2023 eröffnete die Bundesanwaltschaft zusammen mit der Kantonspolizei Thurgau ein Strafverfahren. Bei der Aktion halfen Polizeikorps aus zwölf Kantonen, dazu Europol und Eurojust."
+  },
+  {
+   "type": "headline",
+   "label": "Wie geht es weiter?",
+   "headline": "Ermittlungen gegen Netzwerk laufen weiter",
+   "source": "Quelle: Bundesanwaltschaft, Blick",
+   "vo": "Den Verdächtigen werden Kokainschmuggel und Geldwäscherei vorgeworfen. Weitere Details nennt die Bundesanwaltschaft nicht, weil das Verfahren läuft. Für alle Beschuldigten gilt die Unschuldsvermutung."
+  }
+ ],
+ "title": "41 Festnahmen: Schweizer Behörden heben mutmasslichen Kokainring aus",
+ "caption": "Bundesanwaltschaft und fedpol haben ein mutmassliches Netzwerk von Kokainschmugglern ausgehoben: 84 Durchsuchungen in 12 Kantonen und 7 Ländern, 41 vorläufige Festnahmen in der Schweiz. Die Gruppe soll seit 2019 Kokain in Schiffscontainern von Lateinamerika nach Europa gebracht haben, sichergestellt wurden über 750 Kilo Kokain und über 2,3 Millionen Franken. Die Ermittlungen laufen weiter, es gilt die Unschuldsvermutung.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "kokain",
+  "fedpol"
+ ]
+}
