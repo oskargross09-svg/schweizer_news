@@ -1,0 +1,65 @@
+{
+ "date": "2026-11-12",
+ "edition": "morgen",
+ "say": {
+  "Donzallaz": "Donsala",
+  "van de Graaf": "fan de Graf"
+ },
+ "scenes": [
+  {
+   "type": "recap",
+   "title": "Das Wichtigste seit gestern",
+   "items": [
+    {
+     "label": "Bundesgericht",
+     "text": "Bundesrichter tritt nicht mehr an"
+    },
+    {
+     "label": "Bundesrat",
+     "text": "Status S: Reisen bleiben erlaubt"
+    }
+   ],
+   "vo": "Das Wichtigste seit gestern. Nach der Liebesaffäre am Bundesgericht tritt ein Richter nicht mehr zur Wiederwahl an. Und der Bundesrat will, dass Ukrainer mit Status S weiter ins Ausland reisen dürfen."
+  },
+  {
+   "type": "photo",
+   "label": "1 · Justiz",
+   "image": "File:Lausanne Bundesgericht.jpg",
+   "text": "Bundesrichter Yves Donzallaz verzichtet auf die Wiederwahl.",
+   "vo": "Bundesrichter Yves Donzallaz hat seine Kandidatur zurückgezogen. Das gab die Gerichtskommission des Parlaments am Mittwochabend bekannt. Donzallaz hatte eine Beziehung mit Bundesrichterin Beatrice van de Graaf. Laut Bundesgericht verstiess das gegen das Gesetz."
+  },
+  {
+   "type": "number",
+   "label": "1 · Justiz",
+   "number": "9:7",
+   "unit": "",
+   "text": "Stimmen für die Wiederwahl von Bundesrichterin van de Graaf",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Van de Graaf soll dagegen im Amt bleiben. Die Kommission empfiehlt ihre Wiederwahl mit neun zu sieben Stimmen. Entscheiden wird das Parlament in der Wintersession."
+  },
+  {
+   "type": "headline",
+   "label": "2 · Politik",
+   "headline": "Bundesrat will Reisen für Ukrainer erlauben",
+   "source": "Quelle: Bundesrat, Keystone-SDA",
+   "vo": "Der Bundesrat will Geflüchteten aus der Ukraine mit Status S weiterhin Reisen ins Ausland erlauben. Sie sollen ohne Bewilligung ausreisen und in die Schweiz zurückkehren können."
+  },
+  {
+   "type": "statement",
+   "text": [
+    "Die Regel soll gelten, solange es den Status S gibt.",
+    "Das Parlament entscheidet über die Gesetzes|änderung."
+   ],
+   "vo": "Die Sonderregel soll gelten, bis der Schutzstatus S aufgehoben wird. Über die Gesetzesänderung entscheidet nun das Parlament."
+  }
+ ],
+ "title": "Bundesrichter Donzallaz tritt nicht mehr an, Status S: Reisen sollen erlaubt bleiben",
+ "caption": "Nach der Liebesaffäre am Bundesgericht hat Bundesrichter Yves Donzallaz seine Kandidatur zurückgezogen, Bundesrichterin Beatrice van de Graaf empfiehlt die Gerichtskommission mit 9 zu 7 Stimmen zur Wiederwahl. Das Parlament wählt in der Wintersession. Ausserdem will der Bundesrat Ukrainerinnen und Ukrainern mit Status S weiterhin Auslandreisen ohne Bewilligung erlauben, darüber entscheidet das Parlament.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "bundesgericht",
+  "statuss"
+ ]
+}
