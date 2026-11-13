@@ -1,0 +1,60 @@
+{
+ "date": "2026-11-13",
+ "edition": "morgen",
+ "say": {},
+ "scenes": [
+  {
+   "type": "recap",
+   "title": "Das Wichtigste seit gestern",
+   "items": [
+    {"label": "Bundesbudget", "text": "Kommission will Budget ablehnen"},
+    {"label": "Radio", "text": "SRG-Sender wieder auf UKW"}
+   ],
+   "vo": "Das Wichtigste seit gestern. Eine Kommission des Nationalrats will das Bundesbudget 2027 ablehnen. Und die Radios der SRG sind wieder auf UKW zu hören."
+  },
+  {
+   "type": "photo",
+   "label": "1 · Politik",
+   "image": "File:Bern Parliament Plaza Flagged Wide 2019-09-13 23-11.jpg",
+   "text": "Kommission sagt Nein zum Bundes|budget.",
+   "vo": "Die Finanzkommission des Nationalrats empfiehlt, das Budget des Bundes für 2027 abzulehnen. Laut SRF erinnern sich selbst die Finanzexperten des Bundes nicht an einen solchen Fall."
+  },
+  {
+   "type": "number",
+   "label": "1 · Politik",
+   "number": "15:9",
+   "unit": "",
+   "text": "Stimmen gegen das Budget, bei einer Enthaltung",
+   "source": "Quelle: SRF, AWP",
+   "vo": "Der Entscheid fiel mit fünfzehn zu neun Stimmen. Dagegen stimmten SVP, SP und Grüne, aber aus unterschiedlichen Gründen."
+  },
+  {
+   "type": "statement",
+   "text": [
+    "Die SVP will keine höhere Mehrwertsteuer.",
+    "SP und Grüne kritisieren Kürzungen.",
+    "Der Nationalrat berät das Budget im Dezember."
+   ],
+   "vo": "Die SVP will mehr sparen statt die Mehrwertsteuer zu erhöhen. SP und Grüne kritisieren Kürzungen, etwa beim Klimaschutz und beim Personal. Das letzte Wort hat das Parlament in der Wintersession im Dezember."
+  },
+  {
+   "type": "headline",
+   "label": "2 · Gesellschaft",
+   "headline": "SRG-Radios senden wieder auf UKW",
+   "source": "Quelle: SRF, AWP",
+   "vo": "Die Radiosender der SRG sind wieder analog auf UKW zu empfangen. Die SRG hatte UKW abgeschaltet, das Parlament verlangte dann eine Verlängerung."
+  },
+  {
+   "type": "number",
+   "label": "2 · Gesellschaft",
+   "number": "80",
+   "unit": "%",
+   "text": "der Bevölkerung sollen UKW wieder empfangen können",
+   "source": "Quelle: SRF, AWP",
+   "vo": "Rund achtzig Prozent der Bevölkerung sollen die Sender wieder über UKW hören können. Das kostet die SRG rund sechseinhalb Millionen Franken pro Jahr."
+  }
+ ],
+ "title": "Finanzkommission will Bundesbudget 2027 ablehnen, SRG-Radios wieder auf UKW",
+ "caption": "Die Finanzkommission des Nationalrats empfiehlt mit 15 zu 9 Stimmen, das Bundesbudget 2027 abzulehnen. SVP, SP und Grüne stimmten aus unterschiedlichen Gründen dagegen, entscheiden wird das Parlament in der Wintersession. Ausserdem sind die Radios der SRG wieder auf UKW zu hören, für rund 80 Prozent der Bevölkerung.",
+ "hashtags": ["schweiz", "news", "swissnews", "bundesbudget", "ukw"]
+}
