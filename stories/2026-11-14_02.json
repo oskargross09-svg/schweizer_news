@@ -1,0 +1,63 @@
+{
+ "date": "2026-11-14",
+ "edition": "abend",
+ "scenes": [
+  {
+   "type": "headline",
+   "label": "Unglück",
+   "headline": "Lernender stirbt bei Stapler|unfall",
+   "source": "Quelle: Blick, Keystone-SDA",
+   "vo": "In Leibstadt im Aargau ist ein sechzehnjähriger Lernender bei einem Arbeitsunfall gestorben. Der Fall löst eine Debatte über die Sicherheit von Lernenden aus. Wir erklären, worum es geht."
+  },
+  {
+   "type": "place",
+   "label": "Was ist passiert?",
+   "place": "Leibstadt",
+   "lat": 47.5905,
+   "lon": 8.1768,
+   "line": "Kanton Aargau · Holzfirma",
+   "source": "Quelle: Blick, Keystone-SDA",
+   "vo": "Am Mittwochmorgen wurde in einer Holzverarbeitungsfirma mit einem Hubstapler gearbeitet. Das Gerät stürzte auf den Lernenden. Er starb. Die Kantonspolizei Aargau untersucht, wie es dazu kam."
+  },
+  {
+   "type": "statement",
+   "text": [
+    "Die Familie sagt, er hätte nicht Stapler fahren dürfen.",
+    "Die Firma will den Ermittlungen nicht vorgreifen."
+   ],
+   "vo": "Laut seiner Familie war der Jugendliche im ersten Lehrjahr und hätte keinen Stapler fahren dürfen. Die Firma äussert sich dazu nicht und verweist auf die laufenden Abklärungen."
+  },
+  {
+   "type": "headline",
+   "label": "Was gilt?",
+   "headline": "Erst Ausbildung, dann Stapler",
+   "source": "Quelle: Blick, 20 Minuten",
+   "vo": "Lernende dürfen Stapler fahren, wenn sie die Ausbildung dafür abgeschlossen haben, sagt die Suva. Im ersten Lehrjahr müssen sie zudem ständig von einer Fachperson überwacht werden. Die Gewerkschaft Unia kritisiert, dass das zu wenig kontrolliert werde."
+  },
+  {
+   "type": "number",
+   "label": "Wer ist betroffen?",
+   "number": "3",
+   "unit": "tote Lernende",
+   "text": "pro Jahr im Schnitt bei der Arbeit, laut Unia",
+   "source": "Quelle: Unia, Blick",
+   "vo": "Laut Unia verunfallen Jugendliche in Ausbildung rund dreiundzwanzigtausend Mal pro Jahr bei der Arbeit. Im Schnitt sterben jedes Jahr etwa drei Lernende, die meisten im ersten Lehrjahr."
+  },
+  {
+   "type": "headline",
+   "label": "Wie geht es weiter?",
+   "headline": "Polizei klärt die Unfall|ursache ab",
+   "source": "Quelle: Blick, Keystone-SDA",
+   "vo": "Die Polizei klärt nun ab, wie es zum Unfall kam. Die Ursache ist noch offen. Ob jemand die Verantwortung trägt, müssen die Behörden klären."
+  }
+ ],
+ "title": "Lernender stirbt bei Staplerunfall in Leibstadt AG: Was für Lernende gilt",
+ "caption": "In Leibstadt AG ist ein 16-jähriger Lernender bei einem Unfall mit einem Hubstapler gestorben, die Kantonspolizei Aargau untersucht die Ursache. Der Fall wirft Fragen zur Sicherheit von Lernenden auf: Laut Suva braucht es eine Ausbildung und im ersten Lehrjahr ständige Aufsicht. Die Unia kritisiert fehlende Kontrollen.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "lehre",
+  "arbeitssicherheit"
+ ]
+}
