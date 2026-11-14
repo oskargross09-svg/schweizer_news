@@ -1,0 +1,69 @@
+{
+ "date": "2026-11-14",
+ "edition": "morgen",
+ "say": {
+  "Richemont": "Rischmong"
+ },
+ "scenes": [
+  {
+   "type": "recap",
+   "title": "Das Wichtigste seit gestern",
+   "items": [
+    {
+     "label": "Fussball",
+     "text": "Nati steigt in Liga A auf"
+    },
+    {
+     "label": "Richemont",
+     "text": "Deutlich mehr Gewinn im Halbjahr"
+    },
+    {
+     "label": "Microsoft",
+     "text": "Störung trifft Schweizer Firmen"
+    }
+   ],
+   "vo": "Das Wichtigste seit gestern. Die Fussball-Nati steigt in der Nations League in die Liga A auf. Der Luxuskonzern Richemont verdient im Halbjahr deutlich mehr. Und eine Störung bei Microsoft trifft auch Schweizer Firmen."
+  },
+  {
+   "type": "headline",
+   "label": "1 · Sport",
+   "headline": "Nati steigt in die Liga A auf",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Der Schweiz reichte ein Unentschieden ohne Tore in Slowenien. Damit ist der Aufstieg in die Liga A schon vor dem letzten Spiel sicher. Am Montag spielt die Nati in St. Gallen gegen Schottland."
+  },
+  {
+   "type": "number",
+   "label": "2 · Wirtschaft",
+   "number": "2,5",
+   "unit": "Mrd. Euro",
+   "text": "Reingewinn von Richemont im Halbjahr, plus 39 %",
+   "source": "Quelle: AWP, FashionNetwork",
+   "vo": "Der Genfer Luxuskonzern Richemont steigerte seinen Reingewinn im ersten Halbjahr um neununddreissig Prozent, auf zweieinhalb Milliarden Euro. Der Umsatz wuchs um sechzehn Prozent."
+  },
+  {
+   "type": "headline",
+   "label": "3 · Digital",
+   "headline": "Microsoft-Störung trifft Schweizer Firmen",
+   "source": "Quelle: Keystone-SDA, AWP",
+   "vo": "Am Freitag behinderte eine Störung bei Microsoft viele Firmen. Betroffen waren Outlook, Teams und SharePoint, auch an der ETH Zürich."
+  },
+  {
+   "type": "number",
+   "label": "3 · Digital",
+   "number": "40",
+   "unit": "Minuten",
+   "text": "später als geplant kamen die Zahlen von Richemont",
+   "source": "Quelle: Keystone-SDA, AWP",
+   "vo": "Richemont veröffentlichte seine Zahlen deshalb rund vierzig Minuten zu spät. Die Bundesverwaltung hatte laut eigenen Angaben nur kleine Probleme. Hinweise auf einen Cyberangriff gibt es laut Microsoft keine."
+  }
+ ],
+ "title": "Nati steigt in die Liga A auf, Richemont mit mehr Gewinn, Microsoft-Störung",
+ "caption": "Die Fussball-Nati steigt nach einem 0:0 in Slowenien vorzeitig in die Liga A der Nations League auf, am Montag folgt das letzte Spiel gegen Schottland in St. Gallen. Richemont steigert den Reingewinn im Halbjahr um 39 Prozent auf 2,5 Milliarden Euro. Und eine Störung bei Microsoft behinderte am Freitag auch Schweizer Firmen und Hochschulen.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "nati",
+  "richemont"
+ ]
+}
