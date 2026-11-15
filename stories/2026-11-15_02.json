@@ -1,0 +1,55 @@
+{
+ "date": "2026-11-15",
+ "edition": "abend",
+ "scenes": [
+  {
+   "type": "headline",
+   "label": "Politik",
+   "headline": "EU-Abstimmung kommt erst nach den Wahlen",
+   "source": "Quelle: SRF, Bundeskanzlei",
+   "vo": "Über die neuen Verträge mit der EU stimmt die Schweiz wohl frühestens 2028 ab. Eine Abstimmung vor den Wahlen 2027 ist damit vom Tisch. Das Paket soll die Beziehungen zur EU neu regeln. Wir erklären, warum es länger dauert."
+  },
+  {
+   "type": "place",
+   "label": "Was ist passiert?",
+   "place": "Bundeshaus Bern",
+   "lat": 46.9466,
+   "lon": 7.444,
+   "line": "Wintersession · EU-Vertragspaket",
+   "source": "Quelle: SRF",
+   "vo": "Der Nationalrat will das ganze Paket im Dezember beraten, mit zusätzlichen Sitzungen. Danach müssten beide Räte ihre Differenzen bereinigen. Dafür hat der Ständerat in der Wintersession aber keine Zeit eingeplant."
+  },
+  {
+   "type": "number",
+   "label": "Warum?",
+   "number": "Juni",
+   "text": "wäre der letzte Termin 2027 gewesen, vor den Wahlen im Herbst",
+   "source": "Quelle: SRF, Bundeskanzlei",
+   "vo": "Wegen der Wahlen im Herbst 2027 wäre der Juni der letzte mögliche Termin im nächsten Jahr gewesen. Diesen verpasst das Parlament, bestätigt die Bundeskanzlei. Die Session ist zudem voll mit Budget, Armeefinanzen und Wahlen."
+  },
+  {
+   "type": "statement",
+   "text": [
+    "Die SVP bekämpft das Vertragspaket.",
+    "Ihr Wahlkampfleiter zeigt sich erleichtert."
+   ],
+   "vo": "Die SVP lehnt die neuen Verträge ab. Ihr Wahlkampfleiter Manuel Strupler sagt gegenüber SRF, er sei natürlich erleichtert."
+  },
+  {
+   "type": "headline",
+   "label": "Wie geht es weiter?",
+   "headline": "Stimmvolk entscheidet frühestens 2028",
+   "source": "Quelle: SRF",
+   "vo": "Nach dem Nationalrat geht das Geschäft zurück an den Ständerat in einer späteren Session. Offen ist auch, ob neben dem Volk auch die Kantone zustimmen müssen, das sogenannte Ständemehr. Bis zur Abstimmung dürfte die Europapolitik den Wahlkampf prägen."
+  }
+ ],
+ "title": "EU-Verträge: Die Schweiz stimmt wohl erst 2028 ab",
+ "caption": "Das Parlament wird mit dem EU-Vertragspaket in der Wintersession nicht fertig, weil der Ständerat keine Differenzbereinigung eingeplant hat. Damit ist eine Volksabstimmung vor den Wahlen im Herbst 2027 vom Tisch, wie die Bundeskanzlei gegenüber SRF bestätigt. Das Stimmvolk entscheidet frühestens 2028.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "eu",
+  "abstimmung"
+ ]
+}
