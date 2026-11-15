@@ -1,0 +1,68 @@
+{
+ "date": "2026-11-15",
+ "edition": "morgen",
+ "say": {
+  "Camille": "Kamij"
+ },
+ "scenes": [
+  {
+   "type": "recap",
+   "title": "Das Wichtigste seit gestern",
+   "items": [
+    {
+     "label": "Genf",
+     "text": "Tausende demonstrieren gegen Sparbudget"
+    },
+    {
+     "label": "Ski",
+     "text": "Kein Schweizer Podest in Levi"
+    }
+   ],
+   "vo": "Das Wichtigste seit gestern. In Genf demonstrieren Tausende gegen die Sparpläne des Kantons. Und beim Slalom in Levi fahren die Schweizerinnen nicht aufs Podest."
+  },
+  {
+   "type": "place",
+   "label": "1 · Genf",
+   "place": "Genf",
+   "lat": 46.2076,
+   "lon": 6.1475,
+   "line": "Kanton Genf · Demonstration",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "In Genf zogen am Samstag Tausende Menschen durch die Stadt. Die Polizei zählte rund dreitausendfünfhundert, die Organisatoren sprachen von bis zu siebentausend. Aufgerufen hatten Gewerkschaften, Verbände und linke Parteien. Zwischenfälle gab es keine."
+  },
+  {
+   "type": "number",
+   "label": "1 · Genf",
+   "number": "248",
+   "unit": "Mio.",
+   "text": "Franken will der Kanton Genf 2027 sparen",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Der Kanton will im Budget 2027 rund zweihundertachtundvierzig Millionen Franken sparen. Gekürzt werden soll etwa bei Kultur, Gesundheit und Sozialem. Im Dezember berät das Kantonsparlament über das Budget."
+  },
+  {
+   "type": "headline",
+   "label": "2 · Sport",
+   "headline": "Kein Schweizer Podest in Levi",
+   "source": "Quelle: watson, Blick",
+   "vo": "Den Slalom in Levi in Finnland gewann die Deutsche Emma Aicher. Beste Schweizerin war Wendy Holdener auf Rang zehn. Camille Rast wurde Elfte."
+  },
+  {
+   "type": "number",
+   "label": "2 · Sport",
+   "number": "14",
+   "unit": "Rang",
+   "text": "für Aline Höpli, ihr bestes Weltcup-Resultat",
+   "source": "Quelle: watson, Blick",
+   "vo": "Für eine Überraschung sorgte Aline Höpli aus dem Kanton St. Gallen. Sie fuhr auf Rang vierzehn, ihr bestes Resultat im Weltcup."
+  }
+ ],
+ "title": "Tausende demonstrieren in Genf gegen Sparbudget, kein Schweizer Podest in Levi",
+ "caption": "In Genf haben am Samstag Tausende gegen die Sparpläne des Kantons demonstriert, die Polizei zählte rund 3500 Personen. Das Budget 2027 sieht Einsparungen von 247,7 Millionen Franken vor, im Dezember entscheidet das Kantonsparlament. Beim Slalom in Levi war Wendy Holdener als Zehnte beste Schweizerin, Aline Höpli fuhr auf Rang 14.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "genf",
+  "ski"
+ ]
+}
