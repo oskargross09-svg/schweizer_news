@@ -1,0 +1,64 @@
+{
+ "date": "2026-11-16",
+ "edition": "abend",
+ "say": {
+  "Aeschi": "Äschi",
+  "Amaudruz": "Amodrü",
+  "Parmelin": "Parmeläng",
+  "Chiesa": "Kiesa"
+ },
+ "scenes": [
+  {
+   "type": "headline",
+   "label": "Politik",
+   "headline": "SVP sucht Nachfolge für Parmelin",
+   "source": "Quelle: SRF, Blick, Nau.ch",
+   "vo": "Diese Woche wird es spannend für die SVP. Die Partei muss entscheiden, wen sie für den Bundesrat vorschlägt. Bundesrat Guy Parmelin tritt Ende Jahr zurück. Wir erklären, wie es jetzt weitergeht."
+  },
+  {
+   "type": "place",
+   "label": "Was ist passiert?",
+   "place": "Bundeshaus Bern",
+   "lat": 46.9466,
+   "lon": 7.444,
+   "line": "Bundesratswahl · Nachfolge Parmelin",
+   "source": "Quelle: SRF, Nau.ch",
+   "vo": "Guy Parmelin sitzt seit elf Jahren im Bundesrat. Ende 2026 tritt er zurück. Sein Sitz gehört der SVP, der grössten Partei im Parlament. Deshalb sucht die Partei eine Nachfolge aus den eigenen Reihen."
+  },
+  {
+   "type": "number",
+   "label": "Wer kandidiert?",
+   "number": "8",
+   "unit": "Personen",
+   "text": "aus der SVP für den freien Sitz im Bundesrat",
+   "source": "Quelle: SRF, Blick",
+   "vo": "Acht Personen aus der SVP wollen in den Bundesrat. Darunter sind Fraktionschef Thomas Aeschi, die Genfer Nationalrätin Amaudruz und der Tessiner Ständerat Marco Chiesa. Laut Blick dürfte Aeschi auf dem offiziellen Ticket stehen. Wer neben ihm aufgestellt wird, ist offen."
+  },
+  {
+   "type": "statement",
+   "text": [
+    "Eine Kommission prüft alle Kandidierenden.",
+    "Ihr Entscheid wurde auf diese Woche verschoben."
+   ],
+   "vo": "Eine Findungskommission der SVP prüft alle Kandidierenden genau. Sie hat ihren Entscheid letzte Woche auf diese Woche vertagt, sagte Präsident Caspar Baader."
+  },
+  {
+   "type": "number",
+   "label": "Wie geht es weiter?",
+   "number": "9.",
+   "unit": "Dezember",
+   "text": "wählt das Parlament das neue Mitglied des Bundesrats",
+   "source": "Quelle: SRF, Nau.ch",
+   "vo": "Am Freitag will die SVP-Fraktion ihr Ticket bestimmen. Die Partei will mindestens zwei Personen vorschlagen. Ob der Termin hält, ist laut Nau offen. Am neunten Dezember wählt dann die Vereinigte Bundesversammlung das neue Mitglied des Bundesrats."
+  }
+ ],
+ "title": "Parmelin-Nachfolge: Diese Woche entscheidet die SVP über ihr Bundesratsticket",
+ "caption": "Bundesrat Guy Parmelin tritt Ende 2026 zurück, acht SVP-Politikerinnen und -Politiker wollen seinen Sitz. Eine Findungskommission prüft die Kandidaturen, ihr Entscheid wurde auf diese Woche verschoben. Die SVP-Fraktion will am Freitag ihr Ticket bestimmen, am 9. Dezember wählt die Bundesversammlung.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "bundesrat",
+  "svp"
+ ]
+}
