@@ -1,0 +1,63 @@
+{
+ "date": "2026-11-16",
+ "edition": "morgen",
+ "say": {
+  "Meillard": "Mejaa",
+  "Pinheiro Braathen": "Pinjeeru Braaten",
+  "Noël": "Noäll"
+ },
+ "scenes": [
+  {
+   "type": "recap",
+   "title": "Das Wichtigste seit gestern",
+   "items": [
+    {
+     "label": "Waffen",
+     "text": "Schweizer Munition gelangte nach Russland"
+    },
+    {
+     "label": "Ski",
+     "text": "Meillard fährt in Levi aufs Podest"
+    }
+   ],
+   "vo": "Das Wichtigste seit gestern. Schweizer Scharfschützenmunition ist über Umwege nach Russland gelangt. Und Loïc Meillard fährt beim Slalom in Levi auf Rang drei."
+  },
+  {
+   "type": "place",
+   "label": "1 · Waffen",
+   "place": "Thun",
+   "lat": 46.758,
+   "lon": 7.628,
+   "line": "Kanton Bern · Munitionsexport",
+   "source": "Quelle: NZZ am Sonntag, SRF",
+   "vo": "Die Munition wurde in Thun hergestellt, damals noch von Ruag. Sie wurde legal nach Slowenien exportiert. Von dort gelangte sie laut NZZ am Sonntag über Kirgistan nach Russland."
+  },
+  {
+   "type": "number",
+   "label": "1 · Waffen",
+   "number": "110",
+   "unit": "Tsd. Schuss",
+   "text": "gelangten laut Recherche 2022 und 2023 nach Russland",
+   "source": "Quelle: NZZ am Sonntag, watson",
+   "vo": "Laut der Recherche sind es mindestens hundertzehntausend Schuss, geliefert im Dezember 2022 und im April 2023. Das Seco klärt den Fall ab. Am neunundzwanzigsten November stimmt die Schweiz über das neue Kriegsmaterialgesetz ab."
+  },
+  {
+   "type": "number",
+   "label": "2 · Sport",
+   "number": "3.",
+   "unit": "Rang",
+   "text": "für Loïc Meillard im Slalom von Levi",
+   "source": "Quelle: Reuters, AP",
+   "vo": "Im Slalom von Levi in Finnland fuhr Loïc Meillard auf Rang drei. Es gewann Lucas Pinheiro Braathen aus Brasilien vor dem Franzosen Clément Noël. Meillard fehlten dreiundsiebzig Hundertstel auf den Sieger."
+  }
+ ],
+ "title": "Schweizer Munition in Russland, Meillard auf dem Podest in Levi",
+ "caption": "Laut einer Recherche der NZZ am Sonntag gelangten mindestens 110 000 Schuss Scharfschützenmunition aus Thun über Slowenien und Kirgistan nach Russland. Das Seco klärt den Fall ab, am 29. November stimmt die Schweiz über das revidierte Kriegsmaterialgesetz ab. Im Slalom von Levi fuhr Loïc Meillard auf Rang drei.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "munition",
+  "ski"
+ ]
+}
