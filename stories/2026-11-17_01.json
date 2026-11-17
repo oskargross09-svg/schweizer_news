@@ -1,0 +1,61 @@
+{
+ "date": "2026-11-17",
+ "edition": "morgen",
+ "say": {
+  "Whatsapp": "Wotsäpp"
+ },
+ "scenes": [
+  {
+   "type": "recap",
+   "title": "Das Wichtigste seit gestern",
+   "items": [
+    {
+     "label": "EU-Verträge",
+     "text": "Kommission will das Ständemehr"
+    },
+    {
+     "label": "Betrug",
+     "text": "Reka-Kundendaten in falschen Händen"
+    }
+   ],
+   "vo": "Das Wichtigste seit gestern. Eine Kommission des Nationalrats will, dass bei den EU-Verträgen auch die Kantone ein Wort mitreden. Und Betrüger schreiben Kundinnen und Kunden der Reka mit echten Buchungsdaten an."
+  },
+  {
+   "type": "number",
+   "label": "1 · EU-Verträge",
+   "number": "14",
+   "unit": "zu 11",
+   "text": "Stimmen für ein obligatorisches Referendum mit Ständemehr",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Die Staatspolitische Kommission des Nationalrats hat mit vierzehn zu elf Stimmen entschieden. Für das EU-Vertragspaket soll es ein obligatorisches Referendum geben. Dann braucht es das Volk und die Mehrheit der Kantone. Der Bundesrat wollte nur das Volksmehr."
+  },
+  {
+   "type": "place",
+   "label": "1 · EU-Verträge",
+   "place": "Bundeshaus Bern",
+   "lat": 46.9466,
+   "lon": 7.444,
+   "line": "Wintersession · EU-Vertragspaket",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Der Ständerat hat sich bereits für das Ständemehr ausgesprochen. In der Wintersession berät nun der Nationalrat über das Paket. Verabschiedet wird es dort laut Keystone-SDA noch nicht."
+  },
+  {
+   "type": "number",
+   "label": "2 · Betrug",
+   "number": "8,2",
+   "unit": "Tsd.",
+   "text": "Kundinnen und Kunden: Täter erbeuteten Personen- und Reisedaten",
+   "source": "Quelle: Tages-Anzeiger, Keystone-SDA",
+   "vo": "Die Schweizer Reisekasse Reka wurde am Sonntag gehackt. Rund achttausendzweihundert Kundinnen und Kunden sind betroffen. Sie erhalten Whatsapp-Nachrichten mit echten Buchungsdaten und einem Link. Reka hat Anzeige erstattet und rät: keine Daten oder Zahlungsangaben weitergeben."
+  }
+ ],
+ "title": "EU-Verträge: Kommission will Ständemehr – Hackerangriff auf Reka-Kunden",
+ "caption": "Die Staatspolitische Kommission des Nationalrats verlangt mit 14 zu 11 Stimmen ein obligatorisches Referendum mit Ständemehr für das EU-Vertragspaket. Der Nationalrat berät das Paket in der Wintersession. Bei einem Hackerangriff auf die Reka wurden Daten von rund 8200 Kundinnen und Kunden erbeutet, Betrüger verschicken nun Whatsapp-Nachrichten mit echten Buchungsdaten.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "euvertraege",
+  "reka"
+ ]
+}
