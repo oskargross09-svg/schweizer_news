@@ -1,0 +1,67 @@
+{
+ "date": "2026-11-17",
+ "edition": "abend",
+ "say": {},
+ "scenes": [
+  {
+   "type": "headline",
+   "label": "Wirtschaft",
+   "headline": "Trockenheit drückt Einkommen der Bauern",
+   "source": "Quelle: Bundesamt für Statistik",
+   "vo": "Der heisse und trockene Sommer hat die Schweizer Landwirtschaft hart getroffen. Das zeigt eine neue Schätzung des Bundesamts für Statistik. Wir erklären, was das bedeutet."
+  },
+  {
+   "type": "number",
+   "label": "Was ist passiert?",
+   "number": "17",
+   "unit": "% weniger",
+   "text": "Einkommen der Landwirtschaft 2026 als im Vorjahr",
+   "source": "Quelle: Bundesamt für Statistik",
+   "vo": "Das Einkommen der gesamten Schweizer Landwirtschaft sinkt 2026 um siebzehn Prozent. Es liegt bei rund 2,8 Milliarden Franken. Das ist auch weniger als im Schnitt der letzten fünf Jahre."
+  },
+  {
+   "type": "number",
+   "label": "Warum?",
+   "number": "30",
+   "unit": "Jahre",
+   "text": "so tiefe Ernten bei Kartoffeln und Zuckerrüben gab es lange nicht",
+   "source": "Quelle: Bundesamt für Statistik",
+   "vo": "Der Grund ist die Hitze und Trockenheit im Sommer. Kartoffeln und Zuckerrüben fielen so tief aus wie seit dreissig Jahren nicht mehr. Auch Wiesen und Weiden litten, beim Futter gab es grosse Einbussen. Nur das Getreide konnte früh und gut geerntet werden."
+  },
+  {
+   "type": "number",
+   "label": "Wer ist betroffen?",
+   "number": "34,3",
+   "unit": "%",
+   "text": "tiefere Preise für Schweine, weil das Angebot zu gross ist",
+   "source": "Quelle: Bundesamt für Statistik",
+   "vo": "Dazu kommt ein Überangebot an Schweinen. Deren Preise fielen um rund vierunddreissig Prozent. Anders bei den Rindern: Hier ist der Produktionswert so hoch wie seit Anfang der Neunzigerjahre nicht mehr."
+  },
+  {
+   "type": "number",
+   "label": "Höhere Kosten",
+   "number": "15,6",
+   "unit": "%",
+   "text": "mehr kosteten Treibstoff und Heizmittel, Dünger plus 7,9 %",
+   "source": "Quelle: Bundesamt für Statistik",
+   "vo": "Der Rückgang betrifft laut Bundesamt alle Bauernfamilien in der Schweiz. Gleichzeitig stiegen einige Kosten. Treibstoff und Heizmittel wurden fast sechzehn Prozent teurer, Dünger rund acht Prozent."
+  },
+  {
+   "type": "statement",
+   "text": [
+    "Viele Betriebe brauchten ihr Futter schon früh.",
+    "Die Knappheit zeigt sich laut BFS erst 2027 ganz."
+   ],
+   "vo": "Wegen der Trockenheit mussten viele Betriebe ihre Futterreserven schon früh brauchen. Das Bundesamt erwartet deshalb, dass sich die Futterknappheit erst 2027 in ihrem ganzen Ausmass zeigt."
+  }
+ ],
+ "title": "Trockenheit 2026: Einkommen der Schweizer Landwirtschaft sinkt um 17 Prozent",
+ "caption": "Hitze und Trockenheit im Sommer 2026 haben der Schweizer Landwirtschaft stark zugesetzt: Das Einkommen des Sektors sinkt laut Bundesamt für Statistik um 17 Prozent auf rund 2,8 Milliarden Franken. Kartoffeln und Zuckerrüben fielen so tief aus wie seit 30 Jahren nicht mehr, zudem drückt ein Überangebot die Schweinepreise. Die Futterknappheit dürfte sich laut BFS erst 2027 voll zeigen.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "landwirtschaft",
+  "trockenheit"
+ ]
+}
