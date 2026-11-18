@@ -1,0 +1,69 @@
+{
+ "date": "2026-11-18",
+ "edition": "abend",
+ "say": {},
+ "scenes": [
+  {
+   "type": "headline",
+   "label": "Politik",
+   "headline": "AHV-Finanzierung droht ein Nein",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Elf Tage vor der Abstimmung steht die Finanzierung der dreizehnten AHV-Rente auf der Kippe. Das zeigen neue Umfragen. Wir erklären, worum es geht."
+  },
+  {
+   "type": "number",
+   "label": "Was ist passiert?",
+   "number": "51",
+   "unit": "% Nein",
+   "text": "zur AHV-Mehrwertsteuer in der zweiten SRG-Umfrage",
+   "source": "Quelle: SRF, gfs.bern",
+   "vo": "In der zweiten SRG-Umfrage sind einundfünfzig Prozent dagegen und sechsundvierzig Prozent dafür. Die Fehlerspanne liegt bei knapp drei Prozentpunkten. Auch die Umfrage von Tamedia zeigt ein Nein, mit siebenundfünfzig Prozent."
+  },
+  {
+   "type": "number",
+   "label": "Worum geht es?",
+   "number": "0,4",
+   "unit": "Punkte",
+   "text": "Prozentpunkte mehr Mehrwertsteuer beim Normalsatz, für die AHV",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Die Vorlage will die Mehrwertsteuer um null Komma vier Prozentpunkte erhöhen. Das Geld soll die dreizehnte AHV-Rente mitfinanzieren. Sie kostet anfangs über vier Milliarden Franken. Die tieferen Sätze, etwa für Lebensmittel, steigen nicht."
+  },
+  {
+   "type": "place",
+   "label": "Wer ist dafür?",
+   "place": "Bundeshaus, Bern",
+   "lat": 46.9466,
+   "lon": 7.4440,
+   "line": "Bundesrat und Parlament · empfehlen Ja",
+   "source": "Quelle: SRF",
+   "vo": "Bundesrat und Parlament empfehlen ein Ja. Weil die Verfassung geändert wird, braucht es ein doppeltes Ja: vom Volk und von der Mehrheit der Kantone."
+  },
+  {
+   "type": "number",
+   "label": "Wer ist betroffen?",
+   "number": "53",
+   "unit": "% Ja",
+   "text": "bei den über 65-Jährigen – Jüngere sind skeptischer",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Die Vorlage spaltet Jung und Alt. Bei den über Fünfundsechzigjährigen sind laut SRG-Umfrage dreiundfünfzig Prozent dafür. Jüngere lehnen die Steuer in den Umfragen eher ab."
+  },
+  {
+   "type": "statement",
+   "text": [
+    "Abstimmung am 29. November.",
+    "Bei einem Ja: höhere Steuer frühestens 2028.",
+    "Renten 2026 und 2027 zahlt der AHV-Fonds."
+   ],
+   "vo": "Abgestimmt wird am 29. November, laut gfs.bern wird es knapp. Bei einem Ja gilt die höhere Steuer frühestens ab 2028. Die dreizehnten Renten für 2026 und 2027 zahlt die AHV aus ihrem Fonds."
+  }
+ ],
+ "title": "Umfragen: Finanzierung der 13. AHV-Rente droht ein Nein",
+ "caption": "Elf Tage vor der Abstimmung vom 29. November sind laut zweiter SRG-Umfrage 51 Prozent gegen die höhere Mehrwertsteuer für die 13. AHV-Rente, 46 Prozent dafür; auch die Tamedia-Umfrage zeigt ein Nein. Die Vorlage erhöht den Normalsatz um 0,4 Prozentpunkte und braucht als Verfassungsänderung Volk und Stände. Bei einem Ja würde die höhere Steuer frühestens ab 2028 gelten.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "ahv",
+  "abstimmung"
+ ]
+}
