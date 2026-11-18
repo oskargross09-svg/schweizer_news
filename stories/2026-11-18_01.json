@@ -1,0 +1,67 @@
+{
+ "date": "2026-11-18",
+ "edition": "morgen",
+ "say": {},
+ "scenes": [
+  {
+   "type": "recap",
+   "title": "Das Wichtigste seit gestern",
+   "items": [
+    {
+     "label": "Wetter",
+     "text": "Bund warnt vor Sturm"
+    },
+    {
+     "label": "Gesundheit",
+     "text": "Mehr Tote durch resistente Bakterien"
+    }
+   ],
+   "vo": "Das Wichtigste seit gestern. Der Bund warnt im Mittelland und im Jura vor Sturm. Und ein neuer Bericht zeigt: Resistente Bakterien fordern mehr Todesopfer."
+  },
+  {
+   "type": "number",
+   "label": "1 · Wetter",
+   "number": "3",
+   "unit": "Stufe",
+   "text": "Gefahrenstufe für Sturm in Mittelland und Jura bis Mittwoch, 9 Uhr",
+   "source": "Quelle: Blick, Nau.ch",
+   "vo": "Der Bund hat für das Mittelland und den Jura eine Sturmwarnung der Stufe drei herausgegeben. Sie gilt bis heute Morgen um neun Uhr. Äste können abbrechen und Bäume umstürzen. Auch Bahn und Strassen können gestört sein."
+  },
+  {
+   "type": "statement",
+   "text": [
+    "Wälder und Alleen meiden.",
+    "Lose Gegenstände draussen sichern.",
+    "Schneefallgrenze sinkt bis auf 1200 Meter."
+   ],
+   "vo": "Der Bund rät, Wälder und Alleen zu meiden. Lose Gegenstände draussen sollte man sichern. In den Bergen fällt viel Neuschnee, die Schneefallgrenze sinkt bis auf zwölfhundert Meter."
+  },
+  {
+   "type": "number",
+   "label": "2 · Gesundheit",
+   "number": "258",
+   "unit": "Tote",
+   "text": "durch hochresistente Bakterien 2024, geschätzt – 2010 waren es 135",
+   "source": "Quelle: BAG, Keystone-SDA",
+   "vo": "Laut dem neuen Antibiotika-Resistenzbericht des Bundes starben 2024 schätzungsweise zweihundertachtundfünfzig Menschen an hochresistenten Bakterien. 2010 waren es noch hundertfünfunddreissig."
+  },
+  {
+   "type": "number",
+   "label": "2 · Gesundheit",
+   "number": "9,9",
+   "unit": "Dosen",
+   "text": "Antibiotika-Tagesdosen pro 1000 Personen und Tag im Jahr 2025",
+   "source": "Quelle: BAG, Keystone-SDA",
+   "vo": "Gleichzeitig werden weniger Antibiotika verschrieben. Damit erreicht die Schweiz ihr Ziel für 2027 schon jetzt. In der ambulanten Versorgung weicht aber etwa jede fünfte Verschreibung von den Richtlinien ab."
+  }
+ ],
+ "title": "Sturmwarnung Stufe 3 – mehr Todesfälle durch resistente Bakterien",
+ "caption": "Der Bund warnt im Mittelland und im Jura bis Mittwoch, 9 Uhr, vor Sturm der Stufe 3, in den Bergen fällt viel Neuschnee. Laut dem neuen Antibiotika-Resistenzbericht des Bundes starben 2024 schätzungsweise 258 Menschen an hochresistenten Bakterien, fast doppelt so viele wie 2010. Der Antibiotika-Verbrauch sinkt zwar, doch jede fünfte ambulante Verschreibung weicht von den Richtlinien ab.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "sturm",
+  "antibiotika"
+ ]
+}
