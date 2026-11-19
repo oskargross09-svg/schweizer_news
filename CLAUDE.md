@@ -86,6 +86,8 @@ python3 pipeline/publish.py stories/<name>.json
 ```
 Rendert das MP4 (~3–5 min), lädt es hoch und plant es über die GitHub Action in Buffer für 06:30 bzw. 18:30 (Zürich) auf
 TikTok, Instagram und YouTube.
+  YouTube geht direkt über die YouTube-API (`scripts/youtube.py`; YouTube veröffentlicht selbst zum geplanten Zeitpunkt), sobald die Secrets
+  `YOUTUBE_CLIENT_ID`, `YOUTUBE_CLIENT_SECRET`, `YOUTUBE_REFRESH_TOKEN` gesetzt sind. TikTok und Instagram laufen weiter über Buffer.
 - Ist es schon später als 15 Minuten vor dem Termin: `--now` anhängen (sofort veröffentlichen).
 - `RESULT: OK` → fertig. Abschluss mit 2 Zeilen (Thema + Termin).
 - `RESULT: FAILED` / `UNKNOWN` oder ein nicht lösbarer Fehler → einmal wiederholen; klappt es nicht, Push-Mitteilung an den
