@@ -1,0 +1,70 @@
+{
+ "date": "2026-11-19",
+ "edition": "morgen",
+ "say": {
+  "Snus": "Snuus"
+ },
+ "scenes": [
+  {
+   "type": "recap",
+   "title": "Das Wichtigste seit gestern",
+   "items": [
+    {
+     "label": "Bundesratswahl",
+     "text": "SVP-Spitze will Zweierticket"
+    },
+    {
+     "label": "Gesundheit",
+     "text": "Abgabe auch auf E-Zigaretten"
+    }
+   ],
+   "vo": "Das Wichtigste seit gestern. Die SVP-Spitze will zwei Kandidierende für den Bundesrat vorschlagen. Und der Bundesrat will auch E-Zigaretten und Snus mit einer Präventionsabgabe belegen."
+  },
+  {
+   "type": "place",
+   "label": "1 · Bundesratswahl",
+   "place": "Bundeshaus, Bern",
+   "lat": 46.9466,
+   "lon": 7.444,
+   "line": "SVP-Fraktionsvorstand · empfiehlt Zweierticket",
+   "source": "Quelle: SRF, watson",
+   "vo": "Der Vorstand der SVP-Fraktion empfiehlt ein Zweierticket für die Nachfolge von Bundesrat Guy Parmelin. Er folgt damit der Findungskommission. Die Fraktion entscheidet am Freitag."
+  },
+  {
+   "type": "number",
+   "label": "1 · Bundesratswahl",
+   "number": "8",
+   "unit": "Personen",
+   "text": "kandidieren, laut Findungs|kommission alle wählbar",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Acht Personen wollen Bundesrat werden, eine Frau und sieben Männer. Laut der Findungskommission sind alle wählbar. Das Parlament wählt am neunten Dezember."
+  },
+  {
+   "type": "number",
+   "label": "2 · Gesundheit",
+   "number": "2,6",
+   "unit": "Rappen",
+   "text": "pro Zigaretten|packung fliessen heute in den Präventions|fonds",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Heute fliessen pro verkaufte Zigarettenpackung zwei Komma sechs Rappen in den Tabakpräventionsfonds. Auf E-Zigaretten und Snus gibt es keine solche Abgabe. Der Bundesrat will das mit der nächsten Revision des Tabaksteuergesetzes ändern."
+  },
+  {
+   "type": "statement",
+   "text": [
+    "Neue Produkte bei Jungen besonders beliebt.",
+    "Fonds hat laut Bund immer weniger Geld.",
+    "Neue Präventions|strategie ab 2029."
+   ],
+   "vo": "Laut Bundesrat sind die neuen Produkte bei Jugendlichen und jungen Erwachsenen besonders beliebt. Der Fonds hat zudem immer weniger Geld. Ab 2029 soll eine neue nationale Präventionsstrategie gelten."
+  }
+ ],
+ "title": "SVP-Spitze will Zweierticket – Präventionsabgabe auch auf E-Zigaretten",
+ "caption": "Der Vorstand der SVP-Fraktion empfiehlt für die Nachfolge von Guy Parmelin ein Zweierticket; die Fraktion nominiert am Freitag, das Parlament wählt am 9. Dezember. Der Bundesrat will die Abgabe für den Tabakpräventionsfonds, heute 2,6 Rappen pro Zigarettenpackung, auf E-Zigaretten und Snus ausweiten. Umgesetzt werden soll das mit der nächsten Revision des Tabaksteuergesetzes.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "bundesrat",
+  "ezigarette"
+ ]
+}
