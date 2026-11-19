@@ -27,6 +27,9 @@ jobs:
         run: python3 scripts/post.py ${{ steps.jobs.outputs.list }} > /tmp/post.txt 2>&1; echo "rc=$?" >> /tmp/post.txt
         env:
           BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
           PYTHONPATH: scripts
       - name: write result to bot-logs branch
         if: steps.jobs.outputs.list != ''

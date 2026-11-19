@@ -1,12 +1,19 @@
 """Create Buffer posts (TikTok, Instagram Reel, YouTube Short) for one video.
 
 Usage: post.py videos/2026-10-30_01.json
+YouTube goes directly through the YouTube API (scripts/youtube.py) when the YOUTUBE_* secrets are set,
+otherwise through Buffer like TikTok and Instagram.
 The JSON holds: video (file name in videos/), caption, title, dueAt (ISO UTC) and
 optional draft (true = save as draft in Buffer instead of scheduling)
 or now (true = publish immediately).
 """
 import json, os, sys
 from buffer import gql
+
+try:   # direct YouTube upload; if it cannot even be imported, Buffer posting must still work
+    import youtube
+except Exception:
+    youtube = None
 
 REPO = os.environ["GITHUB_REPOSITORY"]
 BRANCH = os.environ.get("GITHUB_REF_NAME", "main")
@@ -28,7 +35,10 @@ def main(path):
                                  "madeForKids": False, "notifySubscribers": True}},
     }
     results, ok = {}, True
+    direct_yt = bool(youtube and youtube.enabled())   # YOUTUBE_* secrets set -> YouTube bypasses Buffer
     for service, cid in channels.items():
+        if service == "youtube" and direct_yt:
+            continue
         inp = {"channelId": cid, "text": job["caption"], "schedulingType": "automatic",
                "needsApproval": False, "metadata": meta[service],
                "assets": [{"video": {"url": url, "metadata": {"thumbnailOffset": job.get("thumbnailOffset", 1500)}}}]}
@@ -43,6 +53,10 @@ def main(path):
         cp = ((res.get("data") or {}).get("createPost") or {})
         if "post" not in cp:
             ok = False
+    if direct_yt:
+        res = youtube.upload(job, url)
+        results["youtube"] = res
+        ok = ok and bool(res.get("ok"))
     print(json.dumps({"job": path, "run": job.get("run"), "url": url, "draft": draft, "ok": ok, "results": results}, indent=1))
     return ok
 
