@@ -1,0 +1,71 @@
+{
+ "date": "2026-11-19",
+ "edition": "abend",
+ "say": {
+  "Economiesuisse": "Ekonomi-Swiss",
+  "Bankiervereinigung": "Bankjee-Vereinigung"
+ },
+ "scenes": [
+  {
+   "type": "headline",
+   "label": "Wirtschaft",
+   "headline": "Banken wehren sich gegen Finma-Ausbau",
+   "source": "Quelle: Keystone-SDA, blue News",
+   "vo": "Mehr Macht für die Finanzmarktaufsicht Finma? Dagegen gibt es viel Widerstand. Heute ist die Vernehmlassung zur Bankenreform des Bundesrats zu Ende gegangen."
+  },
+  {
+   "type": "place",
+   "label": "Was ist passiert?",
+   "place": "Paradeplatz, Zürich",
+   "lat": 47.3697,
+   "lon": 8.5392,
+   "line": "Credit Suisse · Untergang als Auslöser",
+   "source": "Quelle: Keystone-SDA, blue News",
+   "vo": "Auslöser ist der Untergang der Credit Suisse. Die Grossbank musste 2023 von der UBS übernommen werden. Der Bundesrat will, dass der Staat bei einer Bankenkrise besser vorbereitet ist. Darum soll das Bankengesetz revidiert werden."
+  },
+  {
+   "type": "statement",
+   "text": [
+    "Finma soll Bussen verhängen können.",
+    "Bankmanager sollen stärker haften.",
+    "Für Boni soll es strengere Regeln geben."
+   ],
+   "vo": "Die Finma soll neu auch Bussen verhängen können. Bankmanager sollen stärker haften, auch bei kleineren Banken. Und für Boni soll es verbindlichere Regeln geben."
+  },
+  {
+   "type": "number",
+   "label": "Politik",
+   "number": "1",
+   "unit": "Partei",
+   "text": "von vier Bundesrats|parteien unterstützt eine stärkere Finma",
+   "source": "Quelle: Keystone-SDA, blue News",
+   "vo": "Von den vier Bundesratsparteien unterstützt nur die SP eine stärkere Finma. Die SVP lehnt die Vorlage ganz ab. Sie spricht von unkontrollierbaren Machtbefugnissen. FDP und Mitte wollen Korrekturen."
+  },
+  {
+   "type": "headline",
+   "label": "Banken",
+   "headline": "Bankiervereinigung nennt Reform überladen",
+   "source": "Quelle: Keystone-SDA, blue News",
+   "vo": "Auch die Branche wehrt sich. Die Bankiervereinigung nennt die Reform überladen und unausgewogen. Die Finma solle ihre bestehenden Instrumente besser anwenden. Auch die Kantonalbanken und Economiesuisse sind gegen mehr Kompetenzen für die Finma."
+  },
+  {
+   "type": "place",
+   "label": "Wie geht es weiter?",
+   "place": "Bundeshaus, Bern",
+   "lat": 46.9466,
+   "lon": 7.444,
+   "line": "Botschaft 2027 · frühestens 2029 in Kraft",
+   "source": "Quelle: Keystone-SDA, blue News",
+   "vo": "Wie geht es weiter? Der Bundesrat will die Vorlage 2027 ans Parlament schicken. In Kraft treten könnten die neuen Regeln frühestens Anfang 2029."
+  }
+ ],
+ "title": "Bankenreform: Viel Kritik an mehr Macht für die Finma",
+ "caption": "Nach dem Untergang der Credit Suisse will der Bundesrat die Finanzmarktaufsicht Finma stärken, etwa mit Bussen und strengerer Haftung für Bankmanager. In der Vernehmlassung kritisieren SVP, FDP, Mitte und die Banken die Pläne, nur die SP unterstützt eine stärkere Finma. Der Bundesrat will die Vorlage 2027 ans Parlament schicken.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "finma",
+  "banken"
+ ]
+}
