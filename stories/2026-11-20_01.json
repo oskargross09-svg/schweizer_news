@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-20",
+ "edition": "morgen",
+ "say": {
+  "OSZE": "Oo-Es-Zett-Ee",
+  "EDA": "Ee-De-Aa"
+ },
+ "scenes": [
+  {
+   "type": "recap",
+   "title": "Das Wichtigste seit gestern",
+   "items": [
+    {
+     "label": "Gesundheit",
+     "text": "Initiative gegen hohe Prämien"
+    },
+    {
+     "label": "OSZE",
+     "text": "Vorschlag für künftige Vorsitze"
+    },
+    {
+     "label": "Landwirtschaft",
+     "text": "Rinder fast frei von BVD"
+    }
+   ],
+   "vo": "Das Wichtigste seit gestern. Eine neue Volksinitiative will die Krankenkassenprämien senken. Die Schweiz schlägt eine Lösung für den OSZE-Vorsitz vor. Und fast alle Rinderbetriebe sind frei vom BVD-Virus."
+  },
+  {
+   "type": "number",
+   "label": "1 · Gesundheit",
+   "number": "8",
+   "unit": "Mrd. Fr.",
+   "text": "pro Jahr soll die Entlastung kosten, laut Komitee",
+   "source": "Quelle: Keystone-SDA, 20 Minuten",
+   "vo": "SP, Gewerkschaften und Konsumentenschützer haben in Bern eine Initiative lanciert. Erwachsene sollen jedes Jahr zwei Monatsprämien erhalten, rund tausend Franken. Das kostet laut Komitee rund acht Milliarden Franken pro Jahr. Bezahlen sollen sehr hohe Einkommen und Firmen."
+  },
+  {
+   "type": "place",
+   "label": "2 · OSZE",
+   "place": "Lugano",
+   "lat": 46.0037,
+   "lon": 8.9511,
+   "line": "OSZE-Ministerrat · 3. und 4. Dezember",
+   "source": "Quelle: Keystone-SDA, EDA",
+   "vo": "Die Schweiz hat der OSZE ein Paket für die Vorsitze 2027 bis 2029 vorgeschlagen. Laut EDA unterstützt eine breite Mehrheit der Staaten die Idee. Bundesrat Ignazio Cassis will den nächsten Vorsitz Anfang Dezember in Lugano bekanntgeben."
+  },
+  {
+   "type": "number",
+   "label": "3 · Landwirtschaft",
+   "number": "99,5",
+   "unit": "%",
+   "text": "der Rinder|betriebe sind BVD-frei, meldet der Bund",
+   "source": "Quelle: BLV, Keystone-SDA",
+   "vo": "Neunundneunzig Komma fünf Prozent der Rinderbetriebe sind frei vom BVD-Virus, meldet der Bund. Für Menschen ist das Virus harmlos. Zweihundertvier Betriebe gelten noch nicht als frei. Ihre Tiere dürfen nur nach einem negativen Test verkauft werden."
+  }
+ ],
+ "title": "Neue Prämien-Initiative, OSZE-Vorsitz und Rinder fast frei von BVD",
+ "caption": "SP, Gewerkschaften und Konsumentenschützer wollen mit einer Volksinitiative 90 Prozent der Versicherten bei den Prämien entlasten. Die Schweiz schlägt der OSZE ein Paket für die Vorsitze 2027 bis 2029 vor, entschieden wird bis zum Ministerrat in Lugano. Und 99,5 Prozent der Rinderbetriebe sind laut BLV frei vom BVD-Virus.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "krankenkasse",
+  "politik"
+ ]
+}
