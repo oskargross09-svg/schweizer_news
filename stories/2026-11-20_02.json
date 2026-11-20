@@ -1,0 +1,71 @@
+{
+ "date": "2026-11-20",
+ "edition": "abend",
+ "say": {
+  "Parmelin": "Parmeläng",
+  "Amaudruz": "Amodrü",
+  "Chiesa": "Kiesa"
+ },
+ "scenes": [
+  {
+   "type": "headline",
+   "label": "Politik",
+   "headline": "SVP bestimmt Ticket für Bundesrat",
+   "source": "Quelle: Keystone-SDA, SRF",
+   "vo": "Wer folgt auf Guy Parmelin im Bundesrat? Heute entscheidet die SVP-Fraktion im Bundeshaus, wen sie dem Parlament vorschlägt."
+  },
+  {
+   "type": "place",
+   "label": "Was ist passiert?",
+   "place": "Bundeshaus, Bern",
+   "lat": 46.9466,
+   "lon": 7.444,
+   "line": "Guy Parmelin · Rücktritt per Ende 2026",
+   "source": "Quelle: Keystone-SDA, SRF",
+   "vo": "Guy Parmelin hat Anfang Oktober seinen Rücktritt angekündigt, per Ende 2026. Er sitzt seit 2016 im Bundesrat und leitet seit 2019 das Wirtschaftsdepartement. Der Sitz gehört der SVP. Darum schlägt die Partei dem Parlament Kandidierende vor."
+  },
+  {
+   "type": "number",
+   "label": "Wer kandidiert?",
+   "number": "8",
+   "unit": "Personen",
+   "text": "eine Frau und sieben Männer aus sieben Kantonen",
+   "source": "Quelle: Keystone-SDA, SRF",
+   "vo": "Acht Personen wollen Bundesrat werden, eine Frau und sieben Männer. Darunter sind drei Regierungsräte aus Bern, dem Aargau und dem Wallis."
+  },
+  {
+   "type": "headline",
+   "label": "Kandidaten",
+   "headline": "Fraktionschef Aeschi gilt als gesetzt",
+   "source": "Quelle: blue News, Blick",
+   "vo": "Bekannt sind auch Fraktionschef Thomas Aeschi aus Zug, Nationalrätin Céline Amaudruz aus Genf und Ständerat Marco Chiesa aus dem Tessin. Aeschi gilt laut Medienberichten als gesetzt."
+  },
+  {
+   "type": "statement",
+   "text": [
+    "Der Vorstand empfiehlt ein Zweierticket.",
+    "Jeder Platz braucht das absolute Mehr.",
+    "Die Fraktion stimmt geheim ab."
+   ],
+   "vo": "Der Fraktionsvorstand hat ein Zweierticket empfohlen. Jeder Platz auf dem Ticket braucht das absolute Mehr der Fraktion. Abgestimmt wird geheim, oft über mehrere Wahlgänge."
+  },
+  {
+   "type": "number",
+   "label": "Wie geht es weiter?",
+   "number": "9.",
+   "unit": "Dezember",
+   "text": "wählt die Bundes|versammlung die Nachfolge",
+   "source": "Quelle: Keystone-SDA, SRF",
+   "vo": "Wie geht es weiter? Am neunten Dezember wählt die Vereinigte Bundesversammlung. Sie ist nicht an das Ticket gebunden. Wer ohne Ticket gewählt wird und annimmt, wird laut Statuten aus der SVP ausgeschlossen."
+  }
+ ],
+ "title": "Nachfolge von Guy Parmelin: SVP bestimmt ihr Bundesratsticket",
+ "caption": "Bundesrat Guy Parmelin tritt Ende 2026 zurück. Acht SVP-Politikerinnen und -Politiker wollen ihm nachfolgen, die SVP-Fraktion entscheidet heute über ihr Ticket. Gewählt wird am 9. Dezember von der Vereinigten Bundesversammlung.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "bundesrat",
+  "svp"
+ ]
+}
