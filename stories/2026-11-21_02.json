@@ -1,0 +1,60 @@
+{
+ "date": "2026-11-21",
+ "edition": "abend",
+ "say": {},
+ "scenes": [
+  {
+   "type": "headline",
+   "label": "Gesellschaft",
+   "headline": "Tausende Jugendliche protestieren schweizweit",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Tausende Jugendliche sind gestern in der ganzen Schweiz auf die Strasse gegangen. Sie protestieren gegen Aufrüstung und Sparpolitik. Was steckt hinter dem Jugendstreik?"
+  },
+  {
+   "type": "number",
+   "label": "Was ist passiert?",
+   "number": "40",
+   "unit": "Tausend",
+   "text": "Teilnehmende laut Organisatoren, in rund zehn Städten",
+   "source": "Quelle: SRF, 20 Minuten",
+   "vo": "Demonstriert wurde in rund zehn Städten, darunter Zürich, Bern, Basel, Lausanne, Genf und St. Gallen. Die Organisatoren sprechen von rund vierzigtausend Teilnehmenden. Der Jugendstreik ist eine internationale Bewegung. Sie ist Anfang 2026 entstanden."
+  },
+  {
+   "type": "statement",
+   "text": [
+    "Weniger Geld für Aufrüstung.",
+    "Mehr Geld für Klima und Bildung.",
+    "Dazu eine 35-Stunden-Woche."
+   ],
+   "vo": "Die Jugendlichen fordern, dass weniger Geld in die Aufrüstung fliesst. Stattdessen soll mehr Geld in Klimaschutz, Bildung und Soziales gehen. Ihr Manifest verlangt zudem eine Fünfunddreissig-Stunden-Woche und mehr Ferien für Lernende."
+  },
+  {
+   "type": "place",
+   "label": "Zwischenfälle",
+   "place": "Wettsteinbrücke, Basel",
+   "lat": 47.5598,
+   "lon": 7.5925,
+   "line": "Basel · Barrikaden und Wasserwerfer",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Die meisten Kundgebungen verliefen friedlich. In Basel bauten Vermummte Barrikaden vor der Wettsteinbrücke. Die Polizei setzte Wasserwerfer, Gummischrot und Reizgas ein. In Zürich und Lausanne kam ebenfalls Reizgas zum Einsatz, in Zürich gab es Festnahmen."
+  },
+  {
+   "type": "number",
+   "label": "Wie geht es weiter?",
+   "number": "5000",
+   "unit": "",
+   "text": "Franken Mindestlohn nach der Lehre, fordert der Gewerkschaftsbund",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Der Gewerkschaftsbund unterstützt die Forderungen. Er verlangt einen Mindestlohn von fünftausend Franken nach der Lehre. Bürgerliche Parteien kritisieren dagegen Gewaltaufrufe im Netz. Sie verlangen, dass sich SP und Grüne klar von Gewalt distanzieren. Die Organisatoren hatten zu friedlichem Protest aufgerufen."
+  }
+ ],
+ "title": "Jugendstreik: Tausende Jugendliche protestieren gegen Aufrüstung und Sparpolitik",
+ "caption": "In rund zehn Schweizer Städten haben am Freitag Tausende Jugendliche gegen Aufrüstung und Sparpolitik demonstriert, laut Organisatoren rund 40 000. Sie fordern mehr Geld für Klimaschutz und Bildung. Die meisten Kundgebungen blieben friedlich, in Basel, Zürich und Lausanne setzte die Polizei Reizgas ein.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "jugendstreik",
+  "demo"
+ ]
+}
