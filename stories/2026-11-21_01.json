@@ -1,0 +1,54 @@
+{
+ "date": "2026-11-21",
+ "edition": "morgen",
+ "say": {
+  "Parmelin": "Parmeläng",
+  "Amaudruz": "Amodrü",
+  "Chiesa": "Kiesa"
+ },
+ "scenes": [
+  {
+   "type": "headline",
+   "label": "Politik",
+   "headline": "SVP nominiert Aeschi und Graber",
+   "source": "Quelle: SRF, Blick",
+   "vo": "Die SVP hat entschieden, wer Guy Parmelin im Bundesrat nachfolgen soll. Die Fraktion schickt Thomas Aeschi und Michael Graber ins Rennen."
+  },
+  {
+   "type": "number",
+   "label": "Politik",
+   "number": "7",
+   "unit": "Wahlgänge",
+   "text": "bis das Zweier|ticket der SVP-Fraktion feststand",
+   "source": "Quelle: SRF, watson",
+   "vo": "Die SVP-Fraktion stimmte am Freitag geheim ab. Aeschi kam nach sechs Wahlgängen aufs Ticket, Graber im siebten. Aeschi ist Fraktionschef aus Zug. Graber ist Nationalrat aus dem Oberwallis."
+  },
+  {
+   "type": "statement",
+   "text": [
+    "Amaudruz und Chiesa sind nicht nominiert.",
+    "Keine Frau und niemand aus der Westschweiz auf dem Ticket.",
+    "Die Mitte spricht von einem Hardliner-Ticket."
+   ],
+   "vo": "Nicht nominiert sind unter anderen Nationalrätin Céline Amaudruz aus Genf und Ständerat Marco Chiesa aus dem Tessin. Damit steht keine Frau und niemand aus der Westschweiz auf dem Ticket. Die Mitte spricht von einem Hardliner-Ticket."
+  },
+  {
+   "type": "number",
+   "label": "Wie geht es weiter?",
+   "number": "9.",
+   "unit": "Dezember",
+   "text": "wählt das Parlament die Nachfolge von Parmelin",
+   "source": "Quelle: SRF, Blick",
+   "vo": "Am neunten Dezember wählt die Vereinigte Bundesversammlung. Sie ist nicht an das Ticket der SVP gebunden. Guy Parmelin tritt Ende Jahr zurück."
+  }
+ ],
+ "title": "Parmelin-Nachfolge: SVP schickt Thomas Aeschi und Michael Graber ins Rennen",
+ "caption": "Die SVP-Fraktion hat nach sieben Wahlgängen Fraktionschef Thomas Aeschi und den Walliser Nationalrat Michael Graber für die Nachfolge von Bundesrat Guy Parmelin nominiert. Auf dem Ticket stehen keine Frau und niemand aus der Westschweiz. Gewählt wird am 9. Dezember von der Vereinigten Bundesversammlung.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "bundesrat",
+  "svp"
+ ]
+}
