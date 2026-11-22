@@ -1,0 +1,59 @@
+{
+ "date": "2026-11-22",
+ "edition": "morgen",
+ "say": {},
+ "scenes": [
+  {
+   "type": "recap",
+   "title": "Das Wichtigste seit gestern",
+   "items": [
+    {
+     "label": "Bern",
+     "text": "Medienschaffende demonstrieren gegen Stellenabbau"
+    },
+    {
+     "label": "Ski",
+     "text": "Rast mit Aufholjagd auf Rang 5"
+    }
+   ],
+   "vo": "Das sind die wichtigsten Meldungen seit gestern Morgen. In Bern demonstrieren Medienschaffende gegen den Stellenabbau. Und Camille Rast fährt im Slalom von Gurgl auf Rang fünf."
+  },
+  {
+   "type": "place",
+   "label": "1 · Bern",
+   "place": "Bundesplatz, Bern",
+   "lat": 46.9465,
+   "lon": 7.444,
+   "line": "Kundgebung · Weniger Journalismus – weniger Demokratie",
+   "source": "Quelle: Keystone-SDA, watson",
+   "vo": "Auf dem Bundesplatz in Bern haben am Samstag Medienschaffende demonstriert. Ihr Motto: Weniger Journalismus, weniger Demokratie. Eingeladen hat die Media Alliance. Dazu gehören Medienschaffende, Personalvertretungen und Berufsverbände."
+  },
+  {
+   "type": "number",
+   "label": "1 · Bern",
+   "number": "1000",
+   "unit": "",
+   "text": "Mehr als tausend Demonstrierende laut SDA",
+   "source": "Quelle: Keystone-SDA, Bote der Urschweiz",
+   "vo": "Laut Keystone-SDA kamen über tausend Personen, die Organisatoren sprechen von rund zweitausend. Sie kritisieren den Stellenabbau bei SRG, Tamedia, Ringier und anderen Medienhäusern."
+  },
+  {
+   "type": "number",
+   "label": "2 · Ski",
+   "number": "5.",
+   "unit": "Rang",
+   "text": "für Camille Rast nach Laufbestzeit im zweiten Lauf",
+   "source": "Quelle: SRF, watson",
+   "vo": "Im Slalom von Gurgl in Österreich fuhr Camille Rast auf Rang fünf. Nach dem ersten Lauf lag sie nur auf Platz achtzehn. Im zweiten Lauf fuhr sie die schnellste Zeit. Es gewann die zwanzigjährige Lara Colturi. Es ist der erste Weltcupsieg für Albanien. Wendy Holdener schied im ersten Lauf aus."
+  }
+ ],
+ "title": "Medien-Demo in Bern und Rang 5 für Camille Rast in Gurgl",
+ "caption": "In Bern haben am Samstag laut Keystone-SDA über tausend Personen gegen den Stellenabbau in den Schweizer Medien demonstriert. Im Slalom von Gurgl fuhr Camille Rast mit Laufbestzeit im zweiten Durchgang von Rang 18 auf Rang 5. Lara Colturi holte den ersten Weltcupsieg für Albanien.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "medien",
+  "skialpin"
+ ]
+}
