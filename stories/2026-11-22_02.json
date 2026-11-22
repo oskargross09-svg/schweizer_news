@@ -1,0 +1,62 @@
+{
+ "date": "2026-11-22",
+ "edition": "abend",
+ "say": {
+  "Wertli": "Wertli",
+  "Antalya": "Antalja"
+ },
+ "scenes": [
+  {
+   "type": "headline",
+   "label": "Politik",
+   "headline": "Klimakonferenz scheitert, Schweiz sagt Nein",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Die Uno-Klimakonferenz in der Türkei ist ohne gemeinsame Schlusserklärung zu Ende gegangen. Auch die Schweiz hat den Entwurf abgelehnt. Was ist passiert, und warum?"
+  },
+  {
+   "type": "number",
+   "label": "Was ist passiert?",
+   "number": "200",
+   "unit": "",
+   "text": "Staaten verhandelten in Antalya, Türkei – knapp so viele",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Knapp zweihundert Staaten haben rund zwei Wochen lang in Antalya verhandelt. Der Entwurf für die Schlusserklärung kam erst am Sonntagmorgen, lange nach dem geplanten Ende. Am Nachmittag scheiterte er. Zahlreiche Länder verweigerten ihre Zustimmung."
+  },
+  {
+   "type": "statement",
+   "text": [
+    "Kein Wort zum Ausstieg aus Kohle, Öl und Gas.",
+    "Streit um Geld für ärmere Länder.",
+    "Ölstaaten blockierten, heisst es aus Verhandlungskreisen."
+   ],
+   "vo": "Im Entwurf fehlte der Ausstieg aus Kohle, Öl und Gas, den die Konferenz in Dubai beschlossen hatte. Umstritten war auch das versprochene Geld für Entwicklungsländer. Laut Verhandlungskreisen blockierten Ölstaaten wie Saudi-Arabien."
+  },
+  {
+   "type": "number",
+   "label": "Die Schweiz",
+   "number": "36",
+   "unit": "Stunden",
+   "text": "ohne Schlaf verhandelte die Schweizer Delegation",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Die Schweiz stimmte nicht zu, zusammen mit der EU und weiteren Staaten. Umweltbotschafter Felix Wertli sagt: Hier fehlt zu viel, das wollen wir nicht unterstützen. Die Delegation habe sechsunddreissig Stunden ohne Schlaf verhandelt."
+  },
+  {
+   "type": "number",
+   "label": "Wie geht es weiter?",
+   "number": "30",
+   "unit": "Staaten",
+   "text": "planen den Ausstieg aus Kohle, Öl und Gas",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Frühere Beschlüsse bleiben gültig. Laut Wertli funktioniert das Pariser Abkommen. Über hundertsechzig Staaten hätten Klimaziele eingereicht. Rund dreissig Staaten kündigten zudem eigene Pläne zum Ausstieg aus Kohle, Öl und Gas an. Darüber soll im Juli in Tuvalu weiter beraten werden."
+  }
+ ],
+ "title": "Klimakonferenz COP31 scheitert – auch die Schweiz lehnt die Schlusserklärung ab",
+ "caption": "Die Uno-Klimakonferenz in Antalya ist ohne gemeinsame Schlusserklärung zu Ende gegangen. Die Schweiz, die EU und weitere Staaten lehnten den Entwurf ab, weil darin der Ausstieg aus Kohle, Öl und Gas fehlte. Frühere Beschlüsse und das Pariser Abkommen bleiben gültig.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "klima",
+  "cop31"
+ ]
+}
