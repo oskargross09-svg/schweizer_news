@@ -1,0 +1,64 @@
+{
+ "date": "2026-11-23",
+ "edition": "abend",
+ "say": {
+  "Broggini": "Brodschini",
+  "Gysin": "Gisin",
+  "Parmelin": "Parmeläng"
+ },
+ "scenes": [
+  {
+   "type": "headline",
+   "label": "Politik",
+   "headline": "Grüne greifen SVP-Sitz an",
+   "source": "Quelle: SRF, watson",
+   "vo": "Die Grünen wollen bei der Bundesratswahl gegen die SVP antreten. Sie schicken die Genfer Nationalrätin Delphine Klopfenstein Broggini ins Rennen. Warum, und hat sie eine Chance?"
+  },
+  {
+   "type": "place",
+   "label": "Wer ist sie?",
+   "place": "Genf",
+   "lat": 46.2044,
+   "lon": 6.1432,
+   "line": "Delphine Klopfenstein Broggini · Nationalrätin seit 2019",
+   "source": "Quelle: SRF, watson",
+   "vo": "Klopfenstein Broggini sitzt seit 2019 für Genf im Nationalrat. Sie ist Soziologin und setzt sich vor allem für Umwelt und Verkehr ein. Die Fraktion hat sie heute nach sechs Wahlgängen nominiert."
+  },
+  {
+   "type": "statement",
+   "text": [
+    "Die SVP schlägt Aeschi und Graber vor.",
+    "Keine Frau, niemand aus der Westschweiz.",
+    "Die Grünen sprechen von einem Affront."
+   ],
+   "vo": "Für die Nachfolge von Guy Parmelin schlägt die SVP Thomas Aeschi und Michael Graber vor. Auf dem Ticket stehen keine Frau und niemand aus der Westschweiz. Fraktionschefin Greta Gysin nennt das einen Affront gegenüber der Romandie und den Frauen."
+  },
+  {
+   "type": "number",
+   "label": "Warum die Grünen?",
+   "number": "9,8",
+   "unit": "%",
+   "text": "Wähleranteil der Grünen – fünftstärkste Partei",
+   "source": "Quelle: watson, SRF",
+   "vo": "Die Grünen verweisen auf ihren Wähleranteil von fast zehn Prozent. Und sie sagen, die Klimakrise müsse im Bundesrat vertreten sein. Einen Sitz in der Landesregierung hatten die Grünen noch nie."
+  },
+  {
+   "type": "number",
+   "label": "Wie geht es weiter?",
+   "number": "9.",
+   "unit": "Dezember",
+   "text": "wählt die Bundes|versammlung – Chancen der Grünen gelten als gering",
+   "source": "Quelle: SRF, watson",
+   "vo": "Gewählt wird am neunten Dezember. Die Chancen der Grünen gelten als gering, sagt SRF-Bundeshausredaktor Philipp Burkhardt. Die SVP habe als grösste Fraktion Anspruch auf zwei Sitze. Die Grünliberalen hören das SVP-Ticket am ersten Dezember an und schliessen keine Option aus."
+  }
+ ],
+ "title": "Bundesratswahl: Grüne schicken Delphine Klopfenstein Broggini gegen die SVP ins Rennen",
+ "caption": "Die Grünen nominieren die Genfer Nationalrätin Delphine Klopfenstein Broggini für die Nachfolge von Bundesrat Guy Parmelin. Sie kritisieren, dass auf dem SVP-Ticket mit Thomas Aeschi und Michael Graber keine Frau und niemand aus der Romandie steht. Die Chancen gelten als gering, gewählt wird am 9. Dezember.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "bundesratswahl",
+  "grüne"
+ ]
+}
