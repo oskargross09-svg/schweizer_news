@@ -1,0 +1,73 @@
+{
+ "date": "2026-11-23",
+ "edition": "morgen",
+ "say": {},
+ "scenes": [
+  {
+   "type": "recap",
+   "title": "Das Wichtigste seit gestern",
+   "items": [
+    {
+     "label": "Uster",
+     "text": "Polizei stoppt Protest gegen Rösti"
+    },
+    {
+     "label": "Graubünden",
+     "text": "Unfallserie am Berninapass"
+    },
+    {
+     "label": "Fussball",
+     "text": "Luzern gewinnt 2:0 in Basel"
+    }
+   ],
+   "vo": "Das sind die wichtigsten Meldungen seit gestern Morgen. In Uster stoppt die Polizei einen Protest gegen Bundesrat Albert Rösti. Am Berninapass kommt es wegen Schnee zu rund einem Dutzend Unfällen. Und der FC Luzern gewinnt in Basel zwei zu null."
+  },
+  {
+   "type": "place",
+   "label": "1 · Uster",
+   "place": "Uster, Kanton Zürich",
+   "lat": 47.3486,
+   "lon": 8.7178,
+   "line": "Ustertag · Rede von Bundesrat Albert Rösti",
+   "source": "Quelle: Keystone-SDA, Kantonspolizei Zürich",
+   "vo": "Am Ustertag im Kanton Zürich hat Bundesrat Albert Rösti gestern eine Rede gehalten. Aktivistinnen und Aktivisten wollten sie mit Volksliedern stören. Sie protestieren gegen Röstis Haltung zu Atomkraft und Autobahnausbau."
+  },
+  {
+   "type": "number",
+   "label": "1 · Uster",
+   "number": "28",
+   "unit": "",
+   "text": "Personen weggewiesen – kein Zutritt zur Kirche",
+   "source": "Quelle: Keystone-SDA, Kantonspolizei Zürich",
+   "vo": "Die Kantonspolizei Zürich hat achtundzwanzig Personen weggewiesen. Sie durften nicht in die Kirche. Rechtliche Folgen hat das für sie keine. Die Rede fand ungestört statt."
+  },
+  {
+   "type": "place",
+   "label": "2 · Graubünden",
+   "place": "Berninapass",
+   "lat": 46.4115,
+   "lon": 10.0236,
+   "line": "Rund ein Dutzend Unfälle · Strasse zwei Stunden gesperrt",
+   "source": "Quelle: Kantonspolizei Graubünden, Keystone-SDA",
+   "vo": "Am Berninapass hat starker Schneefall gestern zu rund einem Dutzend Unfällen geführt. Verletzt wurde niemand, sagt die Kantonspolizei Graubünden. Die Strasse war rund zwei Stunden gesperrt. Mehrere Autos mussten abgeschleppt werden."
+  },
+  {
+   "type": "number",
+   "label": "3 · Fussball",
+   "number": "0:2",
+   "unit": "",
+   "text": "Basel verliert zu Hause gegen Luzern",
+   "source": "Quelle: SRF, Luzerner Zeitung",
+   "vo": "In der Super League verliert der FC Basel zu Hause gegen den FC Luzern null zu zwei. Luzern beendet damit eine Durststrecke, schreibt die Luzerner Zeitung."
+  }
+ ],
+ "title": "Protest gegen Rösti gestoppt, Unfälle am Berninapass, Luzern siegt in Basel",
+ "caption": "In Uster hat die Kantonspolizei Zürich 28 Personen weggewiesen, die die Rede von Bundesrat Albert Rösti am Ustertag stören wollten. Am Berninapass führte Schneefall zu rund einem Dutzend Unfällen, verletzt wurde niemand. Im Fussball gewann der FC Luzern beim FC Basel 2:0.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "uster",
+  "berninapass"
+ ]
+}
