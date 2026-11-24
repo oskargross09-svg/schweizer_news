@@ -1,0 +1,60 @@
+{
+ "date": "2026-11-24",
+ "edition": "abend",
+ "say": {
+  "Pjöngjang": "Pöngjang",
+  "Ignazio": "Ignatzjo"
+ },
+ "scenes": [
+  {
+   "type": "headline",
+   "label": "Politik",
+   "headline": "Nordkorea droht Schweizer Büro",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Nordkorea droht der Schweiz. Das Regime will prüfen, ob das Schweizer Büro in Pjöngjang schliessen muss. Dabei wurde es erst im Oktober wieder eröffnet."
+  },
+  {
+   "type": "photo",
+   "label": "Was ist passiert?",
+   "image": "File:Pyongyang-May-2005.JPG",
+   "text": "Nordkorea droht mit dem Abzug des Schweizer Büros.",
+   "vo": "Die Drohung kommt von Kim Yo Jong, der Schwester von Machthaber Kim Jong Un. Verbreitet hat sie die staatliche Nachrichtenagentur KCNA. Kim Yo Jong will ihrem Aussenministerium raten, den Abzug der Schweizer Vertretung zu prüfen."
+  },
+  {
+   "type": "number",
+   "label": "Warum?",
+   "number": "21.",
+   "unit": "",
+   "text": "EU-Sanktions|paket gegen Russland – die Schweiz hat es übernommen",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Der Grund sind Sanktionen. Anfang November hat die Schweiz das einundzwanzigste Sanktionspaket der EU gegen Russland übernommen. Darauf steht auch ein staatliches Ferienlager für Kinder in Nordkorea."
+  },
+  {
+   "type": "statement",
+   "text": [
+    "Die EU wirft dem Ferienlager Mithilfe vor.",
+    "Es nehme Kinder aus besetzten Gebieten der Ukraine auf.",
+    "Nordkorea sieht seine Souveränität infrage gestellt."
+   ],
+   "vo": "Die EU wirft dem Lager vor, bei der Verschleppung ukrainischer Kinder mitzuhelfen. Es nehme Kinder aus besetzten Gebieten der Ukraine auf, um prorussische Ansichten zu verbreiten. Kim Yo Jong sagt, die Schweiz folge der Linie von London und Brüssel und stelle die Souveränität Nordkoreas infrage."
+  },
+  {
+   "type": "number",
+   "label": "Wie geht es weiter?",
+   "number": "Okt.",
+   "unit": "",
+   "text": "2026 wieder|eröffnet – seit 2020 war das Büro wegen Covid zu",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Das Büro war seit 2020 wegen der Pandemie geschlossen. Im Oktober wurde es im Beisein von Bundesrat Ignazio Cassis wieder eröffnet. Ob Nordkorea nun tatsächlich Schritte einleitet, ist offen."
+  }
+ ],
+ "title": "Nordkorea droht mit Schliessung des Schweizer Büros in Pjöngjang",
+ "caption": "Kim Yo Jong, die Schwester von Machthaber Kim Jong Un, will prüfen lassen, ob das Schweizer Büro in Pjöngjang geschlossen wird. Grund sind Sanktionen gegen ein nordkoreanisches Kinder-Ferienlager, die die Schweiz mit dem 21. EU-Sanktionspaket übernommen hat. Das Büro wurde erst im Oktober wiedereröffnet, ob Nordkorea Schritte einleitet, ist offen.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "nordkorea",
+  "sanktionen"
+ ]
+}
