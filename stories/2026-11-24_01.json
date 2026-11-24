@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-24",
+ "edition": "morgen",
+ "say": {},
+ "scenes": [
+  {
+   "type": "recap",
+   "title": "Das Wichtigste seit gestern",
+   "items": [
+    {
+     "label": "Wirtschaft",
+     "text": "ABB kauft deutschen Ventilatorenhersteller"
+    },
+    {
+     "label": "Bern",
+     "text": "Weniger Zwiebeln am Zibelemärit"
+    }
+   ],
+   "vo": "Das sind die wichtigsten Meldungen seit gestern Morgen. Der Industriekonzern ABB kündigt eine Übernahme in Milliardenhöhe an. Und am Berner Zibelemärit gibt es deutlich weniger Zwiebeln als in den Vorjahren."
+  },
+  {
+   "type": "headline",
+   "label": "1 · Wirtschaft",
+   "headline": "ABB kauft Ziehl-Abegg",
+   "source": "Quelle: Keystone-SDA, Reuters",
+   "vo": "Der Schweizer Konzern ABB übernimmt die deutsche Firma Ziehl-Abegg aus Künzelsau. Sie stellt Ventilatoren und Elektromotoren her, etwa für Rechenzentren und Klimaanlagen. Ziehl-Abegg beschäftigt rund sechstausenddreihundert Menschen. Der Hauptsitz soll bleiben."
+  },
+  {
+   "type": "number",
+   "label": "1 · Wirtschaft",
+   "number": "2,65",
+   "unit": "",
+   "text": "Milliarden Dollar – Unternehmenswert von Ziehl-Abegg",
+   "source": "Quelle: Keystone-SDA, Reuters",
+   "vo": "ABB bewertet das Unternehmen mit zwei Komma sechs fünf Milliarden Dollar. Abgeschlossen werden soll der Kauf in der zweiten Hälfte 2027. Zuerst müssen die Behörden zustimmen."
+  },
+  {
+   "type": "place",
+   "label": "2 · Bern",
+   "place": "Bern, Altstadt",
+   "lat": 46.948,
+   "lon": 7.4474,
+   "line": "Zibelemärit · 360 Marktstände",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "In Bern war gestern Zibelemärit. Trotz Regen kamen Zehntausende in die Altstadt. Insgesamt standen dort dreihundertsechzig Marktstände."
+  },
+  {
+   "type": "number",
+   "label": "2 · Bern",
+   "number": "26,3",
+   "unit": "t",
+   "text": "Zwiebeln an 108 Ständen – weniger als in den Vorjahren",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Hundertacht Stände verkauften Zwiebeln, insgesamt sechsundzwanzig Komma drei Tonnen. Seit der Pandemie waren es jedes Jahr zwischen neunundzwanzig und fünfunddreissig Tonnen."
+  }
+ ],
+ "title": "ABB kauft Ziehl-Abegg, weniger Zwiebeln am Berner Zibelemärit",
+ "caption": "ABB übernimmt den deutschen Ventilatoren- und Motorenhersteller Ziehl-Abegg für einen Unternehmenswert von 2,65 Milliarden Dollar, der Abschluss ist für die zweite Hälfte 2027 geplant. Am Berner Zibelemärit boten 108 Stände 26,3 Tonnen Zwiebeln an – deutlich weniger als in den Vorjahren. Trotz Regen kamen Zehntausende in die Altstadt.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "abb",
+  "zibelemärit"
+ ]
+}
