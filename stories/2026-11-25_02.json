@@ -1,0 +1,60 @@
+{
+ "date": "2026-11-25",
+ "edition": "abend",
+ "say": {
+  "Pjöngjang": "Pöngjang",
+  "Astier": "Astjee"
+ },
+ "scenes": [
+  {
+   "type": "headline",
+   "label": "Politik",
+   "headline": "Nordkorea schliesst Schweizer Büro",
+   "source": "Quelle: SRF, Keystone-SDA, EDA",
+   "vo": "Nordkorea schliesst das Schweizer Büro in Pjöngjang. Der Leiter muss das Land verlassen. Das Aussendepartement hat das heute bestätigt."
+  },
+  {
+   "type": "number",
+   "label": "Was ist passiert?",
+   "number": "48",
+   "unit": "Stunden",
+   "text": "Frist für den Büroleiter, Nordkorea zu verlassen",
+   "source": "Quelle: KCNA, Keystone-SDA",
+   "vo": "Das nordkoreanische Aussenministerium hat den Büroleiter Sylvain Astier einbestellt. Es hat ihm ein Schreiben zur Schliessung übergeben. Er hat achtundvierzig Stunden Zeit, um auszureisen. Das meldet die staatliche Nachrichtenagentur KCNA."
+  },
+  {
+   "type": "photo",
+   "label": "Warum?",
+   "image": "File:Pyongyang-May-2005.JPG",
+   "text": "Grund sind Sanktionen gegen ein Kinderlager.",
+   "vo": "Der Grund sind Sanktionen. Die Schweiz hat Anfang November das einundzwanzigste Sanktionspaket der EU gegen Russland übernommen. Betroffen ist auch das Kinderlager Songdowon. Laut EU nimmt es Kinder aus besetzten Gebieten der Ukraine auf. Nordkorea nennt die Sanktionen einen feindseligen Akt."
+  },
+  {
+   "type": "statement",
+   "text": [
+    "Das EDA bedauert den Schritt.",
+    "Die Beziehungen seien nicht infrage gestellt.",
+    "Sanktionen und Dialog seien getrennte Fragen."
+   ],
+   "vo": "Das Aussendepartement bedauert den Schritt. Die diplomatischen Beziehungen stelle die Schliessung aber nicht infrage, heisst es. Sanktionen und offene Gesprächskanäle seien für die Schweiz zwei getrennte Dinge."
+  },
+  {
+   "type": "number",
+   "label": "Wie geht es weiter?",
+   "number": "52",
+   "unit": "Jahre",
+   "text": "diplomatische Beziehungen – Kontakt neu über Peking und Bern",
+   "source": "Quelle: EDA, Keystone-SDA",
+   "vo": "Der Büroleiter kehrt an die Schweizer Botschaft in Peking zurück. Über sie und die nordkoreanische Botschaft in Bern laufen die Kontakte weiter. Die Schweiz und Nordkorea haben seit 1974 diplomatische Beziehungen. Das Büro war erst im Oktober wiedereröffnet worden."
+  }
+ ],
+ "title": "Nordkorea schliesst Schweizer Büro in Pjöngjang und weist dessen Leiter aus",
+ "caption": "Nordkorea hat das Schweizer Büro in Pjöngjang geschlossen, der Leiter muss innert 48 Stunden ausreisen. Grund sind Schweizer Sanktionen gegen das Kinderlager Songdowon, übernommen mit dem 21. EU-Sanktionspaket gegen Russland. Das EDA bedauert den Schritt, die diplomatischen Beziehungen laufen über Peking und Bern weiter.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "nordkorea",
+  "diplomatie"
+ ]
+}
