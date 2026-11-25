@@ -1,0 +1,63 @@
+{
+ "date": "2026-11-25",
+ "edition": "morgen",
+ "say": {},
+ "scenes": [
+  {
+   "type": "recap",
+   "title": "Das Wichtigste seit gestern",
+   "items": [
+    {
+     "label": "Bundeshaus",
+     "text": "Kommission will strengere UBS-Regeln"
+    },
+    {
+     "label": "Vorsorge",
+     "text": "Mehr Geld aus der Pensionskasse"
+    },
+    {
+     "label": "St. Gallen",
+     "text": "Tödlicher Unfall auf der A1"
+    }
+   ],
+   "vo": "Das sind die wichtigsten Meldungen seit gestern Morgen. Eine Kommission des Nationalrats will bei der UBS hart bleiben. Immer mehr Menschen beziehen ihr Pensionskassengeld als Kapital. Und auf der A1 bei Oberbüren ist eine Autofahrerin gestorben."
+  },
+  {
+   "type": "number",
+   "label": "1 · Bundeshaus",
+   "number": "90",
+   "unit": "%",
+   "text": "Eigenkapital für UBS-Auslands|töchter – heute sind es 45 %",
+   "source": "Quelle: SRF, finews",
+   "vo": "Die UBS soll ihre Tochterfirmen im Ausland zu neunzig Prozent mit Eigenkapital absichern. Das hat die Wirtschaftskommission des Nationalrats knapp beschlossen, mit dreizehn zu zwölf Stimmen. Heute sind es fünfundvierzig Prozent. Die UBS sagt, das gehe zu weit. Als Nächstes entscheidet der Nationalrat."
+  },
+  {
+   "type": "number",
+   "label": "2 · Vorsorge",
+   "number": "150",
+   "unit": "Tsd. CHF",
+   "text": "Kapitalbezug aus der 2. Säule im Mittel – 2015 waren es 81 500",
+   "source": "Quelle: Bundesamt für Statistik",
+   "vo": "Wer pensioniert wird, bezieht das Geld aus der Pensionskasse immer öfter als Kapital. Das zeigen neue Zahlen des Bundesamts für Statistik. Im Mittel waren es 2025 rund hundertfünfzigtausend Franken. Das ist fast doppelt so viel wie vor zehn Jahren."
+  },
+  {
+   "type": "place",
+   "label": "3 · St. Gallen",
+   "place": "Oberbüren SG",
+   "lat": 47.4497,
+   "lon": 9.1572,
+   "line": "A1 Richtung St. Gallen · Auffahrkollision",
+   "source": "Quelle: Kantonspolizei St. Gallen, Nau",
+   "vo": "Auf der A1 bei Oberbüren sind gestern kurz vor acht Uhr zwei Autos und ein Lieferwagen zusammengestossen. Eine Autofahrerin wurde lebensbedrohlich verletzt und starb im Spital, sagt die Kantonspolizei St. Gallen. Die Autobahn war mehrere Stunden gesperrt."
+  }
+ ],
+ "title": "Kommission will 90 Prozent Kapital bei UBS, mehr Geld aus Pensionskassen, Unfall auf A1",
+ "caption": "Die Wirtschaftskommission des Nationalrats will, dass die UBS ihre Auslandstöchter zu 90 Prozent mit Eigenkapital absichert – als Nächstes entscheidet der Nationalrat. Laut Bundesamt für Statistik haben sich die Kapitalbezüge aus der 2. Säule in zehn Jahren fast verdoppelt. Auf der A1 bei Oberbüren SG starb eine Autofahrerin nach einer Auffahrkollision.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "ubs",
+  "pensionskasse"
+ ]
+}
