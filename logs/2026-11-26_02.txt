@@ -1,0 +1,40 @@
+{
+ "job": "videos/2026-11-26_02.json",
+ "run": "20261126T162139",
+ "url": "https://raw.githubusercontent.com/oskargross09-svg/schweizer_news/media/videos/2026-11-26_02.mp4",
+ "draft": false,
+ "ok": true,
+ "results": {
+  "tiktok": {
+   "data": {
+    "createPost": {
+     "post": {
+      "id": "6b085ca2783dfaf962b151e8",
+      "status": "scheduled",
+      "dueAt": "2026-11-26T17:30:00.000Z"
+     }
+    }
+   }
+  },
+  "instagram": {
+   "data": {
+    "createPost": {
+     "post": {
+      "id": "6b085ca20fa46ab04fd4ef6c",
+      "status": "scheduled",
+      "dueAt": "2026-11-26T17:30:00.000Z"
+     }
+    }
+   }
+  },
+  "youtube": {
+   "ok": true,
+   "id": "t9PGKxpxZbk",
+   "url": "https://youtu.be/t9PGKxpxZbk",
+   "requested_privacy": "private",
+   "publishAt": "2026-11-26T17:30:00.000Z",
+   "reported_privacy": "private"
+  }
+ }
+}
+rc=0
