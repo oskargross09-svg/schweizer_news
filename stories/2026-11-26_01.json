@@ -1,0 +1,46 @@
+{
+ "date": "2026-11-26",
+ "edition": "morgen",
+ "say": {"Agno": "Anjo"},
+ "scenes": [
+  {
+   "type": "recap",
+   "title": "Das Wichtigste seit gestern",
+   "items": [
+    {"label": "Handel", "text": "USA drohen mit neuen Zöllen"},
+    {"label": "Bundeshaus", "text": "Gegenvorschlag zur Konzerninitiative"},
+    {"label": "Tessin", "text": "Rollerfahrer stirbt nach Unfall"}
+   ],
+   "vo": "Das sind die wichtigsten Meldungen seit gestern Morgen. Die USA drohen der Schweiz mit neuen Zöllen von bis zu fünfzehn Prozent. Der Bundesrat will grosse Konzerne mit einem Gegenvorschlag stärker in die Pflicht nehmen. Und im Tessin ist ein Rollerfahrer nach einem Unfall gestorben."
+  },
+  {
+   "type": "number",
+   "label": "1 · Handel",
+   "number": "15",
+   "unit": "%",
+   "text": "Vorgeschlagene US-Zölle auf Schweizer Waren – zuletzt 12,5 %",
+   "source": "Quelle: SRF, AWP",
+   "vo": "Die US-Regierung schlägt neue Zölle von bis zu fünfzehn Prozent auf Schweizer Waren vor. Zuletzt waren es zwölfeinhalb Prozent. Der Bund und die Wirtschaft weisen die Vorwürfe der USA zurück. Bis am fünften Januar gibt es Anhörungen, danach entscheidet Präsident Trump."
+  },
+  {
+   "type": "headline",
+   "label": "2 · Bundeshaus",
+   "headline": "Bundesrat legt Gegenvorschlag vor",
+   "source": "Quelle: Keystone-SDA, CH Media",
+   "vo": "Der Bundesrat stellt der zweiten Konzernverantwortungs-Initiative einen Gegenvorschlag gegenüber. Grosse Konzerne sollen neue Auflagen erhalten. Gegenüber dem ersten Entwurf hat Justizminister Beat Jans die Vorlage abgeschwächt. Jetzt ist das Parlament am Zug."
+  },
+  {
+   "type": "place",
+   "label": "3 · Tessin",
+   "place": "Agno TI",
+   "lat": 45.9995,
+   "lon": 8.9008,
+   "line": "Kanton Tessin · Rollerunfall",
+   "source": "Quelle: Kantonspolizei Tessin, Keystone-SDA",
+   "vo": "In Agno bei Lugano ist ein dreiunddreissigjähriger Rollerfahrer nach einem Unfall gestorben. Er war am Dienstagabend lebensgefährlich verletzt ins Spital gebracht worden, sagt die Kantonspolizei Tessin."
+  }
+ ],
+ "title": "USA drohen mit Zöllen bis 15 Prozent, Gegenvorschlag zur Konzerninitiative, Unfall in Agno",
+ "caption": "Die US-Regierung schlägt neue Zölle von bis zu 15 Prozent auf Schweizer Waren vor – Bund und Wirtschaft weisen die Vorwürfe zurück, bis am 5. Januar laufen Anhörungen. Der Bundesrat legt einen abgeschwächten Gegenvorschlag zur zweiten Konzernverantwortungsinitiative vor, nun entscheidet das Parlament. In Agno TI starb ein 33-jähriger Rollerfahrer nach einem Unfall.",
+ "hashtags": ["schweiz", "news", "swissnews", "zölle", "konzernverantwortung"]
+}
