@@ -1,0 +1,60 @@
+{
+ "date": "2026-11-26",
+ "edition": "abend",
+ "say": {},
+ "scenes": [
+  {
+   "type": "headline",
+   "label": "Gesellschaft",
+   "headline": "KI-Agenten greifen Schweizer Infrastruktur an",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "In der Schweiz haben Hacker erstmals kritische Infrastruktur mit KI-Agenten angegriffen. Das sagt das Bundesamt für Cybersicherheit. Auch andere Unternehmen wurden mit solchen Programmen angegriffen."
+  },
+  {
+   "type": "number",
+   "label": "Was ist passiert?",
+   "number": "5",
+   "unit": "bestätigte Fälle",
+   "text": "Drei davon betreffen kritische Infrastruktur",
+   "source": "Quelle: BACS, SRF, watson",
+   "vo": "Aktuell gibt es fünf bestätigte Fälle, sagt Direktor Florian Schütz. Drei betreffen Betreiber kritischer Infrastruktur, etwa in der Strom- oder Wasserversorgung. In mehreren Fällen drangen die Angreifer in Systeme ein. Grössere Ausfälle gab es aber nicht."
+  },
+  {
+   "type": "statement",
+   "text": [
+    "KI-Agenten suchen selbständig nach Schwachstellen.",
+    "Sie greifen viele Ziele gleichzeitig an.",
+    "Firmen bleibt weniger Zeit zum Reagieren."
+   ],
+   "vo": "KI-Agenten sind Programme, die selbständig nach Sicherheitslücken suchen. Sie können viele Angriffe gleichzeitig ausführen und wechseln die Methode, wenn sie blockiert werden. Für Firmen bleibt so viel weniger Zeit, um zu reagieren."
+  },
+  {
+   "type": "place",
+   "label": "Wie geht es weiter?",
+   "place": "Bern",
+   "lat": 46.948,
+   "lon": 7.4474,
+   "line": "Bundesamt für Cybersicherheit · Warnung",
+   "source": "Quelle: BACS, SRF, watson",
+   "vo": "Wer hinter den Angriffen steckt, ist noch unklar. Das Bundesamt rechnet mit mehr solchen Angriffen. Die Zahl frei verfügbarer KI-Werkzeuge habe sich seit Oktober beinahe verdoppelt. Welche Firmen betroffen sind, sagt der Bund nicht."
+  },
+  {
+   "type": "number",
+   "label": "Was hilft?",
+   "number": "24",
+   "unit": "Stunden",
+   "text": "Spätestens dann sollen kritische Updates installiert sein",
+   "source": "Quelle: BACS, SRF",
+   "vo": "Das Bundesamt rät Firmen, weniger Systeme direkt ans Internet zu hängen und überall eine Mehr-Faktor-Anmeldung zu nutzen. Kritische Sicherheits-Updates sollen spätestens nach vierundzwanzig Stunden installiert sein. Denn ohne Schwachstelle kommt auch ein KI-Agent nicht ins System, sagt Schütz."
+  }
+ ],
+ "title": "Erstmals Cyberangriffe mit KI-Agenten auf kritische Infrastruktur in der Schweiz",
+ "caption": "Das Bundesamt für Cybersicherheit meldet die ersten Angriffe mit KI-Agenten in der Schweiz: fünf bestätigte Fälle, drei davon bei Betreibern kritischer Infrastruktur. Grössere Ausfälle gab es nicht, die Täter sind unbekannt. Das BACS rechnet mit mehr Angriffen und rät, Sicherheits-Updates innert 24 Stunden zu installieren.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "cybersicherheit",
+  "ki"
+ ]
+}
