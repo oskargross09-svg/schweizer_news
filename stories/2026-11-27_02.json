@@ -1,0 +1,69 @@
+{
+ "date": "2026-11-27",
+ "edition": "abend",
+ "say": {
+  "Massenkarambolage": "Massenkarambolasche"
+ },
+ "scenes": [
+  {
+   "type": "headline",
+   "label": "Unglück",
+   "headline": "Massenkarambolage legt A1 lahm",
+   "source": "Quelle: Kantonspolizei Zürich, Keystone-SDA",
+   "vo": "Auf der Autobahn A1 bei Winterthur hat es am Freitagmorgen eine Massenkarambolage gegeben. Siebenunddreissig Fahrzeuge waren beteiligt. Zehn Menschen wurden verletzt."
+  },
+  {
+   "type": "place",
+   "label": "Was ist passiert?",
+   "place": "Kemptthal",
+   "lat": 47.4527,
+   "lon": 8.7044,
+   "line": "Gemeinde Lindau · A1 Richtung St. Gallen",
+   "source": "Quelle: Kantonspolizei Zürich, NZZ",
+   "vo": "Der Unfall passierte gegen Viertel vor sechs, beim Hammermühle-Viadukt in Kemptthal. Das liegt zwischen Effretikon und Winterthur, in Fahrtrichtung Sankt Gallen. Dort kam es zu mehreren Kollisionen."
+  },
+  {
+   "type": "number",
+   "label": "Beteiligte Fahrzeuge",
+   "number": "37",
+   "unit": "",
+   "text": "Fahrzeuge: 23 Autos, 8 Lastwagen und 6 Lieferwagen",
+   "source": "Quelle: Kantonspolizei Zürich, watson",
+   "vo": "Beteiligt waren dreiundzwanzig Autos, acht Lastwagen und sechs Lieferwagen, darunter ein Tanklastwagen. Die meisten Fahrzeuge mussten abgeschleppt werden."
+  },
+  {
+   "type": "number",
+   "label": "Wer ist betroffen?",
+   "number": "10",
+   "unit": "Verletzte",
+   "text": "Sechs leicht und vier mittelschwer verletzt",
+   "source": "Quelle: Kantonspolizei Zürich, NZZ",
+   "vo": "Sechs Menschen wurden leicht verletzt, vier mittelschwer, sagt die Polizei. Die Feuerwehr musste eine Person aus einem Auto befreien. Im Einsatz waren mehrere Rettungsdienste mit Notarzt und die Berufsfeuerwehr Winterthur."
+  },
+  {
+   "type": "statement",
+   "text": [
+    "Am Morgen war es winterlich.",
+    "Die genaue Unfallursache ist noch unklar.",
+    "Die Kantonspolizei untersucht den Unfall."
+   ],
+   "vo": "Zum Unfallzeitpunkt herrschten winterliche Verhältnisse, sagt die Kantonspolizei. Wie genau es zu den Kollisionen kam, ist aber noch nicht geklärt. Die Polizei untersucht jetzt den Hergang."
+  },
+  {
+   "type": "headline",
+   "label": "Wie geht es weiter?",
+   "headline": "A1 bis Nachmittag gesperrt",
+   "source": "Quelle: Kantonspolizei Zürich, Keystone-SDA",
+   "vo": "Die Polizei rechnete mit einer Sperrung der A1 Richtung Sankt Gallen bis am späteren Nachmittag. Umleitungen wurden signalisiert. Die Kantonspolizei empfiehlt, das Gebiet weiterhin grossräumig zu umfahren."
+  }
+ ],
+ "title": "Massenkarambolage auf der A1 bei Winterthur: 37 Fahrzeuge, zehn Verletzte",
+ "caption": "Auf der A1 bei Kemptthal ZH sind am Freitagmorgen 37 Fahrzeuge in mehrere Kollisionen verwickelt worden, zehn Menschen wurden verletzt. Es herrschten winterliche Verhältnisse, die genaue Ursache untersucht die Kantonspolizei Zürich. Die A1 Richtung St. Gallen war bis am Nachmittag gesperrt.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "a1",
+  "winterthur"
+ ]
+}
