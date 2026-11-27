@@ -1,0 +1,63 @@
+{
+ "date": "2026-11-27",
+ "edition": "morgen",
+ "say": {
+  "Jablonec": "Jablonetz"
+ },
+ "scenes": [
+  {
+   "type": "recap",
+   "title": "Das Wichtigste seit gestern",
+   "items": [
+    {
+     "label": "Asyl",
+     "text": "Erste Rückführungen nach Italien"
+    },
+    {
+     "label": "Wetter",
+     "text": "Schnee bis ins Flachland"
+    },
+    {
+     "label": "Sport",
+     "text": "Thun und Lugano verlieren"
+    }
+   ],
+   "vo": "Das sind die wichtigsten Meldungen seit gestern Morgen. Die Schweiz schickt erstmals seit fast vier Jahren wieder Asylsuchende nach Italien zurück. Der erste Schnee hat das Flachland erreicht. Und in der Conference League verlieren Thun und Lugano."
+  },
+  {
+   "type": "number",
+   "label": "1 · Asyl",
+   "number": "773",
+   "unit": "",
+   "text": "Personen könnten nach dem Dublin-Abkommen nach Italien zurück",
+   "source": "Quelle: SRF, Nau.ch",
+   "vo": "Italien hatte Rückführungen nach dem Dublin-Abkommen fast vier Jahre lang blockiert. Jetzt schickt die Schweiz erste Asylsuchende zurück, vorerst nur Männer, sagt der Bund. Möglich wären siebenhundertdreiundsiebzig Rückführungen. Die Flüchtlingshilfe kritisiert das."
+  },
+  {
+   "type": "place",
+   "label": "2 · Wetter",
+   "place": "Zürich",
+   "lat": 47.3769,
+   "lon": 8.5417,
+   "line": "Flachland · Erster Schnee",
+   "source": "Quelle: watson, 20 Minuten",
+   "vo": "Am Donnerstagmorgen ist Schnee bis ins Flachland gefallen, etwa in der Region Zürich, in der Zentralschweiz und in Sankt Gallen. Der Bund hat in mehreren Regionen vor glatten Strassen gewarnt."
+  },
+  {
+   "type": "headline",
+   "label": "3 · Sport",
+   "headline": "Thun und Lugano verlieren auswärts",
+   "source": "Quelle: SRF, NZZ",
+   "vo": "Der FC Thun hat in der Conference League bei Ajax Amsterdam null zu vier verloren. Der FC Lugano unterlag in Jablonec mit null zu zwei. Für Lugano ist es die erste Niederlage in diesem Wettbewerb. Mit neun Punkten bleibt das Team auf Kurs Richtung Achtelfinal."
+  }
+ ],
+ "title": "Erste Asyl-Rückführungen nach Italien, Schnee im Flachland, Niederlagen für Thun und Lugano",
+ "caption": "Nach fast vier Jahren Blockade schickt die Schweiz erstmals wieder Asylsuchende nach Italien zurück – vorerst nur Männer, theoretisch betrifft es 773 Personen. Am Donnerstag fiel Schnee bis ins Flachland, der Bund warnte vor glatten Strassen. In der Conference League verlor Thun 0:4 bei Ajax, Lugano 0:2 in Jablonec.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "asyl",
+  "conferenceleague"
+ ]
+}
