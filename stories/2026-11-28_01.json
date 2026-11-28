@@ -1,0 +1,69 @@
+{
+ "date": "2026-11-28",
+ "edition": "morgen",
+ "say": {
+  "Joel": "Joo-ell"
+ },
+ "scenes": [
+  {
+   "type": "recap",
+   "title": "Das Wichtigste seit gestern",
+   "items": [
+    {
+     "label": "Genf",
+     "text": "Kokain auf Rezept für Süchtige"
+    },
+    {
+     "label": "Politik",
+     "text": "Junge SVP schliesst Luzerner aus"
+    }
+   ],
+   "vo": "Das sind die wichtigsten Meldungen seit gestern Morgen. Genf will Crack-Abhängigen bald kontrolliert Kokain abgeben. Und die Junge SVP Schweiz schliesst zehn Luzerner Mitglieder aus."
+  },
+  {
+   "type": "place",
+   "label": "1 · Genf",
+   "place": "Genf",
+   "lat": 46.2044,
+   "lon": 6.1432,
+   "line": "Kanton Genf · Pilotprojekt ab 2027",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Der Kanton Genf plant ein Pilotprojekt, laut Medienberichten das erste weltweit. Schwer abhängige Crack-Konsumierende sollen ab 2027 Kokain auf Rezept erhalten."
+  },
+  {
+   "type": "statement",
+   "text": [
+    "Das Kokain wird unter Aufsicht inhaliert.",
+    "Die Teilnahme ist freiwillig.",
+    "Ziel: zurück ins Gesundheits|system."
+   ],
+   "vo": "Sie inhalieren es unter Aufsicht, mit einem Gerät ähnlich einer E-Zigarette. Die Teilnahme ist freiwillig. Ziel ist, die Betroffenen wieder ins Gesundheitssystem zu holen, sagt der Kanton."
+  },
+  {
+   "type": "headline",
+   "label": "2 · Politik",
+   "headline": "Junge SVP schliesst zehn Luzerner aus",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Die Junge SVP Schweiz hat zehn Mitglieder der Luzerner Sektion ausgeschlossen, darunter Kantonalpräsident Joel Bucher. Die Parteileitung spricht von einer gezielten Unterwanderung durch die Gruppe Junge Tat."
+  },
+  {
+   "type": "place",
+   "label": "2 · Politik",
+   "place": "Luzern",
+   "lat": 47.0502,
+   "lon": 8.3093,
+   "line": "Junge SVP · Versammlung am 1. Dezember",
+   "source": "Quelle: SRF, Keystone-SDA",
+   "vo": "Die Luzerner Sektion bestreitet das und lehnt die Ausschlüsse ab. Am ersten Dezember ist eine ausserordentliche Versammlung der Luzerner Sektion geplant."
+  }
+ ],
+ "title": "Genf plant Kokain auf Rezept für Crack-Süchtige, Junge SVP schliesst zehn Luzerner aus",
+ "caption": "Genf will ab 2027 in einem Pilotprojekt schwer Crack-Abhängigen kontrolliert Kokain abgeben – inhaliert unter Aufsicht, die Teilnahme ist freiwillig. Die Junge SVP Schweiz hat zehn Luzerner Mitglieder ausgeschlossen und begründet das mit einer Unterwanderung durch die Junge Tat; die Luzerner Sektion bestreitet das. Am 1. Dezember tagt die Sektion.",
+ "hashtags": [
+  "schweiz",
+  "news",
+  "swissnews",
+  "genf",
+  "jungesvp"
+ ]
+}
